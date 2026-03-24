@@ -1,0 +1,1729 @@
+[
+    {
+        "City": "Zoetermeer",
+        "Latitude": 52.0605,
+        "Longitude": 4.4941,
+        "Gigs": [
+            {
+                "Date": "2026-04-18",
+                "Venue": "Boerderij",
+                "Bands": [ "Hardline", "Sevi" ]
+            }
+        ]
+    },
+    {
+        "City": "Amsterdam",
+        "Latitude": 52.3676,
+        "Longitude": 4.9041,
+        "Gigs": [
+            {
+                "Date": "2026-06-10",
+                "Venue": "Ziggo Dome",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Iron Maiden" ]
+            },
+			{
+                "Date": "2026-05-10",
+                "Venue": "Ziggo Dome",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "asdfasdf" ]
+            },
+            {
+                "Date": "2026-06-18",
+                "Venue": "Ziggo Dome",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Guns N' Roses" ]
+            },
+            {
+                "Date": "2026-06-20",
+                "Venue": "Ziggo Dome",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Guns N' Roses" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "The Cave",
+                "Bands": [ "7 Steps of Denial", "Mutator", "Nafearya" ]
+            },
+            {
+                "Date": "2026-09-25",
+                "Venue": "The Cave",
+                "Bands": [ "Stormstress" ]
+            }
+        ]
+    },
+    {
+        "City": "Leiden",
+        "Latitude": 52.158,
+        "Longitude": 4.493,
+        "Gigs": [
+            {
+                "Date": "2026-03-14",
+                "Venue": "De Nobel",
+                "Genres": [ "Death Metal", "Heavy Metal" ],
+                "Bands": [ "Graceless", "Martyr", "Cyclone", "Grindpad" ]
+            },
+            {
+                "Date": "2026-03-20",
+                "Venue": "De Nobel",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Iron Laiden", "Maiden United" ]
+            },
+            {
+                "Date": "2026-03-26",
+                "Venue": "De Nobel",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Kataklysm", "Vader", "Blood Red Throne" ]
+            },
+            {
+                "Date": "2026-04-23",
+                "Venue": "De Nobel",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Masterplan" ]
+            },
+            {
+                "Date": "2026-10-16",
+                "Venue": "De Nobel",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Iron Laiden", "Damaged Justice", "Megadeath" ]
+            },
+            {
+                "Date": "2026-04-26",
+                "Venue": "Stadsgehoorzaal",
+				"Url": "https://nobel.nl/agenda/hypocrisy-26-apr-2026",
+				"ExtraInfo": "Zweedse deathmetal van wereldformaat, aangevoerd door metalvisionair Peter Tägtgren. Al ruim drie decennia weet Hypocrisy grenzen te verleggen met hun compromisloze sound en intense liveshows: melodieus en meedogenloos.",
+                "ImageSource": "https://nobel.nl/sites/default/files/styles/two_to_one/public/2025-10/Hypocrisy%202-1.png.webp?itok=02BOzEiI",
+				"Genres": [ "Death Metal", "Black Metal" ],
+                "Bands": [ "Hypocrisy", "Abbath", "Vomitory", "Vreid" ]
+            }
+        ]
+    },
+    {
+        "City": "Vlaardingen",
+        "Latitude": 51.91,
+        "Longitude": 4.34,
+        "Gigs": [
+        ]
+    },
+    {
+        "City": "Den Haag",
+        "Latitude": 52.078663,
+        "Longitude": 4.288788,
+        "Gigs": [
+            {
+                "Date": "2026-03-13",
+                "Venue": "Musicon",
+                "Bands": [ "Epinikion", "Abstracted Mind", "Attractive Chaos" ]
+            },
+            {
+                "Date": "2026-03-20",
+                "Venue": "Musicon",
+                "Bands": [ "Sabiendas", "Anomic", "Stigmatized" ]
+            },
+            {
+                "Date": "2026-05-02",
+                "Venue": "Musicon",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Graceless", "Slaughterday", "Maatkare", "Buried", "Rectum Stretchers", "Massive Assault", "Perianal Abscess" ]
+            },
+            {
+                "Date": "2026-03-23",
+                "Venue": "Musicon",
+                "Bands": [ "Ektomorf" ]
+            },
+            {
+                "Date": "2026-03-18",
+                "Venue": "Paard",
+                "Bands": [ "High Parasite" ]
+            },
+            {
+                "Date": "2026-03-22",
+                "Venue": "Paard",
+                "Bands": [ "Predatory Void" ]
+            },
+            {
+                "Date": "2026-06-05",
+                "Venue": "Paard",
+                "Bands": [ "DoodsesKader" ]
+            }
+        ]
+    },
+    {
+        "City": "Utrecht",
+        "Latitude": 52.0907,
+        "Longitude": 5.1214,
+        "Gigs": [
+            {
+                "Date": "2026-03-20",
+                "Venue": "Tivoli Vredenburg",
+                "Bands": [ "Ne Obliviscaris", "Arkaik" ]
+            },
+            {
+                "Date": "2026-04-15",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Insomnium" ]
+            },
+            {
+                "Date": "2026-05-02",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Dark Tranquillity", "Omnium Gatherum" ]
+            },
+            {
+                "Date": "2026-06-11",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [ "Black Metal", "Heavy Metal" ],
+                "Bands": [ "Enslaved", "Leprous" ]
+            },
+            {
+                "Date": "2026-04-05",
+                "Venue": "Tivoli De Helling",
+                "Bands": [ "Panopticon", "Sunken" ]
+            },
+            {
+                "Date": "2026-04-06",
+                "Venue": "Tivoli De Helling",
+                "Bands": [ "Hellripper", "Schizophrenia", "SARCATOR" ]
+            },
+            {
+                "Date": "2026-04-24",
+                "Venue": "Tivoli De Helling",
+                "Bands": [ "Iotunn", "In Vain", "Nephylym" ]
+            },
+            {
+                "Date": "2026-05-26",
+                "Venue": "Tivoli De Helling",
+                "Bands": [ "Paledusk", "Knosis", "Greyhaven", "Headwreck" ]
+            },
+            {
+                "Date": "2026-03-21",
+                "Venue": "dB’s Studio",
+                "Bands": [ "Axident", "Hallowed Fire", "Taskforce Toxicator", "Grindpad", "Oproerkraaiers" ]
+            },
+            {
+                "Date": "2026-04-02",
+                "Venue": "dB’s Studio",
+                "Bands": [ "Thy Catafalque", "Bong‑Ra" ]
+            },
+            {
+                "Date": "2026-04-03",
+                "Venue": "dB’s Studio",
+                "Bands": [ "Hexvessel", "Aluk Todolo" ]
+            },
+            {
+                "Date": "2026-04-07",
+                "Venue": "dB’s Studio",
+                "Bands": [ "Ashenspire", "Machukha" ]
+            },
+            {
+                "Date": "2026-05-14",
+                "Venue": "dB’s Studio",
+                "Bands": [ "Sons Of Node", "Jesco", "Bloodcrypt", "Spit for the Masses" ]
+            },
+            {
+                "Date": "2026-06-12",
+                "Venue": "dB’s Studio",
+                "Bands": [ "Neuk!" ]
+            },
+            {
+                "Date": "2026-07-22",
+                "Venue": "dB’s Studio",
+                "Genres": [ "Thrash Metal" ],
+                "Bands": [ "D.R.I." ]
+            }
+        ]
+    },
+    {
+        "City": "Zwolle",
+        "Latitude": 52.5168,
+        "Longitude": 6.0833,
+        "Gigs": [
+            {
+                "Date": "2026-03-21",
+                "Venue": "Hedon",
+                "Genres": [ "Thrash Metal" ],
+                "Bands": [ "Dead Head", "Burning", "Seven Thirty" ]
+            },
+            {
+                "Date": "2026-05-08",
+                "Venue": "Hedon",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Bizkit Park" ]
+            }
+        ]
+    },
+    {
+        "City": "Leeuwarden",
+        "Latitude": 53.2012,
+        "Longitude": 5.7999,
+        "Gigs": [
+            {
+                "Date": "2026-03-14",
+                "Venue": "Neushoorn",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Bölzer", "MISÞYRMING", "Vitriol", "Trepaneringsritualen" ]
+            },
+            {
+                "Date": "2026-06-12",
+                "Venue": "Leeuwarden",
+                "Bands": [ "Into the Grave" ]
+            },
+            {
+                "Date": "2026-06-13",
+                "Venue": "Leeuwarden",
+                "Bands": [ "Into the Grave" ]
+            },
+            {
+                "Date": "2026-06-14",
+                "Venue": "Leeuwarden",
+                "Bands": [ "Into the Grave" ]
+            },
+            {
+                "Date": "2026-04-10",
+                "Venue": "Neushoorn",
+                "Bands": [ "Moonloops x Deafened To Death" ]
+            },
+            {
+                "Date": "2026-11-06",
+                "Venue": "Neushoorn",
+                "Bands": [ "O.R.k", "Tetsuwan", "Ellende", "Karg", "Firtan" ]
+            }
+        ]
+    },
+    {
+        "City": "Tilburg",
+        "Latitude": 51.5555,
+        "Longitude": 5.0913,
+        "Gigs": [
+            {
+                "Date": "2026-03-17",
+                "Venue": "013",
+                "Bands": [ "Fit For A King", "Memphis May Fire", "Acres", "156/Silence" ]
+            },
+            {
+                "Date": "2026-04-16",
+                "Venue": "013",
+                "Bands": [ "Roadburn Festival" ]
+            },
+            {
+                "Date": "2026-05-11",
+                "Venue": "013",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Machine Head" ]
+            },
+            {
+                "Date": "2026-05-02",
+                "Venue": "Hall of Fame",
+                "Genres": [ "Death Metal" ],
+                "Bands": [
+                    "Necrotted",
+                    "Defamed",
+                    "Changing Tides",
+                    "Acranius",
+                    "Sun of The Suns",
+                    "Backhoe Loader",
+                    "Spawn of Disgust",
+                    "Braces",
+                    "S.P.I.T.",
+                    "Acidwound",
+                    "Gravery",
+                    "Menacer"
+                ]
+            },
+            {
+                "Date": "2026-08-12",
+                "Venue": "013",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Judas Priest" ]
+            },
+            {
+                "Date": "2026-03-19",
+                "Venue": "013",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Kanonenfieber" ]
+            },
+            {
+                "Date": "2026-04-04",
+                "Venue": "Little Devil",
+                "Genres": [ "Speed Metal" ],
+                "Bands": [ "Gama Bomb", "Lich King" ]
+            },
+            {
+                "Date": "2026-04-08",
+                "Venue": "Little Devil",
+                "Bands": [ "Witch Fever" ]
+            },
+            {
+                "Date": "2026-04-13",
+                "Venue": "Little Devil",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Exhumed", "Gruesome" ]
+            },
+            {
+                "Date": "2026-04-25",
+                "Venue": "Little Devil",
+                "Bands": [ "Wytch Hazel", "Phantom Spell" ]
+            },
+            {
+                "Date": "2026-05-03",
+                "Venue": "Little Devil",
+                "Bands": [ "Complaint", "Unite Against Society", "The Thirteenth Turn" ]
+            },
+            {
+                "Date": "2026-05-17",
+                "Venue": "Little Devil",
+                "Bands": [ "Conjurer" ]
+            },
+            {
+                "Date": "2026-05-09",
+                "Venue": "Little Devil",
+                "Bands": [ "The Lamp Of Thoth", "Lone Wanderer", "Metallus", "Iron Void", "Conviction" ]
+            }
+        ]
+    },
+    {
+        "City": "Eindhoven",
+        "Latitude": 51.4416,
+        "Longitude": 5.4697,
+        "Gigs": [
+            {
+                "Date": "2026-03-18",
+                "Venue": "Effenaar",
+                "Bands": [ "Zeke" ]
+            },
+            {
+                "Date": "2026-03-18",
+                "Venue": "Effenaar",
+                "Bands": [ "Feuerschwanz", "Miracle of Sound" ]
+            },
+            {
+                "Date": "2026-03-21",
+                "Venue": "Effenaar",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Cirith Gorgor", "Heinous", "Messor Falce" ]
+            },
+            {
+                "Date": "2026-03-22",
+                "Venue": "Effenaar",
+                "Genres": [ "Speed Metal" ],
+                "Bands": [ "Angus McSix", "Bloodbound", "Brainstorm" ]
+            },
+            {
+                "Date": "2026-04-03",
+                "Venue": "Effenaar",
+                "Bands": [ "Full of Hell", "The Body", "Jarhead Fertilizer", "JAD" ]
+            },
+            {
+                "Date": "2026-10-10",
+                "Venue": "Effenaar",
+                "Genres": [ "Metalcore" ],
+                "Bands": [ "The Devil Wears Prada" ]
+            },
+            {
+                "Date": "2026-12-11",
+                "Venue": "Effenaar",
+                "Genres": [ "Death Metal" ],
+                "Bands": [
+                    "Death Angel",
+                    "Flotsam and Jetsam",
+                    "Blood Fire Death",
+                    "Desaster",
+                    "Acrostichon",
+                    "Perchta",
+                    "At War",
+                    "Insurrection",
+                    "The Crown",
+                    "Schammasch",
+                    "Darvaza"
+                ]
+            },
+            {
+                "Date": "2026-03-27",
+                "Venue": "Dynamo",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Bodysnatcher", "Psycho‑Frame", "Ingested", "Big Ass Truck" ]
+            },
+            {
+                "Date": "2026-04-07",
+                "Venue": "Dynamo",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Veil of Darkness", "Asagraum", "Enisum", "Convictive", "Waldgeflüster" ]
+            },
+            {
+                "Date": "2026-04-09",
+                "Venue": "Dynamo",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "1914", "Katla" ]
+            },
+            {
+                "Date": "2026-08-10",
+                "Venue": "Dynamo",
+                "Genres": [ "Thrash Metal" ],
+                "Bands": [ "Municipal Waste", "Schizophrenia" ]
+            },
+            {
+                "Date": "2026-08-14",
+                "Venue": "IJssportcentrum",
+				"Title": "Dynamo Metalfest",
+                "Bands": [ "Dynamo MetalFest" ]
+            },
+            {
+                "Date": "2026-08-15",
+                "Venue": "IJssportcentrum",
+				"Title": "Dynamo Metalfest",
+                "Bands": [ "Dynamo MetalFest" ]
+            },
+            {
+                "Date": "2026-08-16",
+                "Venue": "IJssportcentrum",
+				"Title": "Dynamo Metalfest",
+                "Bands": [ "Dynamo MetalFest" ]
+            },
+            {
+                "Date": "2026-03-13",
+                "Venue": "Klokgebouw",
+				"Title": "Headbangers Parade",
+                "Bands": [ "Headbangers Parade 2026" ]
+            },
+            {
+                "Date": "2026-03-14",
+                "Venue": "Klokgebouw",
+				"Title": "Headbangers Parade",
+                "Bands": [ "Headbangers Parade 2026" ]
+            },
+            {
+                "Date": "2026-11-14",
+                "Venue": "Klokgebouw",
+				"Title": "Helldorado",
+                "Bands": [ "Helldorado 2026" ]
+            }
+        ]
+    },
+    {
+        "City": "Maastricht",
+        "Latitude": 50.8514,
+        "Longitude": 5.6900,
+        "Gigs": [
+            {
+                "Date": "2026-06-05",
+                "Venue": "Maastricht",
+				"Title": "South of Heaven",
+                "Bands": [ "South of Heaven Festival" ]
+            },
+            {
+                "Date": "2026-06-06",
+                "Venue": "Maastricht",
+				"Title": "South of Heaven",
+                "Bands": [ "South of Heaven Festival" ]
+            },
+            {
+                "Date": "2026-06-07",
+                "Venue": "Maastricht",
+				"Title": "South of Heaven",
+                "Bands": [ "South of Heaven Festival" ]
+            }
+        ]
+    },
+    {
+        "City": "Deventer",
+        "Latitude": 52.2559,
+        "Longitude": 6.1628,
+        "Gigs": [
+            {
+                "Date": "2026-03-08",
+                "Venue": "Burgerweeshuis Walhalla",
+                "Bands": [ "Prong" ]
+            }
+        ]
+    },
+    {
+        "City": "Alkmaar",
+        "Latitude": 52.6350,
+        "Longitude": 4.7520,
+        "Gigs": [
+            {
+                "Date": "2026-05-14",
+                "Venue": "HAL 25",
+                "Genres": [ "Death Metal", "Goregrind" ],
+				"Title": "Hemelvaartse Herrie",
+                "Bands": [ "Cytotoxin", "Opal in Sky", "Brutal Sphincter", ".357 Homicide", "Mourning High", "Insurrection" ]
+            },
+            {
+                "Date": "2026-05-15",
+                "Venue": "HAL 25",
+                "Genres": [ "Death Metal" ],
+				"Title": "Hemelvaartse Herrie",
+                "Bands": [ "Pro‑Pain", "Waking the Cadaver", "Stillbirth", "Still in Love", "9 Dead" ]
+            },
+            {
+                "Date": "2026-08-29",
+                "Venue": "HAL 25",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Internal Bleeding", "Slowly Rotten", "Pulverized", "Fatuous Rump", "Emasculated Vituperation" ]
+            },
+            {
+                "Date": "2026-03-20",
+                "Venue": "Victorie",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Benighted", "XII Thorns", "Bloid" ]
+            }
+        ]
+    },
+    {
+        "City": "Steenwijk",
+        "Latitude": 52.79,
+        "Longitude": 6.12,
+        "Gigs": [
+            {
+                "Date": "2026-07-25",
+                "Venue": "Stonehenge",
+                "Genres": [ "Death Metal" ],
+				"Title": "Stonehenge",
+                "Bands": [ "Stonehenge 2026" ]
+            }
+        ]
+    },
+    {
+        "City": "Vierlingsbeek",
+        "Latitude": 51.5833,
+        "Longitude": 5.9667,
+        "Gigs": [
+        ]
+    },
+    {
+        "City": "Nijmegen",
+        "Latitude": 51.8425,
+        "Longitude": 5.85278,
+        "Gigs": [
+            {
+                "Date": "2026-03-20",
+                "Venue": "Doornroosje",
+                "Bands": [ "Psychonaut" ]
+            },
+            {
+                "Date": "2026-04-04",
+                "Venue": "Doornroosje",
+                "Bands": [ "Infected Rain", "Butcher Babies", "Black Spikes" ]
+            },
+            {
+                "Date": "2026-10-09",
+                "Venue": "Doornroosje",
+                "Bands": [ "Soulcrusher Festival" ]
+            },
+            {
+                "Date": "2026-10-10",
+                "Venue": "Doornroosje",
+                "Bands": [ "Soulcrusher Festival" ]
+            },
+            {
+                "Date": "2026-04-03",
+                "Venue": "Merleyn",
+                "Bands": [ "Elephant Tree" ]
+            }
+        ]
+    },
+    {
+        "City": "Delft",
+        "Latitude": 51.996,
+        "Longitude": 4.379,
+        "Gigs": [
+        ]
+    },
+    {
+        "City": "Rotterdam",
+        "Latitude": 51.926517,
+        "Longitude": 4.462456,
+        "Gigs": [
+            {
+                "Date": "2026-04-05",
+                "Venue": "Baroeg",
+                "Bands": [ "Hulder", "Ontaard", "Headless Hunter", "Akelei", "Manica", "Savage Beat" ]
+            },
+            {
+                "Date": "2026-09-11",
+                "Venue": "Zuiderpark",
+				"Title": "Baroeg Open Air",
+                "Bands": [ "Baroeg Open Air 2026" ]
+            },
+            {
+                "Date": "2026-09-12",
+                "Venue": "Zuiderpark",
+				"Title": "Baroeg Open Air",
+                "Bands": [ "Baroeg Open Air 2026" ]
+            }
+        ]
+    },
+    {
+        "City": "Barendrecht",
+        "Latitude": 51.85667,
+        "Longitude": 4.53472,
+        "Gigs": [
+            {
+                "Date": "2026-03-21",
+                "Venue": "De Beuk",
+                "Bands": [ "The Infamous Nameless", "BIGMOTH", "Unchained" ]
+            }
+        ]
+    },
+    {
+        "City": "Amstelveen",
+        "Latitude": 52.30,
+        "Longitude": 4.856463,
+        "Gigs": [
+            {
+                "Date": "2026-03-21",
+                "Venue": "P60",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Gorgoroth", "Patristic", "Tyrmfar", "Lömsk" ]
+            },
+            {
+                "Date": "2026-04-18",
+                "Venue": "P60",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Feuerengel" ]
+            },
+            {
+                "Date": "2026-05-14",
+                "Venue": "P60",
+                "Bands": [ "Risky Melody", "Maki Oyama" ]
+            },
+            {
+                "Date": "2026-09-04",
+                "Venue": "P60",
+                "Bands": [ "Helstar", "Iron Savior", "Angelic Forces" ]
+            },
+            {
+                "Date": "2026-09-05",
+                "Venue": "P60",
+                "Bands": [ "Firewind", "Torch", "Wicked Angel", "SteeLover", "Tröjan" ]
+            }
+        ]
+    },
+    {
+        "City": "Haarlem",
+        "Latitude": 52.387386,
+        "Longitude": 4.646219,
+        "Gigs": [
+            {
+                "Date": "2026-03-15",
+                "Venue": "Patronaat",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Bölzer", "MISÞYRMING", "Vitriol", "Trepaneringsritualen" ]
+            },
+            {
+                "Date": "2026-03-13",
+                "Venue": "Patronaat",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Batushka" ]
+            },
+            {
+                "Date": "2026-04-03",
+                "Venue": "Patronaat",
+                "Bands": [ "The Browning", "Stain the Canvas", "The Defect", "Heaven.exe" ]
+            },
+            {
+                "Date": "2026-04-04",
+                "Venue": "Patronaat",
+                "Bands": [ "Wheel", "Stoned Jesus" ]
+            },
+            {
+                "Date": "2026-06-18",
+                "Venue": "Patronaat",
+                "Bands": [ "Kylesa" ]
+            }
+        ]
+    },
+    {
+        "City": "Arnhem",
+        "Latitude": 51.98499,
+        "Longitude": 5.90511,
+        "Gigs": [
+            {
+                "Date": "2026-03-14",
+                "Venue": "Willemeen",
+                "Bands": [ "Heretix", "Salvage", "Backhoe Loader", "Reformist", "XII Thorns", "Deeproot", "Braces", "Torn From Oblivion" ]
+            },
+            {
+                "Date": "2026-03-27",
+                "Venue": "Willemeen",
+                "Bands": [ "Metal Battle NL 2026 Halve Finale" ]
+            },
+            {
+                "Date": "2026-03-29",
+                "Venue": "Willemeen",
+                "Genres": [ "Speed Metal" ],
+                "Bands": [ "Gama Bomb", "Lich King", "Velozza", "Headless Hunter", "Hateful Agony" ]
+            },
+            {
+                "Date": "2026-04-11",
+                "Venue": "Willemeen",
+                "Bands": [ "Smyrna Death Fest" ]
+            },
+            {
+                "Date": "2026-04-17",
+                "Venue": "Willemeen",
+                "Bands": [ "Bezwering", "SPERE", "Grabunhold" ]
+            },
+            {
+                "Date": "2026-05-09",
+                "Venue": "Willemeen",
+                "Bands": [ "Diabolical Echoes pt. VIII" ]
+            }
+        ]
+    },
+    {
+        "City": "Groningen",
+        "Latitude": 53.2194,
+        "Longitude": 6.5665,
+        "Gigs": [
+            {
+                "Date": "2026-02-05",
+                "Venue": "SPOT / De Oosterpoort",
+                "Genres": [ "Black Metal", "Death Metal" ],
+                "Bands": [ "Mayhem", "Marduk", "Immolation" ]
+            },
+            {
+                "Date": "2026-02-14",
+                "Venue": "Vera",
+                "Bands": [ "Sad Whisperings", "Cryptosis" ]
+            },
+            {
+                "Date": "2026-02-26",
+                "Venue": "Vera",
+                "Bands": [ "Terzij de Horde" ]
+            },
+            {
+                "Date": "2026-02-27",
+                "Venue": "De Walrus",
+                "Bands": [ "Outlaw", "Ultima Decat", "Antzaker" ]
+            },
+            {
+                "Date": "2026-03-06",
+                "Venue": "Vera",
+                "Bands": [ "Fleddy Melculy", "Rotzak" ]
+            },
+            {
+                "Date": "2026-03-06",
+                "Venue": "De Walrus",
+                "Bands": [ "Mean Mistreater", "Animalize" ]
+            },
+            {
+                "Date": "2026-03-19",
+                "Venue": "Vera",
+                "Bands": [ "Psychonaut" ]
+            },
+            {
+                "Date": "2026-04-25",
+                "Venue": "De Walrus",
+                "Bands": [ "Pentacle", "Deadspeak", "Insineratehymn" ]
+            },
+            {
+                "Date": "2026-05-01",
+                "Venue": "Vera",
+                "Bands": [ "Author & Punisher", "FANGE" ]
+            },
+            {
+                "Date": "2026-05-14",
+                "Venue": "Vera",
+                "Bands": [ "Glacier", "Throwing Bricks", "Farer" ]
+            },
+            {
+                "Date": "2026-06-26",
+                "Venue": "Vera",
+                "Bands": [ "WALG" ]
+            }
+        ]
+    },
+    {
+        "City": "Winschoten",
+        "Latitude": 53.1440,
+        "Longitude": 7.0346,
+        "Gigs": [
+            {
+                "Date": "2026-03-07",
+                "Venue": "Carambole",
+                "Bands": [ "Facing the Madness", "Black Fuse", "Nagusame" ]
+            },
+            {
+                "Date": "2026-05-30",
+                "Venue": "Carambole",
+                "Bands": [ "Sodom Metal Night 34!" ]
+            },
+            {
+                "Date": "2026-09-19",
+                "Venue": "Carambole",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Killer", "Burning" ]
+            }
+        ]
+    },
+    {
+        "City": "Almelo",
+        "Latitude": 52.3568,
+        "Longitude": 6.6629,
+        "Gigs": [
+            {
+                "Date": "2026-02-27",
+                "Venue": "Metropool",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Omnium Gatherum", "Fallujah", "In Mourning" ]
+            }
+        ]
+    },
+    {
+        "City": "Hardenberg",
+        "Latitude": 52.5717,
+        "Longitude": 6.6240,
+        "Gigs": [
+            {
+                "Date": "2026-04-25",
+                "Venue": "Muziekboerderij Baalder",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Kings of Death Metal Fest 2026" ]
+            }
+        ]
+    },
+    {
+        "City": "Ommen",
+        "Latitude": 52.5211,
+        "Longitude": 6.3406,
+        "Gigs": [
+            {
+                "Date": "2026-02-14",
+                "Venue": "Café Calluna",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Raise Your Horns (Metallica covers)" ]
+            },
+            {
+                "Date": "2026-05-02",
+                "Venue": "Café Calluna",
+                "Bands": [ "Calluna MetalFest 2026" ]
+            },
+            {
+                "Date": "2026-05-17",
+                "Venue": "Café Calluna",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Raven – NWOHBM Legends" ]
+            },
+            {
+                "Date": "2026-07-04",
+                "Venue": "Café Calluna",
+                "Genres": [ "Thrash Metal" ],
+                "Bands": [ "Slayer + Megadeth Tribute" ]
+            }
+        ]
+    },
+    {
+        "City": "Harderwijk",
+        "Latitude": 52.3412,
+        "Longitude": 5.6240,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Estrado",
+                "Bands": [ "Novelization", "Obscure Reality", "Serotonin", "Woen" ]
+            }
+        ]
+    },
+    {
+        "City": "Dordrecht",
+        "Latitude": 51.8133,
+        "Longitude": 4.6908,
+        "Gigs": [
+            {
+                "Date": "2026-02-06",
+                "Venue": "Popcentrale",
+                "Bands": [ "Dordtcore" ]
+            },
+            {
+                "Date": "2026-02-27",
+                "Venue": "Popcentrale",
+                "Bands": [ "Almost Ready", "Steekpartij", "The Benzos" ]
+            },
+            {
+                "Date": "2026-03-21",
+                "Venue": "Popcentrale",
+                "Bands": [ "Caution", "ScoobySnacks", "Von Mollestein" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "Popcentrale",
+                "Bands": [ "Arluna", "Redikin" ]
+            },
+            {
+                "Date": "2026-02-21",
+                "Venue": "Bibelot",
+                "Bands": [ "Dordrecht Metal Fest #10" ]
+            },
+            {
+                "Date": "2026-03-07",
+                "Venue": "Bibelot",
+                "Bands": [ "Epinikion", "Abstracted Mind" ]
+            },
+            {
+                "Date": "2026-03-20",
+                "Venue": "Bibelot",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "OZZYfied", "Nymue" ]
+            },
+            {
+                "Date": "2026-05-01",
+                "Venue": "Bibelot",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Up The Irons" ]
+            }
+        ]
+    },
+    {
+        "City": "Breda",
+        "Latitude": 51.5719,
+        "Longitude": 4.7683,
+        "Gigs": [
+            {
+                "Date": "2026-02-06",
+                "Venue": "Sound Dog",
+                "Bands": [ "Epinikion", "Abstracted Mind" ]
+            },
+            {
+                "Date": "2026-02-20",
+                "Venue": "Mezz",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Meatallica", "Slash N' Roses", "Rage Against The System tribute", "Black Sabbath tribute" ]
+            },
+            {
+                "Date": "2026-02-26",
+                "Venue": "Mezz",
+                "Bands": [ "Fleddy Melculy", "Rotzak" ]
+            },
+            {
+                "Date": "2026-03-24",
+                "Venue": "Sound Dog",
+                "Bands": [ "HYENA", "Neck Cemetary" ]
+            },
+            {
+                "Date": "2026-04-01",
+                "Venue": "Mezz",
+                "Bands": [ "MagnaCult", "TerraDown" ]
+            },
+            {
+                "Date": "2026-04-03",
+                "Venue": "Sound Dog",
+                "Bands": [ "UnderWaves" ]
+            },
+            {
+                "Date": "2026-04-05",
+                "Venue": "Sound Dog",
+                "Bands": [ "Marianas Rest", "Wooden Veins" ]
+            },
+            {
+                "Date": "2026-05-24",
+                "Venue": "Sound Dog",
+                "Genres": [ "Speed Metal" ],
+                "Bands": [ "Hirax" ]
+            }
+        ]
+    },
+    {
+        "City": "Gouda",
+        "Latitude": 52.0116,
+        "Longitude": 4.7108,
+        "Gigs": [
+            {
+                "Date": "2026-03-21",
+                "Venue": "Studio Gonz",
+                "Bands": [ "Black Widow The Band", "Plankenkoorts" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "Studio Gonz",
+                "Bands": [ "Acid Attack", "Resest", "Temporicide" ]
+            },
+            {
+                "Date": "2026-05-23",
+                "Venue": "Studio Gonz",
+                "Bands": [ "Hvalross" ]
+            },
+            {
+                "Date": "2026-05-28",
+                "Venue": "Studio Gonz",
+                "Bands": [ "Acid Attack", "One‑Eyed Wizard", "Hvalross" ]
+            },
+            {
+                "Date": "2026-05-08",
+                "Venue": "So What!",
+                "Bands": [ "." ]
+            }
+        ]
+    },
+    {
+        "City": "Drachten",
+        "Latitude": 53.1180,
+        "Longitude": 6.1017,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Iduna",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Unleashed", "Messiah", "BAEST", "Birdflesh", "Pentacle", "Acrostichon", "Mercyless", "My Minds Mine", "Condolence", "From The Crypt", "For Victory" ]
+            },
+            {
+                "Date": "2026-02-14",
+                "Venue": "Iduna",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Ronnie James Dio - The Memorial Concert" ]
+            },
+            {
+                "Date": "2026-02-21",
+                "Venue": "Iduna",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Napalm Death", "Whiplash", "Varukers", "Dopelord" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "Iduna",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Ruïm", "Asagraum", "Helleruin", "Gnaw Their Tongues" ]
+            },
+            {
+                "Date": "2026-04-02",
+                "Venue": "Iduna",
+                "Bands": [ "TerraDown", "Magnacult", "AnonemiA" ]
+            },
+            {
+                "Date": "2026-05-22",
+                "Venue": "Iduna",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "H.O.L.M.E.S - The Sound of W.A.S.P", "Thunderor", "Lovell's Blade" ]
+            },
+            {
+                "Date": "2026-09-09",
+                "Venue": "Iduna",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Mork", "Soulburn", "Arroganz" ]
+            }
+        ]
+    },
+    {
+        "City": "Papendrecht",
+        "Latitude": 51.8317,
+        "Longitude": 4.6875,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Café De Trap Af",
+                "Genres": [ "Goregrind" ],
+                "Bands": [ "Bluewaffle Sauerkraut", "Rectum Stretchers", "Colostomy" ]
+            }
+        ]
+    },
+    {
+        "City": "Albergen",
+        "Latitude": 52.3843,
+        "Longitude": 6.7019,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Morshuis",
+                "Bands": [ "Written in blood", "Vidarr", "Indrid cold", "Mismorium" ]
+            }
+        ]
+    },
+    {
+        "City": "Roermond",
+        "Latitude": 51.1920,
+        "Longitude": 6.0053,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "ECI Cultuurfabriek",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "The Hunting Party", "Dad Vibes" ]
+            },
+            {
+                "Date": "2026-03-29",
+                "Venue": "Weerstand Roermond",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Meatallica" ]
+            }
+        ]
+    },
+    {
+        "City": "Venlo",
+        "Latitude": 51.3704,
+        "Longitude": 6.1722,
+        "Gigs": [
+            {
+                "Date": "2026-03-13",
+                "Venue": "Grenswerk",
+                "Bands": [ "Sugar Spine", "Endeavour" ]
+            },
+            {
+                "Date": "2026-06-12",
+                "Venue": "Grenswerk",
+                "Genres": [ "Punk" ],
+                "Bands": [ "Cro‑Mags" ]
+            },
+            {
+                "Date": "2026-06-17",
+                "Venue": "Grenswerk",
+                "Genres": [ "Punk" ],
+                "Bands": [ "The Exploited" ]
+            },
+            {
+                "Date": "2026-05-22",
+                "Venue": "Grenswerk",
+                "Bands": [ "Concubine", "Gazzoleen" ]
+            }
+        ]
+    },
+    {
+        "City": "Emmeloord",
+        "Latitude": 52.7065,
+        "Longitude": 5.7604,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Jongeren Centrum De Klos",
+                "Bands": [ "Sounds From The Underground 2" ]
+            }
+        ]
+    },
+    {
+        "City": "Sliedrecht",
+        "Latitude": 51.8249,
+        "Longitude": 4.7732,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Elektra",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Snaggletoöth" ]
+            },
+            {
+                "Date": "2026-04-18",
+                "Venue": "Elektra",
+                "Bands": [ "Hvalross" ]
+            }
+        ]
+    },
+    {
+        "City": "Heerlen",
+        "Latitude": 50.8882,
+        "Longitude": 5.9799,
+        "Gigs": [
+            {
+                "Date": "2026-02-08",
+                "Venue": "Nieuwe Nor",
+                "Bands": [ "Burning Witches", "Hammer King" ]
+            },
+            {
+                "Date": "2026-02-21",
+                "Venue": "Nieuwe Nor",
+                "Bands": [ "Ammo", "Cellarpigs", "Cocytus", "Reverse the Flow" ]
+            },
+            {
+                "Date": "2026-02-28",
+                "Venue": "Nieuwe Nor",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Bizkit Park" ]
+            },
+            {
+                "Date": "2026-03-24",
+                "Venue": "Nieuwe Nor",
+                "Bands": [ "Gridiron" ]
+            },
+            {
+                "Date": "2026-05-14",
+                "Venue": "Nieuwe Nor",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Raven", "Lord Vulture" ]
+            },
+            {
+                "Date": "2026-02-26",
+                "Venue": "PLT - Theater Heerlen",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Michael Schenker Group" ]
+            }
+        ]
+    },
+    {
+        "City": "Sittard",
+        "Latitude": 51.0007,
+        "Longitude": 5.8664,
+        "Gigs": [
+            {
+                "Date": "2026-04-11",
+                "Venue": "Volt",
+                "Bands": [ "IOTUNN", "In Vain", "Nephylim" ]
+            },
+            {
+                "Date": "2026-04-25",
+                "Venue": "Volt",
+                "Bands": [ "Kiss Forever", "Hemelbestormer", "The Fifth Alliance" ]
+            },
+            {
+                "Date": "2026-05-22",
+                "Venue": "Volt",
+                "Bands": [ "Hemelbestormer", "The Fifth Alliance" ]
+            }
+        ]
+    },
+    {
+        "City": "Hoogeveen",
+        "Latitude": 52.7267,
+        "Longitude": 6.4789,
+        "Gigs": [
+            {
+                "Date": "2026-02-12",
+                "Venue": "Het Podium",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Disharmonic Orchestra", "Massive Assault" ]
+            },
+            {
+                "Date": "2026-02-14",
+                "Venue": "Het Podium",
+                "Bands": [ "Mouldwarp", "New Dawn Fades", "Ophæra", "Semper Fi" ]
+            },
+            {
+                "Date": "2026-04-25",
+                "Venue": "Het Podium",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Masterplan" ]
+            },
+            {
+                "Date": "2026-05-09",
+                "Venue": "Het Podium",
+                "Genres": [ "Thrash Metal" ],
+                "Bands": [ "Cryptosis", "Overruled", "Bad Standing" ]
+            }
+        ]
+    },
+    {
+        "City": "Gemert",
+        "Latitude": 51.5155,
+        "Longitude": 5.6994,
+        "Gigs": [
+            {
+                "Date": "2026-02-13",
+                "Venue": "De Bunker",
+                "Bands": [ "Grid", "Necrotesque", "Burial" ]
+            },
+            {
+                "Date": "2026-02-28",
+                "Venue": "Time Out Uitgaanscentrum",
+                "Bands": [ "Tha Watcher", "The Straikerz", "Kruelty" ]
+            }
+        ]
+    },
+    {
+        "City": "Lelystad",
+        "Latitude": 52.5168,
+        "Longitude": 5.4788,
+        "Gigs": [
+            {
+                "Date": "2026-02-07",
+                "Venue": "Corneel",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Up The Irons" ]
+            },
+            {
+                "Date": "2026-03-21",
+                "Venue": "Corneel",
+                "Bands": [ "Opium Deathsticks", "Plusminus", "IIVORY" ]
+            },
+            {
+                "Date": "2026-07-03",
+                "Venue": "Corneel",
+                "Bands": [ "Between The Rats & Snakes", "Ann My Dice", "Sledeon", "Scenyte" ]
+            }
+        ]
+    },
+    {
+        "City": "Apeldoorn",
+        "Latitude": 52.2215,
+        "Longitude": 5.9699,
+        "Gigs": [
+            {
+                "Date": "2026-02-14",
+                "Venue": "Gigant",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Ereb Altor", "Skyforger", "Vansind", "Belore", "Wolfchant", "Shagor" ]
+            },
+            {
+                "Date": "2026-02-20",
+                "Venue": "Gigant",
+                "Bands": [ "Artificial", "3 Eyed Kids" ]
+            },
+            {
+                "Date": "2026-02-26",
+                "Venue": "Gigant",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Batushka" ]
+            },
+            {
+                "Date": "2026-04-03",
+                "Venue": "Gigant",
+                "Bands": [ "Predatory Void", "Ter Ziele" ]
+            },
+            {
+                "Date": "2026-08-08",
+                "Venue": "Bluescafe Apeldoorn",
+                "Bands": [ "Dangerous Times for the Dead" ]
+            },
+			{
+                "Date": "2026-11-06",
+                "Venue": "Gigant",
+                "Bands": [ "Roy Khan", "Sirenia", "Wytch Hazel" ]
+            },
+            {
+                "Date": "2026-11-07",
+                "Venue": "Gigant",
+                "Bands": [ "Roy Khan", "Sirenia", "Wytch Hazel" ]
+            }
+        ]
+    },
+    {
+        "City": "Ede",
+        "Latitude": 52.0259,
+        "Longitude": 5.6640,
+        "Gigs": [
+            {
+                "Date": "2026-02-14",
+                "Venue": "Astrant",
+                "Bands": [ "Wyatt E.", "Hemelbestormer" ]
+            },
+            {
+                "Date": "2026-02-28",
+                "Venue": "Astrant",
+                "Bands": [ "Invunche", "Ch’Ahom" ]
+            },
+            {
+                "Date": "2026-03-14",
+                "Venue": "Astrant",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Bloody Sabbath" ]
+            },
+            {
+                "Date": "2026-03-21",
+                "Venue": "Astrant",
+                "Bands": [ "Torn From Oblivian", "DeepRoot", "A Knight Under Maria’s Altar", "Out of the Blue", "Sapphyr", "Heretix", "Discarted", "Scorn", "Canyon Literature" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "Astrant",
+                "Bands": [ "Pene Corrida" ]
+            },
+            {
+                "Date": "2026-04-11",
+                "Venue": "Astrant",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Brammstein" ]
+            },
+            {
+                "Date": "2026-09-11",
+                "Venue": "Astrant",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Meatallica" ]
+            }
+        ]
+    },
+    {
+        "City": "Weert",
+        "Latitude": 51.2426,
+        "Longitude": 5.7047,
+        "Gigs": [
+            {
+                "Date": "2026-02-19",
+                "Venue": "De Bosuil",
+                "Bands": [ "Mantah" ]
+            },
+            {
+                "Date": "2026-03-19",
+                "Venue": "De Bosuil",
+                "Bands": [ "Les Projets d'Athena" ]
+            },
+            {
+                "Date": "2026-03-08",
+                "Venue": "De Bosuil",
+                "Bands": [ "Axe‑Travaganza" ]
+            },
+            {
+                "Date": "2026-07-10",
+                "Venue": "Evenemententerrein",
+                "Bands": [ "Bospop Festival" ]
+            }
+        ]
+    },
+    {
+        "City": "Wormerveer",
+        "Latitude": 52.4780,
+        "Longitude": 4.8285,
+        "Gigs": [
+            {
+                "Date": "2026-02-21",
+                "Venue": "De Groote Weiver",
+                "Bands": [ "Born from Pain", "Lies!", "Gallamesh", "Howlett" ]
+            },
+            {
+                "Date": "2026-03-14",
+                "Venue": "De Groote Weiver",
+                "Bands": [ "The Metal Jam – Sounds of Doom!" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "De Groote Weiver",
+                "Bands": [ "Braces", "Deeproot" ]
+            },
+            {
+                "Date": "2026-04-04",
+                "Venue": "De Groote Weiver",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Damnation", "Death Möth", "Gutshlasher" ]
+            },
+            {
+                "Date": "2026-09-26",
+                "Venue": "De Groote Weiver",
+                "Bands": [ "Arising Rebellion", "Disquiet" ]
+            }
+        ]
+    },
+    {
+        "City": "Enschede",
+        "Latitude": 52.2215,
+        "Longitude": 6.8937,
+        "Gigs": [
+            {
+                "Date": "2026-03-13",
+                "Venue": "Metropool",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Leaves' Eyes" ]
+            },
+            {
+                "Date": "2026-04-24",
+                "Venue": "Metropool",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Bizkit Park" ]
+            }
+        ]
+    },
+    {
+        "City": "Ysselsteyn",
+        "Latitude": 51.4990,
+        "Longitude": 5.9795,
+        "Gigs": [
+            {
+                "Date": "2026-06-25",
+                "Venue": "Jera On Air",
+                "Genres": [ "Metalcore" ],
+                "Bands": [ "Architects", "Trivium", "Periphery", "Harm's Way", "Imminence", "Papa Roach", "Rise Against" ]
+            },
+            {
+                "Date": "2026-06-26",
+                "Venue": "Jera On Air",
+                "Genres": [ "Metalcore" ],
+                "Bands": [ "A Day To Remember", "Hollywood Undead", "Malevolence", "Gridiron" ]
+            },
+            {
+                "Date": "2026-06-27",
+                "Venue": "Jera On Air",
+                "Genres": [ "Metalcore" ],
+                "Bands": [ "Desolated", "Distant", "Get The Shot", "Hatebreed" ]
+            }
+        ]
+    },
+    {
+        "City": "Hengelo",
+        "Latitude": 52.2658,
+        "Longitude": 6.7895,
+        "Gigs": [
+            {
+                "Date": "2026-03-07",
+                "Venue": "Metropool",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Blizzard of Ozz", "Purple Strangers", "Van Hagar", "High Voltage", "Present Danger" ]
+            },
+            {
+                "Date": "2026-03-15",
+                "Venue": "Innocent",
+                "Bands": [ "Bas Rotten", "Scum Cop", "NN17", "TBC" ]
+            },
+            {
+                "Date": "2026-04-04",
+                "Venue": "Innocent",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "An Evening With Knifes", "Massive Assault", "Carnosus", "Deadly Alliance", "Tenuem", "Storm Upon The Masses", "Underdark" ]
+            },
+            {
+                "Date": "2026-05-03",
+                "Venue": "Innocent",
+                "Bands": [ "Metal On Wheels" ]
+            },
+            {
+                "Date": "2026-09-18",
+                "Venue": "Metropool",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Dad Vibes", "Psychosocial", "The Hunting Party" ]
+            }
+        ]
+    },
+    {
+        "City": "Goes",
+        "Latitude": 51.5043,
+        "Longitude": 3.8916,
+        "Gigs": [
+            {
+                "Date": "2026-02-13",
+                "Venue": "'t Beest",
+                "Genres": [ "Nu Metal" ],
+                "Bands": [ "Bizkit Park" ]
+            },
+            {
+                "Date": "2026-02-28",
+                "Venue": "'t Beest",
+                "Genres": [ "Black Metal" ],
+                "Bands": [ "Batushka" ]
+            },
+            {
+                "Date": "2026-09-26",
+                "Venue": "'t Beest",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Up The Irons" ]
+            }
+        ]
+    },
+    {
+        "City": "Wateringen",
+        "Latitude": 52.0261,
+        "Longitude": 4.2779,
+        "Gigs": [
+            {
+                "Date": "2026-02-28",
+                "Venue": "WPC Nederland Drie",
+                "Bands": [ "Redikin", "Ylisia" ]
+            },
+            {
+                "Date": "2026-03-13",
+                "Venue": "WPC Nederland Drie",
+                "Genres": [ "Speed Metal" ],
+                "Bands": [ "Razorblade Messiah", "Faint Solace" ]
+            },
+            {
+                "Date": "2026-04-17",
+                "Venue": "WPC Nederland Drie",
+                "Bands": [ "Down with the System", "Dr. Teringherrie" ]
+            },
+            {
+                "Date": "2026-05-23",
+                "Venue": "WPC Nederland Drie",
+                "Genres": [ "Thrash Metal" ],
+                "Bands": [ "Sad But Tribute", "Slayer Cover Band", "After Echoes" ]
+            },
+            {
+                "Date": "2026-08-07",
+                "Venue": "Hofpark / Waterpop Festival",
+                "Bands": [ "Hofpark / Waterpop Festival" ]
+            },
+            {
+                "Date": "2026-08-08",
+                "Venue": "Hofpark / Waterpop Festival",
+                "Bands": [ "Hofpark / Waterpop Festival" ]
+            }
+        ]
+    },
+    {
+        "City": "Balk",
+        "Latitude": 52.9973,
+        "Longitude": 5.5065,
+        "Gigs": [
+            {
+                "Date": "2026-01-10",
+                "Venue": "Spider",
+                "Bands": [ "Guardians Of Asgaard", "Ilmarinen" ]
+            },
+            {
+                "Date": "2026-02-28",
+                "Venue": "Spider",
+                "Genres": [ "Speed Metal" ],
+                "Bands": [ "Razorblade Messiah", "Velozza", "Severe Mania", "Xxploder" ]
+            }
+        ]
+    },
+    {
+        "City": "Assen",
+        "Latitude": 52.9928,
+        "Longitude": 6.5643,
+        "Gigs": [
+            {
+                "Date": "2026-02-28",
+                "Venue": "De Dependance",
+                "Genres": [ "Death Metal" ],
+                "Bands": [ "Rotten Remains", "Overruled", "Icons of Brutality" ]
+            }
+        ]
+    },
+    {
+        "City": "Heerhugowaard",
+        "Latitude": 52.6629,
+        "Longitude": 4.8286,
+        "Gigs": [
+            {
+                "Date": "2026-03-07",
+                "Venue": "JC Kompleks",
+                "Bands": [ "BeukFest XVIII" ]
+            },
+            {
+                "Date": "2026-03-28",
+                "Venue": "JC Kompleks",
+                "Bands": [ "Steenkoud", "Weerwolf", "Red Velvet" ]
+            },
+            {
+                "Date": "2026-04-18",
+                "Venue": "JC Kompleks",
+                "Bands": [ "The Wildfires", "Rabauw", "Liquid Desert", "Glitz" ]
+            },
+            {
+                "Date": "2026-05-09",
+                "Venue": "JC Kompleks",
+                "Bands": [ "Extreme Metal Mayhem #2" ]
+            }
+        ]
+    },
+    {
+        "City": "Den Helder",
+        "Latitude": 52.9583,
+        "Longitude": 4.7683,
+        "Gigs": [
+            {
+                "Date": "2026-03-20",
+                "Venue": "De Kampanje",
+                "Bands": [ "ACinDC" ]
+            }
+        ]
+    },
+    {
+        "City": "Zaanstad",
+        "Latitude": 52.4478,
+        "Longitude": 4.8265,
+        "Gigs": [
+            {
+                "Date": "2026-02-21",
+                "Venue": "De FLUX",
+                "Bands": [ "The Metal Jam" ]
+            }
+        ]
+    },
+    {
+        "City": "Almere",
+        "Latitude": 52.3507849,
+        "Longitude": 5.2647016,
+        "Gigs": [
+            {
+                "Date": "2026-02-02",
+                "Venue": "De Meester",
+                "Genres": [ "Heavy Metal" ],
+                "Bands": [ "Spartan Warrior", "Toranaga", "Wildeboer" ]
+            }
+        ]
+    }
+]
