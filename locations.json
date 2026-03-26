@@ -88,7 +88,8 @@
 				"ExtraInfo": "Zweedse deathmetal van wereldformaat, aangevoerd door metalvisionair Peter Tägtgren. Al ruim drie decennia weet Hypocrisy grenzen te verleggen met hun compromisloze sound en intense liveshows: melodieus en meedogenloos.",
                 "ImageSource": "https://nobel.nl/sites/default/files/styles/two_to_one/public/2025-10/Hypocrisy%202-1.png.webp?itok=02BOzEiI",
 				"Genres": [ "Death Metal", "Black Metal" ],
-                "Bands": [ "Hypocrisy", "Abbath", "Vomitory", "Vreid" ]
+                "Bands": [ "Hypocrisy", "Abbath", "Vomitory", "Vreid" ],
+				"Featured": true
             }
         ]
     },
@@ -118,7 +119,11 @@
                 "Date": "2026-05-02",
                 "Venue": "Musicon",
                 "Genres": [ "Death Metal" ],
-                "Bands": [ "Graceless", "Slaughterday", "Maatkare", "Buried", "Rectum Stretchers", "Massive Assault", "Perianal Abscess" ]
+                "Bands": [ "Graceless", "Slaughterday", "Maatkare", "Buried", "Rectum Stretchers", "Massive Assault", "Perianal Abscess" ],
+				"ExtraInfo": "Op zaterdag 2 mei strijkt de top van de internationale en nationale death metal opnieuw neer in Den Haag voor de derde editie van The Hague Deathfest. Wat begon als een veelbelovend initiatief is inmiddels uitgegroeid tot een vaste waarde binnen de Haagse metalscene en ver daarbuiten. Na twee uitverkochte edities keren we terug naar Musicon, gedreven door dezelfde overtuiging: dit genre verdient een podium dat hard, eerlijk en compromisloos is. En de line-up? Die doet er dit jaar nog een schep bovenop. Verwacht een selectie bands die je niet alleen omver blaast, maar ook laat voelen waarom death metal blijft vernieuwen zonder zijn wortels te verliezen.",
+				"Url": "https://musicon.nl/event/the-hague-deathfest-2026/",
+				"ImageSource": "https://musicon.nl/wp-content/uploads/2026/01/Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Ontwerp-zonder-titel-1568x624.png",
+				"Featured": true
             },
             {
                 "Date": "2026-03-23",
@@ -539,7 +544,7 @@
             {
                 "Date": "2026-05-14",
                 "Venue": "HAL 25",
-                "Genres": [ "Death Metal", "Goregrind" ],
+                "Genres": [ "Death Metal", "Grindcore" ],
 				"Title": "Hemelvaartse Herrie",
                 "Bands": [ "Cytotoxin", "Opal in Sky", "Brutal Sphincter", ".357 Homicide", "Mourning High", "Insurrection" ]
             },
@@ -772,17 +777,6 @@
         "Longitude": 6.5665,
         "Gigs": [
             {
-                "Date": "2026-02-05",
-                "Venue": "SPOT / De Oosterpoort",
-                "Genres": [ "Black Metal", "Death Metal" ],
-                "Bands": [ "Mayhem", "Marduk", "Immolation" ]
-            },
-            {
-                "Date": "2026-02-14",
-                "Venue": "Vera",
-                "Bands": [ "Sad Whisperings", "Cryptosis" ]
-            },
-            {
                 "Date": "2026-02-26",
                 "Venue": "Vera",
                 "Bands": [ "Terzij de Horde" ]
@@ -926,40 +920,9 @@
         "Longitude": 4.6908,
         "Gigs": [
             {
-                "Date": "2026-02-06",
-                "Venue": "Popcentrale",
-                "Bands": [ "Dordtcore" ]
-            },
-            {
-                "Date": "2026-02-27",
-                "Venue": "Popcentrale",
-                "Bands": [ "Almost Ready", "Steekpartij", "The Benzos" ]
-            },
-            {
-                "Date": "2026-03-21",
-                "Venue": "Popcentrale",
-                "Bands": [ "Caution", "ScoobySnacks", "Von Mollestein" ]
-            },
-            {
                 "Date": "2026-03-28",
                 "Venue": "Popcentrale",
                 "Bands": [ "Arluna", "Redikin" ]
-            },
-            {
-                "Date": "2026-02-21",
-                "Venue": "Bibelot",
-                "Bands": [ "Dordrecht Metal Fest #10" ]
-            },
-            {
-                "Date": "2026-03-07",
-                "Venue": "Bibelot",
-                "Bands": [ "Epinikion", "Abstracted Mind" ]
-            },
-            {
-                "Date": "2026-03-20",
-                "Venue": "Bibelot",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "OZZYfied", "Nymue" ]
             },
             {
                 "Date": "2026-05-01",
@@ -974,27 +937,6 @@
         "Latitude": 51.5719,
         "Longitude": 4.7683,
         "Gigs": [
-            {
-                "Date": "2026-02-06",
-                "Venue": "Sound Dog",
-                "Bands": [ "Epinikion", "Abstracted Mind" ]
-            },
-            {
-                "Date": "2026-02-20",
-                "Venue": "Mezz",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Meatallica", "Slash N' Roses", "Rage Against The System tribute", "Black Sabbath tribute" ]
-            },
-            {
-                "Date": "2026-02-26",
-                "Venue": "Mezz",
-                "Bands": [ "Fleddy Melculy", "Rotzak" ]
-            },
-            {
-                "Date": "2026-03-24",
-                "Venue": "Sound Dog",
-                "Bands": [ "HYENA", "Neck Cemetary" ]
-            },
             {
                 "Date": "2026-04-01",
                 "Venue": "Mezz",
@@ -1056,24 +998,6 @@
         "Longitude": 6.1017,
         "Gigs": [
             {
-                "Date": "2026-02-07",
-                "Venue": "Iduna",
-                "Genres": [ "Death Metal" ],
-                "Bands": [ "Unleashed", "Messiah", "BAEST", "Birdflesh", "Pentacle", "Acrostichon", "Mercyless", "My Minds Mine", "Condolence", "From The Crypt", "For Victory" ]
-            },
-            {
-                "Date": "2026-02-14",
-                "Venue": "Iduna",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Ronnie James Dio - The Memorial Concert" ]
-            },
-            {
-                "Date": "2026-02-21",
-                "Venue": "Iduna",
-                "Genres": [ "Death Metal" ],
-                "Bands": [ "Napalm Death", "Whiplash", "Varukers", "Dopelord" ]
-            },
-            {
                 "Date": "2026-03-28",
                 "Venue": "Iduna",
                 "Genres": [ "Black Metal" ],
@@ -1106,7 +1030,7 @@
             {
                 "Date": "2026-02-07",
                 "Venue": "Café De Trap Af",
-                "Genres": [ "Goregrind" ],
+                "Genres": [ "Grindcore" ],
                 "Bands": [ "Bluewaffle Sauerkraut", "Rectum Stretchers", "Colostomy" ]
             }
         ]
@@ -1178,7 +1102,7 @@
         "Gigs": [
             {
                 "Date": "2026-02-07",
-                "Venue": "Jongeren Centrum De Klos",
+                "Venue": "De Klos",
                 "Bands": [ "Sounds From The Underground 2" ]
             }
         ]
@@ -1188,12 +1112,6 @@
         "Latitude": 51.8249,
         "Longitude": 4.7732,
         "Gigs": [
-            {
-                "Date": "2026-02-07",
-                "Venue": "Elektra",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Snaggletoöth" ]
-            },
             {
                 "Date": "2026-04-18",
                 "Venue": "Elektra",
@@ -1206,27 +1124,6 @@
         "Latitude": 50.8882,
         "Longitude": 5.9799,
         "Gigs": [
-            {
-                "Date": "2026-02-08",
-                "Venue": "Nieuwe Nor",
-                "Bands": [ "Burning Witches", "Hammer King" ]
-            },
-            {
-                "Date": "2026-02-21",
-                "Venue": "Nieuwe Nor",
-                "Bands": [ "Ammo", "Cellarpigs", "Cocytus", "Reverse the Flow" ]
-            },
-            {
-                "Date": "2026-02-28",
-                "Venue": "Nieuwe Nor",
-                "Genres": [ "Nu Metal" ],
-                "Bands": [ "Bizkit Park" ]
-            },
-            {
-                "Date": "2026-03-24",
-                "Venue": "Nieuwe Nor",
-                "Bands": [ "Gridiron" ]
-            },
             {
                 "Date": "2026-05-14",
                 "Venue": "Nieuwe Nor",
@@ -1269,17 +1166,6 @@
         "Longitude": 6.4789,
         "Gigs": [
             {
-                "Date": "2026-02-12",
-                "Venue": "Het Podium",
-                "Genres": [ "Death Metal" ],
-                "Bands": [ "Disharmonic Orchestra", "Massive Assault" ]
-            },
-            {
-                "Date": "2026-02-14",
-                "Venue": "Het Podium",
-                "Bands": [ "Mouldwarp", "New Dawn Fades", "Ophæra", "Semper Fi" ]
-            },
-            {
                 "Date": "2026-04-25",
                 "Venue": "Het Podium",
                 "Genres": [ "Heavy Metal" ],
@@ -1305,7 +1191,7 @@
             },
             {
                 "Date": "2026-02-28",
-                "Venue": "Time Out Uitgaanscentrum",
+                "Venue": "Time Out",
                 "Bands": [ "Tha Watcher", "The Straikerz", "Kruelty" ]
             }
         ]
@@ -1315,12 +1201,6 @@
         "Latitude": 52.5168,
         "Longitude": 5.4788,
         "Gigs": [
-            {
-                "Date": "2026-02-07",
-                "Venue": "Corneel",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Up The Irons" ]
-            },
             {
                 "Date": "2026-03-21",
                 "Venue": "Corneel",
@@ -1338,23 +1218,6 @@
         "Latitude": 52.2215,
         "Longitude": 5.9699,
         "Gigs": [
-            {
-                "Date": "2026-02-14",
-                "Venue": "Gigant",
-                "Genres": [ "Black Metal" ],
-                "Bands": [ "Ereb Altor", "Skyforger", "Vansind", "Belore", "Wolfchant", "Shagor" ]
-            },
-            {
-                "Date": "2026-02-20",
-                "Venue": "Gigant",
-                "Bands": [ "Artificial", "3 Eyed Kids" ]
-            },
-            {
-                "Date": "2026-02-26",
-                "Venue": "Gigant",
-                "Genres": [ "Black Metal" ],
-                "Bands": [ "Batushka" ]
-            },
             {
                 "Date": "2026-04-03",
                 "Venue": "Gigant",
@@ -1383,27 +1246,6 @@
         "Longitude": 5.6640,
         "Gigs": [
             {
-                "Date": "2026-02-14",
-                "Venue": "Astrant",
-                "Bands": [ "Wyatt E.", "Hemelbestormer" ]
-            },
-            {
-                "Date": "2026-02-28",
-                "Venue": "Astrant",
-                "Bands": [ "Invunche", "Ch’Ahom" ]
-            },
-            {
-                "Date": "2026-03-14",
-                "Venue": "Astrant",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Bloody Sabbath" ]
-            },
-            {
-                "Date": "2026-03-21",
-                "Venue": "Astrant",
-                "Bands": [ "Torn From Oblivian", "DeepRoot", "A Knight Under Maria’s Altar", "Out of the Blue", "Sapphyr", "Heretix", "Discarted", "Scorn", "Canyon Literature" ]
-            },
-            {
                 "Date": "2026-03-28",
                 "Venue": "Astrant",
                 "Bands": [ "Pene Corrida" ]
@@ -1428,16 +1270,6 @@
         "Longitude": 5.7047,
         "Gigs": [
             {
-                "Date": "2026-02-19",
-                "Venue": "De Bosuil",
-                "Bands": [ "Mantah" ]
-            },
-            {
-                "Date": "2026-03-19",
-                "Venue": "De Bosuil",
-                "Bands": [ "Les Projets d'Athena" ]
-            },
-            {
                 "Date": "2026-03-08",
                 "Venue": "De Bosuil",
                 "Bands": [ "Axe‑Travaganza" ]
@@ -1454,16 +1286,6 @@
         "Latitude": 52.4780,
         "Longitude": 4.8285,
         "Gigs": [
-            {
-                "Date": "2026-02-21",
-                "Venue": "De Groote Weiver",
-                "Bands": [ "Born from Pain", "Lies!", "Gallamesh", "Howlett" ]
-            },
-            {
-                "Date": "2026-03-14",
-                "Venue": "De Groote Weiver",
-                "Bands": [ "The Metal Jam – Sounds of Doom!" ]
-            },
             {
                 "Date": "2026-03-28",
                 "Venue": "De Groote Weiver",
@@ -1567,18 +1389,6 @@
         "Longitude": 3.8916,
         "Gigs": [
             {
-                "Date": "2026-02-13",
-                "Venue": "'t Beest",
-                "Genres": [ "Nu Metal" ],
-                "Bands": [ "Bizkit Park" ]
-            },
-            {
-                "Date": "2026-02-28",
-                "Venue": "'t Beest",
-                "Genres": [ "Black Metal" ],
-                "Bands": [ "Batushka" ]
-            },
-            {
                 "Date": "2026-09-26",
                 "Venue": "'t Beest",
                 "Genres": [ "Heavy Metal" ],
@@ -1630,11 +1440,6 @@
         "Latitude": 52.9973,
         "Longitude": 5.5065,
         "Gigs": [
-            {
-                "Date": "2026-01-10",
-                "Venue": "Spider",
-                "Bands": [ "Guardians Of Asgaard", "Ilmarinen" ]
-            },
             {
                 "Date": "2026-02-28",
                 "Venue": "Spider",
