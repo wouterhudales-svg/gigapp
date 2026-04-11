@@ -1,14 +1,91 @@
 [
     {
+        "City": "Den Haag",
+        "Latitude": 52.0705,
+        "Longitude": 4.3007,
+        "Gigs": [
+            {"Date": "2026-04-11", "Venue": "Musicon", "Bands": ["Dead Head", "Burning"]},
+            {"Date": "2026-05-02", "Venue": "Musicon", "Bands": ["Graceless", "Slaughterday", "Maatkare"], 
+				"ExtraInfo": "Op zaterdag 2 mei strijkt de top van de internationale en nationale death metal opnieuw neer in Den Haag voor de derde editie van The Hague Deathfest. Wat begon als een veelbelovend initiatief is inmiddels uitgegroeid tot een vaste waarde binnen de Haagse metalscene en ver daarbuiten. Na twee uitverkochte edities keren we terug naar Musicon, gedreven door dezelfde overtuiging: dit genre verdient een podium dat hard, eerlijk en compromisloos is.\n\nEn de line-up? Die doet er dit jaar nog een schep bovenop. Verwacht een selectie bands die je niet alleen omver blaast, maar ook laat voelen waarom death metal blijft vernieuwen zonder zijn wortels te verliezen.",
+				"Url": "https://musicon.nl/event/the-hague-deathfest-2026/",
+				"ImageSource": "https://musicon.nl/wp-content/uploads/2026/01/Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Ontwerp-zonder-titel-1568x624.png",
+				"Featured": true},
+            {"Date": "2026-06-10", "Venue": "Musicon", "Bands": ["Crypta"]},
+            {"Date": "2026-06-12", "Venue": "Musicon", "Bands": ["Vicious Rumors", "Thorium"]},
+            {"Date": "2026-07-03", "Venue": "Musicon", "Bands": ["Sea of Consciousness", "Dance With Dragons", "Mosaic"]},
+            {"Date": "2026-04-24", "Venue": "Musicon", "Bands": ["Cardiac Arrest", "Cadaveric Incubation", "Warp Chamber", "Degraved"]},
+            {"Date": "2026-05-10", "Venue": "Musicon", "Bands": ["Blaze Bayley"]}
+			{"Date": "2026-06-05", "Venue": "Paard", "Bands": [ "DoodsesKader" ]}
+        ]
+    },
+    {
         "City": "Zoetermeer",
         "Latitude": 52.0605,
         "Longitude": 4.4941,
         "Gigs": [
-            {
-                "Date": "2026-04-18",
-                "Venue": "Boerderij",
-                "Bands": [ "Hardline", "Sevi" ]
-            }
+            {"Date": "2026-05-01", "Venue": "Boerderij", "Bands": ["Sanctuary", "Martyr"]},
+            {"Date": "2026-05-24", "Venue": "Boerderij", "Bands": ["Earthside"]},
+            {"Date": "2026-06-13", "Venue": "Boerderij", "Bands": ["Evergrey"]},
+            {"Date": "2026-09-19", "Venue": "Boerderij", "Bands": ["Oddland", "Mother Of Millions", "Ring Of Gyges"]},
+            {"Date": "2026-10-04", "Venue": "Boerderij", "Bands": ["Myrath"]}
+			{"Date": "2026-04-18", "Venue": "Boerderij", "Bands": [ "Hardline", "Sevi" ]}
+        ]
+    },
+    {
+        "City": "Tilburg",
+        "Latitude": 51.5555,
+        "Longitude": 5.0913,
+        "Gigs": [
+            {"Date": "2026-04-13", "Venue": "Little Devil", "Bands": ["Exhumed", "Gruesome"]},
+			{"Date": "2026-04-16", "Venue": "013", "Bands": ["Roadburn Festival"]},
+            {"Date": "2026-04-24", "Venue": "013", "Bands": ["Karnivool", "Intervals"]},
+            {"Date": "2026-04-30", "Venue": "013", "Bands": ["Smash Into Pieces", "Enemy Inside", "Dark Divine"]},
+            {"Date": "2026-05-11", "Venue": "013", "Bands": ["Machine Head"]},
+            {"Date": "2026-05-24", "Venue": "013", "Bands": ["Airbag", "Lesoir"]},
+            {"Date": "2026-09-19", "Venue": "013", "Bands": ["Plan Nine"]},
+			{"Date": "2026-05-09", "Venue": "Little Devil", "Bands": [ "The Lamp Of Thoth", "Lone Wanderer", "Metallus", "Iron Void", "Conviction" ]},
+			{"Date": "2026-05-17", "Venue": "Little Devil", "Bands": [ "Conjurer" ]},
+			{"Date": "2026-05-03", "Venue": "Little Devil", "Bands": [ "Complaint", "Unite Against Society", "The Thirteenth Turn" ]},
+			{"Date": "2026-04-25", "Venue": "Little Devil", "Bands": [ "Wytch Hazel", "Phantom Spell" ]},
+            {"Date": "2026-10-01", "Venue": "013", "Bands": ["I Prevail", "Polaris", "Amira Elfeky"]},
+            {"Date": "2026-10-08", "Venue": "013", "Bands": ["The Amity Affliction", "Silent Planet", "Varials", "Orthodox"]},
+            {"Date": "2026-10-24", "Venue": "013", "Bands": ["The HU", "SKÁLD"]},
+            {"Date": "2026-10-30", "Venue": "Poppodium 013", "Bands": ["Kamelot", "Xandria", "Leaves Eyes", "Elegy"]},
+            {"Date": "2026-10-31", "Venue": "Poppodium 013", "Bands": ["Kamelot", "Blackbriar", "Exit Eden", "Temperance"]},
+            {"Date": "2026-12-16", "Venue": "013", "Bands": ["Accept", "Dynazty", "Tailgunner"]},
+			{"Date": "2026-08-12", "Venue": "013", "Genres": [ "Heavy Metal" ], "Bands": [ "Judas Priest" ]},
+			{"Date": "2026-05-02", "Venue": "Hall of Fame", "Genres": [ "Death Metal" ], "Bands": ["Necrotted", "Defamed", "Changing Tides", "Acranius", "Sun of The Suns", "Backhoe Loader", "Spawn of Disgust", "Braces", "S.P.I.T.", "Acidwound", "Gravery", "Menacer"]}
+        ]
+    },
+    {
+        "City": "Arnhem",
+        "Latitude": 51.9851,
+        "Longitude": 5.8987,
+        "Gigs": [
+            {"Date": "2026-04-11", "Venue": "Willemeen", "Bands": ["Graceless", "Inhume", "Radiathor", "Putrid Offal"], "Title": "Smyrna Death Fest"},
+			{"Date": "2026-04-17", "Venue": "Willemeen", "Bands": ["Bezwering", "SPERE", "Grabunhold"], "Title": "Diabolical Echoes pt. VIII"},
+            {"Date": "2026-04-18", "Venue": "Willemeen", "Bands": ["Ancient Fragments"]},
+            {"Date": "2026-05-09", "Venue": "Willemeen", "Bands": ["Verloren Vertellingen", "Bloedmaan", "Suttungr", "Gogmagore"]},
+            {"Date": "2026-05-21", "Venue": "Willemeen", "Bands": ["Chris Holmes", "Thunderor"]}
+        ]
+    },
+    {
+        "City": "Nijmegen",
+        "Latitude": 51.8426,
+        "Longitude": 5.8528,
+        "Gigs": [
+            {"Date": "2026-04-14", "Venue": "Doornroosje", "Bands": ["Casey", "Lastelle", "Watch Me Rise"]},
+            {"Date": "2026-04-23", "Venue": "Doornroosje", "Bands": ["Textures", "Sugar Spine", "Javier Valdi"]},
+            {"Date": "2026-05-02", "Venue": "Merleyn", "Bands": ["Gavran", "Lijkschouwer", "Hezurra"]},
+            {"Date": "2026-05-20", "Venue": "Merleyn", "Bands": ["Deaf Club"]},
+            {"Date": "2026-07-07", "Venue": "Doornroosje", "Bands": ["Uada"]},
+            {"Date": "2026-08-13", "Venue": "Doornroosje", "Bands": ["The Ghost Inside"]},
+            {"Date": "2026-08-21", "Venue": "Doornroosje", "Bands": ["Deafheaven", "Show Me The Body"]},
+            {"Date": "2026-09-01", "Venue": "Merleyn", "Bands": ["Wyatt E."]},
+            {"Date": "2026-09-13", "Venue": "Doornroosje", "Bands": ["Fear Factory", "Crystal Lake", "Hate", "The Nocturnal Affair"]},
+            {"Date": "2026-09-24", "Venue": "Doornroosje", "Bands": ["Beyond The Black", "Setyoursails"]},
+			{"Date": "2026-10-09", "Venue": "Doornroosje", "Title": "Soulcrusher Festival"},
+			{"Date": "2026-10-10", "Venue": "Doornroosje", "Title": "Soulcrusher Festival"}
         ]
     },
     {
@@ -98,53 +175,6 @@
         "Latitude": 51.91,
         "Longitude": 4.34,
         "Gigs": [
-        ]
-    },
-    {
-        "City": "Den Haag",
-        "Latitude": 52.078663,
-        "Longitude": 4.288788,
-        "Gigs": [
-            {
-                "Date": "2026-03-13",
-                "Venue": "Musicon",
-                "Bands": [ "Epinikion", "Abstracted Mind", "Attractive Chaos" ]
-            },
-            {
-                "Date": "2026-03-20",
-                "Venue": "Musicon",
-                "Bands": [ "Sabiendas", "Anomic", "Stigmatized" ]
-            },
-            {
-                "Date": "2026-05-02",
-                "Venue": "Musicon",
-                "Genres": [ "Death Metal" ],
-                "Bands": [ "Graceless", "Slaughterday", "Maatkare", "Buried", "Rectum Stretchers", "Massive Assault", "Perianal Abscess" ],
-				"ExtraInfo": "Op zaterdag 2 mei strijkt de top van de internationale en nationale death metal opnieuw neer in Den Haag voor de derde editie van The Hague Deathfest. Wat begon als een veelbelovend initiatief is inmiddels uitgegroeid tot een vaste waarde binnen de Haagse metalscene en ver daarbuiten. Na twee uitverkochte edities keren we terug naar Musicon, gedreven door dezelfde overtuiging: dit genre verdient een podium dat hard, eerlijk en compromisloos is.\n\nEn de line-up? Die doet er dit jaar nog een schep bovenop. Verwacht een selectie bands die je niet alleen omver blaast, maar ook laat voelen waarom death metal blijft vernieuwen zonder zijn wortels te verliezen.",
-				"Url": "https://musicon.nl/event/the-hague-deathfest-2026/",
-				"ImageSource": "https://musicon.nl/wp-content/uploads/2026/01/Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Kopie-van-Ontwerp-zonder-titel-1568x624.png",
-				"Featured": true
-            },
-            {
-                "Date": "2026-03-23",
-                "Venue": "Musicon",
-                "Bands": [ "Ektomorf" ]
-            },
-            {
-                "Date": "2026-03-18",
-                "Venue": "Paard",
-                "Bands": [ "High Parasite" ]
-            },
-            {
-                "Date": "2026-03-22",
-                "Venue": "Paard",
-                "Bands": [ "Predatory Void" ]
-            },
-            {
-                "Date": "2026-06-05",
-                "Venue": "Paard",
-                "Bands": [ "DoodsesKader" ]
-            }
         ]
     },
     {
@@ -287,97 +317,6 @@
                 "Date": "2026-11-06",
                 "Venue": "Neushoorn",
                 "Bands": [ "O.R.k", "Tetsuwan", "Ellende", "Karg", "Firtan" ]
-            }
-        ]
-    },
-    {
-        "City": "Tilburg",
-        "Latitude": 51.5555,
-        "Longitude": 5.0913,
-        "Gigs": [
-            {
-                "Date": "2026-03-17",
-                "Venue": "013",
-                "Bands": [ "Fit For A King", "Memphis May Fire", "Acres", "156/Silence" ]
-            },
-            {
-                "Date": "2026-04-16",
-                "Venue": "013",
-                "Bands": [ "Roadburn Festival" ]
-            },
-            {
-                "Date": "2026-05-11",
-                "Venue": "013",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Machine Head" ]
-            },
-            {
-                "Date": "2026-05-02",
-                "Venue": "Hall of Fame",
-                "Genres": [ "Death Metal" ],
-                "Bands": [
-                    "Necrotted",
-                    "Defamed",
-                    "Changing Tides",
-                    "Acranius",
-                    "Sun of The Suns",
-                    "Backhoe Loader",
-                    "Spawn of Disgust",
-                    "Braces",
-                    "S.P.I.T.",
-                    "Acidwound",
-                    "Gravery",
-                    "Menacer"
-                ]
-            },
-            {
-                "Date": "2026-08-12",
-                "Venue": "013",
-                "Genres": [ "Heavy Metal" ],
-                "Bands": [ "Judas Priest" ]
-            },
-            {
-                "Date": "2026-03-19",
-                "Venue": "013",
-                "Genres": [ "Black Metal" ],
-                "Bands": [ "Kanonenfieber" ]
-            },
-            {
-                "Date": "2026-04-04",
-                "Venue": "Little Devil",
-                "Genres": [ "Speed Metal" ],
-                "Bands": [ "Gama Bomb", "Lich King" ]
-            },
-            {
-                "Date": "2026-04-08",
-                "Venue": "Little Devil",
-                "Bands": [ "Witch Fever" ]
-            },
-            {
-                "Date": "2026-04-13",
-                "Venue": "Little Devil",
-                "Genres": [ "Death Metal" ],
-                "Bands": [ "Exhumed", "Gruesome" ]
-            },
-            {
-                "Date": "2026-04-25",
-                "Venue": "Little Devil",
-                "Bands": [ "Wytch Hazel", "Phantom Spell" ]
-            },
-            {
-                "Date": "2026-05-03",
-                "Venue": "Little Devil",
-                "Bands": [ "Complaint", "Unite Against Society", "The Thirteenth Turn" ]
-            },
-            {
-                "Date": "2026-05-17",
-                "Venue": "Little Devil",
-                "Bands": [ "Conjurer" ]
-            },
-            {
-                "Date": "2026-05-09",
-                "Venue": "Little Devil",
-                "Bands": [ "The Lamp Of Thoth", "Lone Wanderer", "Metallus", "Iron Void", "Conviction" ]
             }
         ]
     },
@@ -591,38 +530,6 @@
         ]
     },
     {
-        "City": "Nijmegen",
-        "Latitude": 51.8425,
-        "Longitude": 5.85278,
-        "Gigs": [
-            {
-                "Date": "2026-03-20",
-                "Venue": "Doornroosje",
-                "Bands": [ "Psychonaut" ]
-            },
-            {
-                "Date": "2026-04-04",
-                "Venue": "Doornroosje",
-                "Bands": [ "Infected Rain", "Butcher Babies", "Black Spikes" ]
-            },
-            {
-                "Date": "2026-10-09",
-                "Venue": "Doornroosje",
-                "Bands": [ "Soulcrusher Festival" ]
-            },
-            {
-                "Date": "2026-10-10",
-                "Venue": "Doornroosje",
-                "Bands": [ "Soulcrusher Festival" ]
-            },
-            {
-                "Date": "2026-04-03",
-                "Venue": "Merleyn",
-                "Bands": [ "Elephant Tree" ]
-            }
-        ]
-    },
-    {
         "City": "Delft",
         "Latitude": 51.996,
         "Longitude": 4.379,
@@ -730,44 +637,6 @@
                 "Date": "2026-06-18",
                 "Venue": "Patronaat",
                 "Bands": [ "Kylesa" ]
-            }
-        ]
-    },
-    {
-        "City": "Arnhem",
-        "Latitude": 51.98499,
-        "Longitude": 5.90511,
-        "Gigs": [
-            {
-                "Date": "2026-03-14",
-                "Venue": "Willemeen",
-                "Bands": [ "Heretix", "Salvage", "Backhoe Loader", "Reformist", "XII Thorns", "Deeproot", "Braces", "Torn From Oblivion" ]
-            },
-            {
-                "Date": "2026-03-27",
-                "Venue": "Willemeen",
-                "Bands": [ "Metal Battle NL 2026 Halve Finale" ]
-            },
-            {
-                "Date": "2026-03-29",
-                "Venue": "Willemeen",
-                "Genres": [ "Speed Metal" ],
-                "Bands": [ "Gama Bomb", "Lich King", "Velozza", "Headless Hunter", "Hateful Agony" ]
-            },
-            {
-                "Date": "2026-04-11",
-                "Venue": "Willemeen",
-                "Bands": [ "Smyrna Death Fest" ]
-            },
-            {
-                "Date": "2026-04-17",
-                "Venue": "Willemeen",
-                "Bands": [ "Bezwering", "SPERE", "Grabunhold" ]
-            },
-            {
-                "Date": "2026-05-09",
-                "Venue": "Willemeen",
-                "Bands": [ "Diabolical Echoes pt. VIII" ]
             }
         ]
     },
