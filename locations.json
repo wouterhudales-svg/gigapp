@@ -14,7 +14,7 @@
             {"Date": "2026-06-12", "Venue": "Musicon", "Bands": ["Vicious Rumors", "Thorium"]},
             {"Date": "2026-07-03", "Venue": "Musicon", "Bands": ["Sea of Consciousness", "Dance With Dragons", "Mosaic"]},
             {"Date": "2026-04-24", "Venue": "Musicon", "Bands": ["Cardiac Arrest", "Cadaveric Incubation", "Warp Chamber", "Degraved"]},
-            {"Date": "2026-05-10", "Venue": "Musicon", "Bands": ["Blaze Bayley"]}
+            {"Date": "2026-05-10", "Venue": "Musicon", "Bands": ["Blaze Bayley"]},
 			{"Date": "2026-06-05", "Venue": "Paard", "Bands": [ "DoodsesKader" ]}
         ]
     },
