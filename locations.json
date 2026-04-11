@@ -83,9 +83,7 @@
             {"Date": "2026-08-21", "Venue": "Doornroosje", "Bands": ["Deafheaven", "Show Me The Body"]},
             {"Date": "2026-09-01", "Venue": "Merleyn", "Bands": ["Wyatt E."]},
             {"Date": "2026-09-13", "Venue": "Doornroosje", "Bands": ["Fear Factory", "Crystal Lake", "Hate", "The Nocturnal Affair"]},
-            {"Date": "2026-09-24", "Venue": "Doornroosje", "Bands": ["Beyond The Black", "Setyoursails"]},
-			{"Date": "2026-10-09", "Venue": "Doornroosje", "Title": "Soulcrusher Festival"},
-			{"Date": "2026-10-10", "Venue": "Doornroosje", "Title": "Soulcrusher Festival"}
+            {"Date": "2026-09-24", "Venue": "Doornroosje", "Bands": ["Beyond The Black", "Setyoursails"]}
         ]
     },
     {
