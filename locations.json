@@ -1952,6 +1952,7 @@
             },
             {
                 "Date": "2026-10-23",
+                "Title": "Feuerengel - Extra Show",
                 "Venue": "Hedon",
                 "Genres": [
                     "heavy metal"
@@ -1960,6 +1961,17 @@
                     "The Sore Losers",
                     "The Sha-La-Lee\u0027s",
                     "The Glücks"
+                ]
+            },
+            {
+                "Date": "2026-10-24",
+                "Title": "Feuerengel - A Tribute To Rammstein",
+                "Venue": "Hedon",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Feuerengel"
                 ]
             },
             {
