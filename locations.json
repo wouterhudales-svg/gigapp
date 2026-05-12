@@ -1236,6 +1236,18 @@
                 "Url": "https://boerderij.nl/agenda/"
             },
             {
+                "Date": "2026-05-13",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "test",
+                    "test"
+                ],
+                "Url": "https://boerderij.nl/agenda/"
+            },			
+            {
                 "Date": "2026-06-06",
                 "Venue": "Boerderij",
                 "Genres": [
