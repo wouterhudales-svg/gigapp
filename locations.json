@@ -1420,6 +1420,19 @@
                 "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
             },
             {
+                "Date": "2026-06-15",
+                "Venue": "Hedon",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "test",
+                    "test",
+                    "test"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+            },			
+            {
                 "Date": "2026-06-24",
                 "Venue": "Hedon",
                 "Genres": [
@@ -3110,6 +3123,18 @@
                 ],
                 "Url": "https://dbsutrecht.nl/agenda/"
             },
+            {
+                "Date": "2026-05-15",
+                "Venue": "dB’s Studio",
+                "Genres": [
+                    "grindcore"
+                ],
+                "Bands": [
+                    "test",
+                    "test"
+                ],
+                "Url": "https://dbsutrecht.nl/agenda/"
+            },			
             {
                 "Date": "2026-05-17",
                 "Venue": "Tivoli Vredenburg",
