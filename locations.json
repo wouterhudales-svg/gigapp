@@ -84,7 +84,7 @@
                     "Arising Rebellion",
                     "Disquiet"
                 ],
-                "Url": "https://degrooteweiver.nl/"
+                "Url": "https://degrooteweiver.nl/agenda/rebellionfest-iii-the-third-chapter/"
             }
         ]
     },
@@ -334,19 +334,6 @@
         "Longitude": 6.1017,
         "Gigs": [
             {
-                "Date": "2026-05-22",
-                "Venue": "Iduna",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "H.O.L.M.E.S - The Sound of W.A.S.P",
-                    "Thunderor",
-                    "Lovell's Blade"
-                ],
-                "Url": "https://www.iduna.nl/"
-            },
-            {
                 "Date": "2026-05-23",
                 "Venue": "Iduna",
                 "Genres": [
@@ -355,7 +342,7 @@
                 "Bands": [
                     "Bladecrusher"
                 ],
-                "Url": "https://www.iduna.nl/"
+                "Url": "https://www.iduna.nl/agenda/medieval-combat-bladecrusher/"
             },
             {
                 "Date": "2026-06-18",
@@ -366,7 +353,7 @@
                 "Bands": [
                     "Escuela Grind"
                 ],
-                "Url": "https://www.iduna.nl/"
+                "Url": "https://www.iduna.nl/agenda/escuela-grind-2/"
             },
             {
                 "Date": "2026-09-04",
@@ -377,10 +364,10 @@
                 "Bands": [
                     "Samael"
                 ],
-                "Url": "https://www.iduna.nl/"
+                "Url": "https://www.iduna.nl/agenda/samael/"
             },
             {
-                "Date": "2026-09-09",
+                "Date": "2026-10-09",
                 "Venue": "Iduna",
                 "Genres": [
                     "black metal"
@@ -390,7 +377,7 @@
                     "Soulburn",
                     "Arroganz"
                 ],
-                "Url": "https://www.iduna.nl/"
+                "Url": "https://www.iduna.nl/agenda/mork-soulburn/"
             },
             {
                 "Date": "2026-10-16",
@@ -402,7 +389,7 @@
                     "Nymue",
                     "De Griene Wâlden"
                 ],
-                "Url": "https://www.iduna.nl/"
+                "Url": "https://www.iduna.nl/agenda/nymue-de-griene-walden/"
             }
         ]
     },
@@ -602,7 +589,65 @@
         "Longitude": 6.7895,
         "Gigs": [
             {
+                "Date": "2026-05-21",
+                "Venue": "Metropool",
+                "Genres": [
+                    "shoegaze"
+                ],
+                "Bands": [
+                    "Black Doldrums"
+                ],
+                "Url": "https://www.metropool.nl/agenda/black-doldrums"
+            },
+            {
+                "Date": "2026-06-24",
+                "Venue": "Metropool",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Possessed",
+                    "The Heritance"
+                ],
+                "Url": "https://www.metropool.nl/agenda/possessed"
+            },
+            {
+                "Date": "2026-07-10",
+                "Venue": "Metropool",
+                "Genres": [
+                    "punk rock"
+                ],
+                "Bands": [
+                    "Zeke"
+                ],
+                "Url": "https://www.metropool.nl/agenda/zeke"
+            },
+            {
+                "Date": "2026-09-03",
+                "Venue": "Metropool",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Antimatter",
+                    "Sleeping Pulse"
+                ],
+                "Url": "https://www.metropool.nl/agenda/antimatter-sleeping-pulse"
+            },
+            {
+                "Date": "2026-09-05",
+                "Venue": "Metropool",
+                "Genres": [
+                    "progressive rock"
+                ],
+                "Bands": [
+                    "The Rushians"
+                ],
+                "Url": "https://www.metropool.nl/agenda/the-rushians-a-tribute-to-rush"
+            },
+            {
                 "Date": "2026-09-18",
+                "Title": "Nu-Metal Night",
                 "Venue": "Metropool",
                 "Genres": [
                     "nu metal"
@@ -612,7 +657,80 @@
                     "Psychosocial",
                     "The Hunting Party"
                 ],
-                "Url": "https://www.metropool.nl/agenda/"
+                "Url": "https://www.metropool.nl/agenda/nu-metal-night"
+            },
+            {
+                "Date": "2026-10-03",
+                "Venue": "Metropool",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Tenside",
+                    "Aurorawave"
+                ],
+                "Url": "https://www.metropool.nl/agenda/tenside-aurorawave"
+            },
+            {
+                "Date": "2026-10-17",
+                "Title": "LEGENDS of ROCK Tribute Festival",
+                "Venue": "Metropool",
+                "Genres": [
+                    "hard rock"
+                ],
+                "Bands": [
+                    "Funky Monks",
+                    "BLINK-182 Tribute",
+                    "WHY GO HOME",
+                    "Green Bay",
+                    "Best of Foo",
+                    "Symmetry"
+                ],
+                "Url": "https://www.metropool.nl/agenda/legends-of-rock-tribute-festival"
+            },
+            {
+                "Date": "2026-10-23",
+                "Venue": "Metropool",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://www.metropool.nl/agenda/acindc"
+            },
+            {
+                "Date": "2026-11-27",
+                "Venue": "Metropool",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "FEUERENGEL"
+                ],
+                "Url": "https://www.metropool.nl/agenda/feuerengel-a-tribute-to-rammstein"
+            },
+            {
+                "Date": "2026-12-03",
+                "Venue": "Metropool",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Steve 'n' Seagulls"
+                ],
+                "Url": "https://www.metropool.nl/agenda/steve-n-seagulls"
+            },
+            {
+                "Date": "2027-01-09",
+                "Venue": "Metropool",
+                "Genres": [
+                    "progressive rock"
+                ],
+                "Bands": [
+                    "Pink Floyd Project"
+                ],
+                "Url": "https://www.metropool.nl/agenda/pink-floyd-project-20-years"
             }
         ]
     },
@@ -785,12 +903,20 @@
                 "Bands": [
                     "Cytotoxin",
                     "Opal in Sky",
+                    "Conjurer",
+                    "Dysentery",
                     "Brutal Sphincter",
+                    "Anhedonia",
                     ".357 Homicide",
+                    "Sharks In Your Mouth",
+                    "Barren",
                     "Mourning High",
-                    "Insurrection"
+                    "Gore Force V",
+                    "Give Em Blood",
+                    "Insurrection",
+                    "Bigmoth"
                 ],
-                "Url": "https://hal25.nl/programma/"
+                "Url": "https://hal25.nl/events/hemelvaartse-herrie-2026/"
             },
             {
                 "Date": "2026-05-15",
@@ -800,13 +926,31 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Pro‑Pain",
+                    "Pro-Pain",
                     "Waking the Cadaver",
+                    "Pyrexia",
                     "Stillbirth",
                     "Still in Love",
-                    "9 Dead"
+                    "9 Dead",
+                    "Vast Slug",
+                    "Inherited",
+                    "Canine",
+                    "Arising Rebellion"
                 ],
-                "Url": "https://hal25.nl/programma/"
+                "Url": "https://hal25.nl/events/hemelvaartse-herrie-dag-2/"
+            },
+            {
+                "Date": "2026-05-24",
+                "Title": "STIMULAR x HERRIE",
+                "Venue": "HAL 25",
+                "Genres": [
+                    "grindcore"
+                ],
+                "Bands": [
+                    "STIMULAR",
+                    "Herrie"
+                ],
+                "Url": "https://hal25.nl/events/stimular-x-herrie/"
             },
             {
                 "Date": "2026-06-18",
@@ -820,19 +964,41 @@
                 "Url": "https://www.victorie.nl/agenda/"
             },
             {
+                "Date": "2026-07-11",
+                "Title": "LEGACY OUTDOOR",
+                "Venue": "HAL 25",
+                "Genres": [
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Lenny Dee",
+                    "Not A DJ",
+                    "Painbringer",
+                    "Vince",
+                    "Gabber Syndrome"
+                ],
+                "Url": "https://hal25.nl/events/legacy/"
+            },
+            {
                 "Date": "2026-08-29",
+                "Title": "SLAMAGEDDON",
                 "Venue": "HAL 25",
                 "Genres": [
                     "death metal"
                 ],
                 "Bands": [
                     "Internal Bleeding",
-                    "Slowly Rotten",
-                    "Pulverized",
+                    "Condemned",
+                    "Deadsquad",
+                    "Death Vomit",
                     "Fatuous Rump",
-                    "Emasculated Vituperation"
+                    "Jasad",
+                    "Molested Divinity",
+                    "Emasculated Vituperation",
+                    "Slowly Rotten",
+                    "Pulverized"
                 ],
-                "Url": "https://hal25.nl/programma/"
+                "Url": "https://hal25.nl/events/slamageddon/"
             },
             {
                 "Date": "2026-10-09",
@@ -956,18 +1122,6 @@
         "Longitude": 5.7999,
         "Gigs": [
             {
-                "Date": "2026-05-08",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Newhvn",
-                    "Divided"
-                ],
-                "Url": "https://neushoorn.nl/programma/"
-            },
-            {
                 "Date": "2026-05-15",
                 "Venue": "Neushoorn",
                 "Genres": [
@@ -977,7 +1131,7 @@
                     "Conjurer",
                     "Terzij de Horde"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/conjurer"
             },
             {
                 "Date": "2026-05-20",
@@ -988,7 +1142,7 @@
                 "Bands": [
                     "John 5"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/john5"
             },
             {
                 "Date": "2026-06-06",
@@ -1000,7 +1154,7 @@
                     "Flotsam and Jetsam",
                     "Atmoran"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/flotsam-and-jetsam"
             },
             {
                 "Date": "2026-06-12",
@@ -1012,6 +1166,18 @@
                     "Into the Grave"
                 ],
                 "Url": "https://intothegrave.nl/"
+            },
+            {
+                "Date": "2026-06-13",
+                "Title": "Into The Grave afterparty: The Motherz",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "The Motherz"
+                ],
+                "Url": "https://neushoorn.nl/programma"
             },
             {
                 "Date": "2026-06-13",
@@ -1044,20 +1210,21 @@
                 "Bands": [
                     "Cradle of Filth"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/cradle-of-filth"
             },
             {
                 "Date": "2026-07-03",
+                "Title": "Hardcore Vrijdag",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "heavy metal"
+                    "hardcore"
                 ],
                 "Bands": [
                     "Boneripper",
                     "Trickstate",
                     "Bot Mes"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/hardcore-vrijdag-jul"
             },
             {
                 "Date": "2026-07-04",
@@ -1075,7 +1242,7 @@
                     "We're The Men",
                     "Lionesz"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/back-to-the-beginning"
             },
             {
                 "Date": "2026-07-09",
@@ -1084,20 +1251,22 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Vindicta"
+                    "Vindicta",
+                    "Final Stage"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/vindicta"
             },
             {
                 "Date": "2026-08-02",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "heavy metal"
+                    "death metal"
                 ],
                 "Bands": [
-                    "Deicide"
+                    "Deicide",
+                    "Angelus Apatrida"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/deicide"
             },
             {
                 "Date": "2026-08-03",
@@ -1108,7 +1277,7 @@
                 "Bands": [
                     "Alien Ant Farm"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/alien-ant-farm"
             },
             {
                 "Date": "2026-08-08",
@@ -1117,11 +1286,23 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Deceased",
+                    "Deceased...",
                     "Putridarium",
                     "Mancuerda"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/deceased"
+            },
+            {
+                "Date": "2026-09-13",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Sigh",
+                    "Devil Master"
+                ],
+                "Url": "https://neushoorn.nl/events/sigh"
             },
             {
                 "Date": "2026-09-26",
@@ -1142,7 +1323,7 @@
                     "Spirit Mother",
                     "Anciients"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/into-the-void-26"
             },
             {
                 "Date": "2026-10-17",
@@ -1154,9 +1335,13 @@
                 "Bands": [
                     "Crippled Fingers",
                     "Disdain",
-                    "Nonsense"
+                    "Nonsense",
+                    "Trenchwar",
+                    "Haywire",
+                    "Oceans Turn Red",
+                    "Payback"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/fajtfest-fryslan-26"
             },
             {
                 "Date": "2026-11-06",
@@ -1171,7 +1356,7 @@
                     "Karg",
                     "Firtan"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/ork"
             },
             {
                 "Date": "2026-11-27",
@@ -1183,7 +1368,23 @@
                     "Plan Nine",
                     "Burning"
                 ],
-                "Url": "https://neushoorn.nl/programma/"
+                "Url": "https://neushoorn.nl/events/plan-nine"
+            },
+            {
+                "Date": "2027-02-23",
+                "Title": "Shred Fest 2027",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Obscura",
+                    "Pestilence",
+                    "Cryptic Shift",
+                    "Thus",
+                    "DVRK"
+                ],
+                "Url": "https://neushoorn.nl/events/shred-fest-2027"
             }
         ]
     },
@@ -1235,18 +1436,6 @@
                 ],
                 "Url": "https://boerderij.nl/agenda/"
             },
-            {
-                "Date": "2026-05-17",
-                "Venue": "Boerderij",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "test",
-                    "test"
-                ],
-                "Url": "https://boerderij.nl/agenda/"
-            },			
             {
                 "Date": "2026-06-06",
                 "Venue": "Boerderij",
@@ -1389,7 +1578,7 @@
                 "Bands": [
                     "Blaas of Glory"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32867/blaas-of-glory/"
             },
             {
                 "Date": "2026-06-18",
@@ -1402,8 +1591,7 @@
                     "Torture Squad"
                 ],
                 "Featured": true,
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/",
-                "ExtraInfo": "VENOM INC werd officieel opgericht op 25 april 2015. Samengesteld door Dolan voor een eenmalig optreden, bracht hij het tweede, echte tijdperk van Venom weer samen in Lauda-Königshofen. Halverwege de set van Mpire Of Evil op het Keep It True-festival werden drie Venom-leden herenigd voor een paar Venom-klassiekers. De zaal ontplofte van puur enthousiasme. Mantas op gitaar en Demolition Man op bas en zang werden vergezeld door drummer Abaddon, en zo stond de Prime Evil-line-up van Venom weer op het podium.\n\nToen promoters lucht kregen van deze reünie, was het alsof er een bom ontplofte: aanbiedingen van over de hele wereld stroomden binnen, en de band besloot het opnieuw te proberen. De naam Venom Inc werd aangenomen en in de daaropvolgende jaren toerde het powertrio de hele wereld over, met veel succes. In 2017 verscheen het album Avé — een plaat die zeer goed werd ontvangen door zowel pers als fans, die aangaven hoe blij ze waren dat de echte bewakers van de Venom-spirit terug waren. Venom Inc gaf nooit op en begon aan hun tweede album, There’s Only Black, dat in 2022 via Nuclear Blast werd uitgebracht en veel lof oogstte.\n\nMet talloze hoogtepunten achter de rug — Poland & Rock voor een half miljoen mensen, een LATAM-tour met Possessed, Hammersonic in Indonesië, evenals andere grote festivals en een volledige Europese tour met Krisiun & Hate — begon de onheilige drie-eenheid met demo’s voor het nieuwe album dat in 2026 wordt verwacht. Er komen ook twee livealbums aan, evenals een nieuw visueel project en een nieuw studioalbum. Als de oude uitdrukking was: ‘here lies Venom’!! Dan luidt de nieuwe vlag: ‘here stands Venom Inc’!!!",
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32890/hedon-zwaar-presents-venom-inc/",
                 "ImageSource": "https://cdn-az.allevents.in/events7/banners/60488bdf5cafc95dbaec262bfdbff9eca099b5d5ae843fab61686850ade38f7c-rimg-w1200-h628-dc1a1714-gmir?v=1777494992"
             },
             {
@@ -1417,21 +1605,8 @@
                     "Benthos",
                     "Ursa"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32902/ok-goodnight-benthos-ursa/"
             },
-            {
-                "Date": "2026-06-15",
-                "Venue": "Hedon",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "test",
-                    "test",
-                    "test"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
-            },			
             {
                 "Date": "2026-06-24",
                 "Venue": "Hedon",
@@ -1441,7 +1616,7 @@
                 "Bands": [
                     "Gaerea"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32882/gaerea/"
             },
             {
                 "Date": "2026-10-23",
@@ -1455,7 +1630,7 @@
                     "The Sha-La-Lee's",
                     "The Glücks"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32879/feuerengel-extra-show/"
             },
             {
                 "Date": "2026-10-24",
@@ -1467,7 +1642,7 @@
                 "Bands": [
                     "Feuerengel"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32880/feuerengel/"
             },
             {
                 "Date": "2026-11-07",
@@ -1478,7 +1653,7 @@
                 "Bands": [
                     "Electric Eel Shock"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstellingen/agenda/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32889/electric-eel-shock/"
             }
         ]
     },
@@ -3124,18 +3299,6 @@
                 "Url": "https://dbsutrecht.nl/agenda/"
             },
             {
-                "Date": "2026-05-15",
-                "Venue": "dB’s Studio",
-                "Genres": [
-                    "grindcore"
-                ],
-                "Bands": [
-                    "test",
-                    "test"
-                ],
-                "Url": "https://dbsutrecht.nl/agenda/"
-            },			
-            {
                 "Date": "2026-05-17",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
@@ -3601,7 +3764,6 @@
                 ],
                 "Featured": true,
                 "Url": "https://musicon.nl/event/warlord-razorblade-messiah/",
-                "ExtraInfo": "WARLORD\nWarlord behoort tot de grondleggers van wat later epic metal zou gaan heten. De band ontstond in 1981 uit het creatieve brein van gitarist en songwriter William J. Tsamis en drummer Mark Zonder en groeide uit tot een cultnaam met een enorme schare trouwe volgers. Door Tsamis’ gezondheidsproblemen was Warlord lange tijd zelden live te zien, wat hun status alleen maar mythischer maakte. Het overlijden van Tsamis in mei 2021 betekende een zware klap, maar niet het einde.\n\nVoor zijn dood liet Tsamis een schat aan onafgemaakte composities en demo’s na, die samen met zanger Giles Lavery werden uitgewerkt tot het album Free Spirit Soar (2024): een eerbetoon aan zijn nalatenschap. Met een vernieuwde line-up, aangevoerd door Mark Zonder, staat Warlord opnieuw op het podium. Epische metal, gedragen door geschiedenis, emotie en hernieuwde kracht — eindelijk weer live te ervaren.\n\nRAZORBLADE MESSIAH\nRazorblade Messiah is een vierkoppige old school metalband uit Rotterdam, opgericht in 2015. De band put uit de erfenis van de grote thrashers uit de jaren 80 en mengt dat met invloeden uit heavy metal, speed metal en powermetal. Dat levert een strakke, agressieve sound op met pompende ritmes, vlijmscherpe riffs, vurige gitaarsolo’s en kenmerkende rauwe zang vol krachtige uithalen. Live staat Razorblade Messiah bekend om een podiumperformance die niets aan de verbeelding overlaat: explosief, energiek en gedreven door intensiteit én vakmanschap. Met sterke interactie en een onstuitbare drive krijgen ze elke zaal in beweging en laten ze een blijvende indruk achter.",
                 "ImageSource": "https://musicon.nl/wp-content/uploads/2026/01/WARLORD-2024-Photo1-1024x801-1-e1768568862673.jpg"
             },
             {
@@ -3836,7 +3998,7 @@
                 ],
                 "Bands": [
                     "-(16)-",
-					"Aufhebung"
+                    "Aufhebung"
                 ],
                 "Url": "https://baroeg.nl/agenda/"
             },
