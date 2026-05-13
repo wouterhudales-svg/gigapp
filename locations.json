@@ -1,8 +1,8 @@
 [
     {
         "City": "Vierlingsbeek",
-        "Latitude": "51.5833",
-        "Longitude": "5.9667",
+        "Latitude": 51.5833,
+        "Longitude": 5.9667,
         "Gigs": [
             {
                 "Date": "2026-05-13",
