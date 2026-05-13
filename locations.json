@@ -15,18 +15,6 @@
                     "Powerslave"
                 ],
                 "Url": "https://gryphus.nl/"
-            },
-            {
-                "Date": "2026-11-07",
-                "Title": "Beukfeest 49",
-                "Venue": "Gryphus",
-                "Url": "https://gryphus.nl/"
-            },
-            {
-                "Date": "2027-04-17",
-                "Title": "Beukfeest 50",
-                "Venue": "Gryphus",
-                "Url": "https://gryphus.nl/"
             }
         ]
     },
@@ -145,24 +133,6 @@
                     "After echoes"
                 ],
                 "Url": "https://nederlanddrie.nl/evenement/metalthraxx-sad-but-tribute-slayer-cover-band/"
-            },
-            {
-                "Date": "2026-08-07",
-                "Title": "Waterpop Festival",
-                "Venue": "Hofpark",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Url": "https://www.waterpop.nl/"
-            },
-            {
-                "Date": "2026-08-08",
-                "Title": "Waterpop Festival",
-                "Venue": "Hofpark",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Url": "https://www.waterpop.nl/"
             }
         ]
     },
@@ -179,15 +149,6 @@
                 ],
                 "Bands": [
                     "Raven"
-                ],
-                "Url": "https://www.cafecalluna.nl/"
-            },
-            {
-                "Date": "2026-07-04",
-                "Title": "Slayer + Megadeth Tribute",
-                "Venue": "Café Calluna",
-                "Genres": [
-                    "thrash metal"
                 ],
                 "Url": "https://www.cafecalluna.nl/"
             }
@@ -217,15 +178,6 @@
         "Latitude": "53.144",
         "Longitude": "7.0346",
         "Gigs": [
-            {
-                "Date": "2026-05-30",
-                "Title": "Sodom Metal Night 34!",
-                "Venue": "Carambole",
-                "Genres": [
-                    "thrash metal"
-                ],
-                "Url": "https://www.carambole.nl/"
-            },
             {
                 "Date": "2026-09-19",
                 "Venue": "Carambole",
@@ -481,17 +433,7 @@
         "City": "Heerhugowaard",
         "Latitude": "52.6629",
         "Longitude": "4.8286",
-        "Gigs": [
-            {
-                "Date": "2026-05-09",
-                "Title": "Extreme Metal Mayhem #2",
-                "Venue": "JC Kompleks",
-                "Genres": [
-                    "death metal"
-                ],
-                "Url": "https://www.kompleks.nl/"
-            }
-        ]
+        "Gigs": []
     },
     {
         "City": "Sittard",
@@ -528,18 +470,7 @@
         "City": "Katwijk",
         "Latitude": "52.2033",
         "Longitude": "4.3986",
-        "Gigs": [
-            {
-                "Date": "2026-10-16",
-                "Title": "The big 4 tribute night",
-                "Venue": "Scum",
-                "Genres": [
-                    "thrash metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.scumkatwijk.nl/"
-            }
-        ]
+        "Gigs": []
     },
     {
         "City": "Assen",
@@ -2256,24 +2187,6 @@
                 "Url": "https://www.doornroosje.nl/event/laibach/"
             },
             {
-                "Date": "2026-10-09",
-                "Title": "Soulcrusher Festival",
-                "Venue": "Doornroosje",
-                "Genres": [
-                    "death metal"
-                ],
-                "Url": "https://www.doornroosje.nl/event/soulcrusher-2026/"
-            },
-            {
-                "Date": "2026-10-10",
-                "Title": "Soulcrusher Festival",
-                "Venue": "Doornroosje",
-                "Genres": [
-                    "death metal"
-                ],
-                "Url": "https://www.doornroosje.nl/event/soulcrusher-2026-1/"
-            },
-            {
                 "Date": "2026-10-24",
                 "Venue": "Doornroosje",
                 "Genres": [
@@ -3488,24 +3401,6 @@
                     "Alcest"
                 ],
                 "Url": "https://www.tivolivredenburg.nl/agenda/41895184/alcest-18-08-2026"
-            },
-            {
-                "Date": "2026-08-22",
-                "Title": "Duister Collectief",
-                "Venue": "dB's Studio",
-                "Genres": [
-                    "black metal"
-                ],
-                "Url": "https://dbstudio.nl/event/duister-collectief/"
-            },
-            {
-                "Date": "2026-08-23",
-                "Title": "Duister Collectief",
-                "Venue": "dB's Studio",
-                "Genres": [
-                    "black metal"
-                ],
-                "Url": "https://dbstudio.nl/event/duister-collectief-2/"
             },
             {
                 "Date": "2026-09-03",
