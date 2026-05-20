@@ -5,13 +5,14 @@
         "Longitude":  5.9667,
         "Gigs":  [
                      {
-                         "Date":  "2026-05-21",
-                         "Title":  "Maiden Night 2026",
-                         "Venue":  "Gryphus",
-                         "Genres":  [
-                                        "heavy metal"
-                                    ],
-                         "Url":  "https://gryphus.nl/"
+                         "Date":  "2026-11-07",
+                         "Title":  "Beukfeest 49",
+                         "Venue":  "Gryphus"
+                     },
+					 {
+                         "Date":  "2027-04-17",
+                         "Title":  "Beukfeest 50",
+                         "Venue":  "Gryphus"
                      }
                  ]
     },
