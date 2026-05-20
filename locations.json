@@ -5,15 +5,12 @@
         "Longitude":  5.9667,
         "Gigs":  [
                      {
-                         "Date":  "2026-05-13",
+                         "Date":  "2026-05-21",
                          "Title":  "Maiden Night 2026",
                          "Venue":  "Gryphus",
                          "Genres":  [
                                         "heavy metal"
                                     ],
-                         "Bands":  [
-                                       "Powerslave"
-                                   ],
                          "Url":  "https://gryphus.nl/"
                      }
                  ]
