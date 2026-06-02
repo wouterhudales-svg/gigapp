@@ -1459,6 +1459,22 @@
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32867/blaas-of-glory/"
             },
             {
+                "Date": "2026-06-10",
+                "Title": "Test test",
+                "Venue": "Hedon",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Atomization",
+                    "Metallica",
+                    "Slayer",
+                    "Megadeth",
+                    "Anthrax"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32867/blaas-of-glory/"
+            },            
+            {
                 "Date": "2026-06-18",
                 "Venue": "Hedon",
                 "Genres": [
