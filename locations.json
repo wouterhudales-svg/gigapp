@@ -7,12 +7,16 @@
             {
                 "Date": "2026-11-07",
                 "Venue": "Gryphus",
-                "Title": "Beukfeest 49"
+                "Bands": [
+                    "Beukfeest 49"
+                ]
             },
             {
                 "Date": "2027-04-17",
                 "Venue": "Gryphus",
-                "Title": "Beukfeest 50"
+                "Bands": [
+                    "Beukfeest 50"
+                ]
             }
         ]
     },
@@ -25,9 +29,19 @@
                 "Date": "2026-06-25",
                 "Venue": "Jera On Air",
                 "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Jera On Air 2026"
+                ],
+                "Url": "https://www.jeraonair.nl/nl/line-up/"
+            },
+            {
+                "Date": "2026-06-25",
+                "Venue": "Jera On Air",
+                "Genres": [
                     "metalcore"
                 ],
-                "Title": "Jera On Air 2026",
                 "Bands": [
                     "Architects",
                     "Trivium",
@@ -43,9 +57,19 @@
                 "Date": "2026-06-26",
                 "Venue": "Jera On Air",
                 "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Jera On Air 2026"
+                ],
+                "Url": "https://www.jeraonair.nl/nl/line-up/"
+            },
+            {
+                "Date": "2026-06-26",
+                "Venue": "Jera On Air",
+                "Genres": [
                     "metalcore"
                 ],
-                "Title": "Jera On Air 2026",
                 "Bands": [
                     "A Day To Remember",
                     "Hollywood Undead",
@@ -58,9 +82,19 @@
                 "Date": "2026-06-27",
                 "Venue": "Jera On Air",
                 "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Jera On Air 2026"
+                ],
+                "Url": "https://www.jeraonair.nl/nl/line-up/"
+            },
+            {
+                "Date": "2026-06-27",
+                "Venue": "Jera On Air",
+                "Genres": [
                     "metalcore"
                 ],
-                "Title": "Jera On Air 2026",
                 "Bands": [
                     "Desolated",
                     "Distant",
@@ -4199,27 +4233,6 @@
         "Longitude": "5.1214",
         "Gigs": [
             {
-                "Date": "2026-06-05",
-                "Title": "Tante Alies Metalquiz Karaoke Avond",
-                "Venue": "Tivoli Vredenburg",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.tivolivredenburg.nl/agenda/64854420/tante-alies-metalquiz-karaoke-avond-05-06-2026/"
-            },
-            {
-                "Date": "2026-06-09",
-                "Venue": "Tivoli Vredenburg",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Metal Yoga"
-                ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/63654690/metal-yoga-09-06-2026/"
-            },
-            {
                 "Date": "2026-06-12",
                 "Venue": "dB's Studio",
                 "Genres": [
@@ -4242,17 +4255,6 @@
                     "The Wacko's"
                 ],
                 "Url": "https://dbstudio.nl/event/melt-banana-jap/"
-            },
-            {
-                "Date": "2026-06-20",
-                "Venue": "Tivoli Vredenburg",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Metal Yoga"
-                ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/96850087/metal-yoga-20-06-2026/"
             },
             {
                 "Date": "2026-06-23",
