@@ -29,7 +29,7 @@
                 "Genres": [
                     "metalcore"
                 ],
-				"Title": "Jera On Air 2026",
+                "Title": "Jera On Air 2026",
                 "Bands": [
                     "Architects",
                     "Trivium",
@@ -47,7 +47,7 @@
                 "Genres": [
                     "metalcore"
                 ],
-				"Title": "Jera On Air 2026",
+                "Title": "Jera On Air 2026",
                 "Bands": [
                     "A Day To Remember",
                     "Hollywood Undead",
@@ -62,7 +62,7 @@
                 "Genres": [
                     "metalcore"
                 ],
-				"Title": "Jera On Air 2026",
+                "Title": "Jera On Air 2026",
                 "Bands": [
                     "Desolated",
                     "Distant",
@@ -176,6 +176,30 @@
         "Gigs": []
     },
     {
+        "City": "Emmer-Compascuum",
+        "Latitude": "52.8906",
+        "Longitude": "7.0458",
+        "Gigs": [
+            {
+                "Date": "2026-09-05",
+                "Venue": "Evenemententerrein",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Nefarious",
+                    "Against Evil",
+                    "The Wounded",
+                    "Massive Assault",
+                    "Mandator",
+                    "Wicked Leather"
+                ],
+                "Title": "Metalyard Open Air",
+                "Url": "https://poppodiumemmen.nl/all-events/?event=3777"
+            }
+        ]
+    },
+    {
         "City": "Aalten",
         "Latitude": "51.9258",
         "Longitude": "6.5809",
@@ -269,9 +293,12 @@
                 "Genres": [
                     "grindcore"
                 ],
-                "Bands": [],
-                "Url": "https://iduna.nl/agenda/escuela-grind-2/",
-                "Title": "Escuela Grind"
+                "Bands": [
+                    "Escuela Grind",
+                    "Spit For The Masses",
+                    "SERVE"
+                ],
+                "Url": "https://iduna.nl/agenda/escuela-grind-2/"
             },
             {
                 "Date": "2026-09-04",
@@ -279,9 +306,10 @@
                 "Genres": [
                     "black metal"
                 ],
-                "Bands": [],
-                "Url": "https://iduna.nl/agenda/samael/",
-                "Title": "Samael"
+                "Bands": [
+                    "Samael"
+                ],
+                "Url": "https://iduna.nl/agenda/samael/"
             },
             {
                 "Date": "2026-10-09",
@@ -315,9 +343,23 @@
                     "punk"
                 ],
                 "Bands": [
-                    "The Bones"
+                    "The Bones",
+                    "Murphy's Law",
+                    "The Drowns",
+                    "Teflon Dons"
                 ],
                 "Url": "https://iduna.nl/agenda/the-bones/"
+            },
+            {
+                "Date": "2026-10-29",
+                "Venue": "Iduna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Geoff Tate"
+                ],
+                "Url": "https://iduna.nl/agenda/geoff-tate/"
             },
             {
                 "Date": "2026-11-22",
@@ -329,6 +371,17 @@
                     "Pro-Pain"
                 ],
                 "Url": "https://iduna.nl/agenda/pro-pain-2/"
+            },
+            {
+                "Date": "2026-11-27",
+                "Venue": "Iduna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://iduna.nl/agenda/acindc-2/"
             }
         ]
     },
@@ -356,8 +409,77 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.bospop.nl/"
+                "Bands": [
+                    "Volbeat",
+                    "Within Temptation",
+                    "Airbourne",
+                    "Floor Jansen",
+                    "Steel Panther",
+                    "Biohazard",
+                    "Parris",
+                    "Bizkit Park",
+                    "Ally Venable",
+                    "The Damn Truth",
+                    "Regressive Hypnosis",
+                    "Heartland Drive",
+                    "The Hara",
+                    "Munchy Bunch"
+                ],
+                "Url": "https://bospopfestival.nl/programma/"
+            },
+            {
+                "Date": "2026-07-11",
+                "Title": "Bospop Festival",
+                "Venue": "Evenemententerrein",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Moby",
+                    "ZZ Top",
+                    "Kaiser Chiefs",
+                    "Kensington",
+                    "Clouseau",
+                    "Razorlight",
+                    "Triggerfinger",
+                    "Beach Boys' Best",
+                    "The Ultimate Eagles",
+                    "The Commoners",
+                    "Cooking With Knopfler",
+                    "Tribute To Toto",
+                    "Henrik Freischlader",
+                    "The K's",
+                    "Green Crow Collective",
+                    "Baskery"
+                ],
+                "Url": "https://bospopfestival.nl/programma/"
+            },
+            {
+                "Date": "2026-07-12",
+                "Title": "Bospop Festival",
+                "Venue": "Evenemententerrein",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Lenny Kravitz",
+                    "Anouk",
+                    "Counting Crows",
+                    "Chris Isaak",
+                    "OMD",
+                    "Palaye Royale",
+                    "Fantastic Negrito",
+                    "The Rumjacks",
+                    "Jett Rebel",
+                    "The Fatal Flowers",
+                    "Goodbye June",
+                    "Grace Bowers",
+                    "Jesper Lindell",
+                    "D.K. Harrell",
+                    "Dawn Brothers",
+                    "Hideous"
+                ],
+                "Url": "https://bospopfestival.nl/programma/"
             }
         ]
     },
@@ -371,7 +493,14 @@
         "City": "Hoogeveen",
         "Latitude": "52.7267",
         "Longitude": "6.4789",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-09-05",
+                "Title": "Occultfest",
+                "Venue": "Hoogeveen",
+                "Bands": []
+            }
+        ]
     },
     {
         "City": "Heerhugowaard",
@@ -479,6 +608,17 @@
                 "Url": "https://www.metropool.nl/agenda/possessed"
             },
             {
+                "Date": "2026-07-10",
+                "Venue": "Metropool",
+                "Genres": [
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Zeke"
+                ],
+                "Url": "https://www.metropool.nl/agenda/zeke"
+            },
+            {
                 "Date": "2026-09-18",
                 "Venue": "Metropool",
                 "Genres": [
@@ -489,7 +629,8 @@
                     "Dad Vibes",
                     "Psychosocial"
                 ],
-                "Url": "https://www.metropool.nl/agenda/nu-metal-night"
+                "Url": "https://www.metropool.nl/agenda/nu-metal-night",
+                "Title": "Nu-Metal Night"
             },
             {
                 "Date": "2026-09-19",
@@ -540,13 +681,26 @@
                 "Url": "https://www.metropool.nl/agenda/firtan"
             },
             {
+                "Date": "2026-10-02",
+                "Venue": "Metropool",
+                "Genres": [
+                    "black metal",
+					"death metal"
+                ],
+                "Bands": [
+                    "Belphegor",
+                    "Krisiun",
+					"Asagraum"
+                ]
+            },			
+            {
                 "Date": "2026-10-23",
                 "Venue": "Metropool",
                 "Genres": [
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Acindc"
+                    "ACinDC"
                 ],
                 "Url": "https://www.metropool.nl/agenda/acindc"
             },
@@ -617,12 +771,14 @@
         "Gigs": [
             {
                 "Date": "2026-06-12",
-                "Title": "Cro-mags The Age Of Quarrel - 40th Anniversary Tour",
                 "Venue": "Grenswerk",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Cro-Mags",
+                    "Trenchwar"
+                ],
                 "Url": "https://grenswerk.nl/agenda/cro-mags/"
             },
             {
@@ -633,27 +789,7 @@
                 ],
                 "Bands": [],
                 "Url": "https://grenswerk.nl/agenda/hard-2/",
-                "Title": "Hard! Aftershow Cro"
-            },
-            {
-                "Date": "2026-06-12",
-                "Venue": "Grenswerk",
-                "Genres": [
-                    "punk"
-                ],
-                "Bands": [],
-                "Url": "https://grenswerk.nl/agenda/",
-                "Title": "Cro‑mags"
-            },
-            {
-                "Date": "2026-06-17",
-                "Venue": "Grenswerk",
-                "Genres": [
-                    "punk"
-                ],
-                "Bands": [],
-                "Url": "https://grenswerk.nl/agenda/",
-                "Title": "The Exploited"
+                "Title": "Hard! Aftershow Cro-Mags"
             },
             {
                 "Date": "2026-08-05",
@@ -661,28 +797,20 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://grenswerk.nl/agenda/",
-                "Title": "Alien Ant Farm"
-            },
-            {
-                "Date": "2026-08-05",
-                "Venue": "Grenswerk",
-                "Genres": [
-                    "heavy metal"
+                "Bands": [
+                    "Alien Ant Farm"
                 ],
-                "Bands": [],
-                "Url": "https://grenswerk.nl/agenda/alien-ant-farm/",
-                "Title": "Alien Ant Farm Uk/eu Summer 2026"
+                "Url": "https://grenswerk.nl/agenda/alien-ant-farm/"
             },
             {
                 "Date": "2026-10-02",
-                "Title": "Betontod Wir Fangen Jetzt Erst An! Tour 2026",
                 "Venue": "Grenswerk",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Betontod"
+                ],
                 "Url": "https://grenswerk.nl/agenda/betontod/"
             },
             {
@@ -696,17 +824,7 @@
                     "Aurorawave",
                     "Sugar Spine"
                 ],
-                "Url": "https://grenswerk.nl/agenda/"
-            },
-            {
-                "Date": "2026-12-18",
-                "Venue": "Grenswerk",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://grenswerk.nl/agenda/",
-                "Title": "Árstíðir"
+                "Url": "https://grenswerk.nl/agenda/tenside/"
             }
         ]
     },
@@ -803,7 +921,108 @@
         "City": "Dordrecht",
         "Latitude": "51.8133",
         "Longitude": "4.6908",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-06-17",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Snot",
+                    "Doodseskader",
+                    "3 Eyed Kids"
+                ],
+                "Url": "https://bibelot.net/programma/snot-us-bibelot/"
+            },
+            {
+                "Date": "2026-06-21",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ankor"
+                ],
+                "Url": "https://bibelot.net/programma/ankor-es/"
+            },
+            {
+                "Date": "2026-07-04",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Bold",
+                    "Contention",
+                    "Clique",
+                    "Fear The Lord",
+                    "No Way"
+                ],
+                "Url": "https://bibelot.net/programma/bold-us-contention-us-clique-us/"
+            },
+            {
+                "Date": "2026-08-09",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Midnight",
+                    "Phantom Corporation"
+                ],
+                "Url": "https://bibelot.net/programma/midnight-usa-phantom-corporation-de/"
+            },
+            {
+                "Date": "2026-09-05",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Béton Armé",
+                    "Robber"
+                ],
+                "Url": "https://bibelot.net/programma/beton-arme-ca-robber/"
+            },
+            {
+                "Date": "2026-09-06",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Shape Of Despair",
+                    "Marche Funèbre",
+                    "Counting Hours"
+                ],
+                "Url": "https://bibelot.net/programma/shape-of-despair-fi-marche-funebre-be-counting-hours-fi/"
+            },
+            {
+                "Date": "2026-10-01",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Belphegor",
+                    "Krisiun",
+                    "Asagraum"
+                ],
+                "Url": "https://bibelot.net/programma/belphegor-aut-krisiun-bra-asagraum/"
+            },
+            {
+                "Date": "2026-11-04",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "The Obsessed"
+                ],
+                "Url": "https://bibelot.net/programma/the-obsessed-us/"
+            }
+        ]
     },
     {
         "City": "Ede",
@@ -865,26 +1084,38 @@
         "Longitude": "5.7999",
         "Gigs": [
             {
-                "Date": "2026-06-06",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Flotsam And Jetsam",
-                    "Atmoran"
-                ],
-                "Url": "https://www.neushoorn.nl/events/flotsam-and-jetsam"
-            },
-            {
                 "Date": "2026-06-12",
                 "Venue": "Leeuwarden",
                 "Genres": [
                     "death metal"
                 ],
-                "Bands": [],
-                "Url": "https://intothegrave.nl/",
+                "Bands": [
+                    "Anthrax",
+                    "Lacuna Coil",
+                    "Vandenberg",
+                    "Fimbul Winter",
+                    "Self Deception",
+                    "Conan",
+                    "Raised By Owls",
+                    "Picture",
+                    "Predatory Void",
+                    "Revnoir",
+                    "Inhuman Nature"
+                ],
+                "Url": "https://intothegrave.nl/line-up/",
                 "Title": "Into The Grave"
+            },
+            {
+                "Date": "2026-06-12",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Deaf Förever"
+                ],
+                "Title": "Into The Grave afterparty",
+                "Url": "https://www.neushoorn.nl/events/deaf-forever"
             },
             {
                 "Date": "2026-06-13",
@@ -892,8 +1123,20 @@
                 "Genres": [
                     "death metal"
                 ],
-                "Bands": [],
-                "Url": "https://intothegrave.nl/",
+                "Bands": [
+                    "The Gathering",
+                    "Paleface Swiss",
+                    "Destruction",
+                    "Carach Angren",
+                    "Rivers Of Nihil",
+                    "Graceless",
+                    "Blackbriar",
+                    "Severe Torture",
+                    "Gnome",
+                    "Dormant Ordeal",
+                    "Atmoran"
+                ],
+                "Url": "https://intothegrave.nl/line-up/",
                 "Title": "Into The Grave"
             },
             {
@@ -902,9 +1145,12 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/the-motherz-itg",
-                "Title": "Into The Grave Afterparty"
+                "Bands": [
+                    "The Motherz",
+                    "The SuperMicks"
+                ],
+                "Title": "Into The Grave afterparty",
+                "Url": "https://www.neushoorn.nl/events/the-motherz-itg"
             },
             {
                 "Date": "2026-06-14",
@@ -920,11 +1166,13 @@
                 "Date": "2026-06-17",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "heavy metal"
+                    "black metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/cradle-of-filth",
-                "Title": "Cradle Of Filth"
+                "Bands": [
+                    "Cradle of Filth",
+                    "OLTAS"
+                ],
+                "Url": "https://www.neushoorn.nl/events/cradle-of-filth"
             },
             {
                 "Date": "2026-07-03",
@@ -936,21 +1184,12 @@
                     "Boneripper",
                     "Trickstate",
                     "Bot Mes"
-                ]
-            },
-            {
-                "Date": "2026-07-03",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "hardcore"
                 ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/hardcore-vrijdag-jul",
-                "Title": "Hardcore Vrijdag"
+                "Title": "Hardcore Vrijdag",
+                "Url": "https://www.neushoorn.nl/events/hardcore-vrijdag-jul"
             },
             {
                 "Date": "2026-07-04",
-                "Title": "A Tribute To: Back To The Beginning",
                 "Venue": "Neushoorn",
                 "Genres": [
                     "heavy metal"
@@ -959,20 +1198,12 @@
                     "Bloody Sabbath",
                     "Ultimate Ozzy",
                     "Meatallica",
-                    "The Art Of Pantera",
+                    "The Art of Pantera",
                     "Slayer Coverband",
-                    "We're The Men",
+                    "We're the Men",
                     "Lionesz"
-                ]
-            },
-            {
-                "Date": "2026-07-04",
-                "Title": "A Tribute To",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
                 ],
-                "Bands": [],
+                "Title": "A Tribute To: Back To The Beginning",
                 "Url": "https://www.neushoorn.nl/events/back-to-the-beginning"
             },
             {
@@ -1003,24 +1234,12 @@
                 "Date": "2026-08-03",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/alien-ant-farm",
-                "Title": "Alien Ant Farm"
-            },
-            {
-                "Date": "2026-08-08",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
+                    "nu metal"
                 ],
                 "Bands": [
-                    "Deceased...",
-                    "Putridarium",
-                    "Mancuerda"
+                    "Alien Ant Farm"
                 ],
-                "Url": "https://www.neushoorn.nl/events/deceased"
+                "Url": "https://www.neushoorn.nl/events/alien-ant-farm"
             },
             {
                 "Date": "2026-08-08",
@@ -1029,7 +1248,7 @@
                     "death metal"
                 ],
                 "Bands": [
-                    "Deceased",
+                    "Deceased...",
                     "Putridarium",
                     "Mancuerda"
                 ],
@@ -1049,17 +1268,6 @@
             },
             {
                 "Date": "2026-09-26",
-                "Title": "Into The Void",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/into-the-void-26"
-            },
-            {
-                "Date": "2026-09-26",
-                "Title": "Into The Void",
                 "Venue": "Neushoorn",
                 "Genres": [
                     "doom metal"
@@ -1067,7 +1275,7 @@
                 "Bands": [
                     "1000mods",
                     "Kryptograf",
-                    "The Devil And The Almighty Blues",
+                    "The Devil and the Almighty Blues",
                     "Belzebong",
                     "Tankzilla",
                     "Iron Jinn",
@@ -1075,43 +1283,36 @@
                     "Daevar",
                     "Spirit Mother",
                     "Anciients"
-                ]
-            },
-            {
-                "Date": "2026-10-17",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/fajtfest-fryslan-26",
-                "Title": "Fajtfest Fryslân"
+                "Title": "Into The Void",
+                "Url": "https://www.neushoorn.nl/events/into-the-void-26"
             },
             {
                 "Date": "2026-10-17",
-                "Title": "Fajtfest Fryslân",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "death metal"
+                    "metalcore"
                 ],
                 "Bands": [
                     "Crippled Fingers",
                     "Disdain",
-                    "Nonsense"
-                ]
+                    "Nonsense",
+                    "Trenchwar",
+                    "Haywire",
+                    "Oceans Turn Red",
+                    "Payback"
+                ],
+                "Title": "Fajtfest Fryslân",
+                "Url": "https://www.neushoorn.nl/events/fajtfest-fryslan-26"
             },
             {
                 "Date": "2026-11-06",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "heavy metal"
+                    "progressive metal"
                 ],
                 "Bands": [
-                    "O.r.k",
-                    "Tetsuwan",
-                    "Ellende",
-                    "Karg",
-                    "Firtan"
+                    "O.R.k."
                 ],
                 "Url": "https://www.neushoorn.nl/events/ork"
             },
@@ -1119,7 +1320,7 @@
                 "Date": "2026-11-27",
                 "Venue": "Neushoorn",
                 "Genres": [
-                    "death metal"
+                    "heavy metal"
                 ],
                 "Bands": [
                     "Plan Nine",
@@ -1128,24 +1329,43 @@
                 "Url": "https://www.neushoorn.nl/events/plan-nine"
             },
             {
+                "Date": "2027-01-16",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Up The Irons"
+                ],
+                "Title": "Somewhere in Time 40th Anniversary Tour",
+                "Url": "https://www.neushoorn.nl/events/up-the-irons"
+            },
+            {
+                "Date": "2027-02-19",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Tool Experience"
+                ],
+                "Url": "https://www.neushoorn.nl/events/the-tool-experience"
+            },
+            {
                 "Date": "2027-02-23",
                 "Venue": "Neushoorn",
                 "Genres": [
                     "death metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/shred-fest-2027",
-                "Title": "Shred Fest 2027"
-            },
-            {
-                "Date": "2027-07-03",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "metalcore"
+                "Bands": [
+                    "Obscura",
+                    "Pestilence",
+                    "Cryptic Shift",
+                    "Thus",
+                    "DVRK"
                 ],
-                "Bands": [],
-                "Url": "https://www.neushoorn.nl/events/hardcore-vrijdag-jul/",
-                "Title": "Hardcore Vrijdag"
+                "Title": "Shred Fest 2027",
+                "Url": "https://www.neushoorn.nl/events/shred-fest-2027"
             }
         ]
     },
@@ -1175,61 +1395,51 @@
         "Longitude": "4.4941",
         "Gigs": [
             {
-                "Date": "2026-06-05",
-                "Venue": "Boerderij",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Flotsam And Jetsam",
-                    "Razorblade Messiah"
-                ],
-                "Url": "https://boerderij.nl/agenda/"
-            },
-            {
-                "Date": "2026-06-06",
-                "Venue": "Boerderij",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Kristoffer Gildenlow",
-                    "A Liquid Landscape"
-                ],
-                "Url": "https://boerderij.nl/agenda/"
-            },
-            {
-                "Date": "2026-06-13",
-                "Venue": "Boerderij",
-                "Genres": [
-                    "power metal"
-                ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Evergrey"
-            },
-            {
                 "Date": "2026-08-08",
                 "Venue": "Boerderij",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Armored Saint"
+                "Bands": [
+                    "Armored Saint"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/armoredsaint/"
+            },
+            {
+                "Date": "2026-09-09",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Samurai Of Prog"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/thesamuraiofprog/"
+            },
+            {
+                "Date": "2026-09-18",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Tangent",
+                    "Molstone"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/thetangent/"
             },
             {
                 "Date": "2026-09-19",
                 "Venue": "Boerderij",
                 "Genres": [
-                    "heavy metal"
+                    "progressive metal"
                 ],
                 "Bands": [
                     "Oddland",
                     "Mother Of Millions",
                     "Ring Of Gyges"
                 ],
-                "Url": "https://boerderij.nl/agenda/"
+                "Url": "https://poppodiumboerderij.nl/programma/oddland-mother-of-millions/"
             },
             {
                 "Date": "2026-09-20",
@@ -1241,7 +1451,7 @@
                     "Antimatter",
                     "Sleeping Pulse"
                 ],
-                "Url": "https://boerderij.nl/agenda/"
+                "Url": "https://poppodiumboerderij.nl/programma/antimatter-sleepingpulse/"
             },
             {
                 "Date": "2026-10-04",
@@ -1249,9 +1459,22 @@
                 "Genres": [
                     "power metal"
                 ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Myrath"
+                "Bands": [
+                    "Myrath",
+                    "Roses Of Thieves"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/myrath/"
+            },
+            {
+                "Date": "2026-10-23",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Diggeth"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/diggeth/"
             },
             {
                 "Date": "2026-10-24",
@@ -1259,19 +1482,23 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Threshold"
+                "Bands": [
+                    "Threshold",
+                    "Ancient Curse",
+                    "Course Of Fate"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/threshold/"
             },
             {
                 "Date": "2026-10-25",
                 "Venue": "Boerderij",
                 "Genres": [
-                    "heavy metal"
+                    "progressive metal"
                 ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Solstice"
+                "Bands": [
+                    "Solstice"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/solstice/"
             },
             {
                 "Date": "2026-10-27",
@@ -1279,9 +1506,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Geoff Tate"
+                "Bands": [
+                    "Geoff Tate"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/geofftate/"
             },
             {
                 "Date": "2026-11-21",
@@ -1289,9 +1517,44 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://boerderij.nl/agenda/",
-                "Title": "Acindc"
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/acindc/"
+            },
+            {
+                "Date": "2026-11-29",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Anneke van Giersbergen"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/annekevangiersbergen2026/"
+            },
+            {
+                "Date": "2026-12-03",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Mike Keneally Report",
+                    "Dave Cureton"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/themikekeneallyreport-davecureton/"
+            },
+            {
+                "Date": "2027-01-15",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Made In Purple"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/madeinpurple/"
             }
         ]
     },
@@ -1301,43 +1564,27 @@
         "Longitude": "6.0833",
         "Gigs": [
             {
-                "Date": "2026-06-06",
-                "Venue": "Hedon",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32867/blaas-of-glory/",
-                "Title": "Blaas Of Glory"
-            },
-            {
                 "Date": "2026-06-17",
                 "Venue": "Hedon",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32971/deltion-residentie-showcase/",
+                "Bands": [
+                    "Logbait",
+                    "Heren"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32971/logbait-x-heren/",
                 "Title": "Deltion Residentie Showcase"
             },
             {
                 "Date": "2026-06-18",
                 "Venue": "Hedon",
                 "Genres": [
+                    "thrash metal",
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32890/venom-inc/",
-                "Title": "Venom Inc."
-            },
-            {
-                "Date": "2026-06-18",
-                "Venue": "Hedon",
-                "Genres": [
-                    "thrash metal"
-                ],
                 "Bands": [
-                    "Venom Inc",
+                    "Venom Inc.",
                     "Torture Squad"
                 ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32890/venom-inc/",
@@ -1348,24 +1595,15 @@
                 "Date": "2026-06-19",
                 "Venue": "Hedon",
                 "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32902/prog-metal-night/",
-                "Title": "Prog Metal Night"
-            },
-            {
-                "Date": "2026-06-19",
-                "Venue": "Hedon",
-                "Genres": [
-                    "heavy metal"
+                    "progressive metal"
                 ],
                 "Bands": [
                     "Ok Goodnight",
                     "Benthos",
                     "Ursa"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32902/ok-goodnight-benthos-ursa/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32902/prog-metal-night/",
+                "Title": "Prog Metal Night"
             },
             {
                 "Date": "2026-06-24",
@@ -1373,19 +1611,21 @@
                 "Genres": [
                     "black metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32882/gaerea/",
-                "Title": "Gaerea"
+                "Bands": [
+                    "Gaerea"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32882/gaerea/"
             },
             {
-                "Date": "2026-10-23",
+                "Date": "2026-09-24",
                 "Venue": "Hedon",
                 "Genres": [
-                    "nu metal"
+                    "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32879/feuerengel-extra-show/",
-                "Title": "Feuerengel"
+                "Bands": [
+                    "Ploegendienst"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32960/ploegendienst/"
             },
             {
                 "Date": "2026-10-23",
@@ -1394,20 +1634,20 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "The Sore Losers",
-                    "The Sha",
-                    "The Glücks"
-                ]
+                    "Feuerengel"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32879/feuerengel-extra-show/"
             },
             {
                 "Date": "2026-10-24",
                 "Venue": "Hedon",
                 "Genres": [
-                    "nu metal"
+                    "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32880/feuerengel/",
-                "Title": "Feuerengel"
+                "Bands": [
+                    "Feuerengel"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32880/feuerengel/"
             },
             {
                 "Date": "2026-11-07",
@@ -1415,15 +1655,16 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32889/electric-eel-shock/",
-                "Title": "Electric Eel Shock"
+                "Bands": [
+                    "Electric Eel Shock"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32889/electric-eel-shock/"
             },
             {
                 "Date": "2026-11-13",
                 "Venue": "Hedon",
                 "Genres": [
-                    "heavy metal"
+                    "nu metal"
                 ],
                 "Bands": [],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32981/emo-night-mainland/",
@@ -1435,9 +1676,23 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32980/line-up/",
-                "Title": "Line"
+                "Bands": [
+                    "Iron Jinn",
+                    "Temple Fang"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32980/iron-jinn-temple-fang/"
+            },
+            {
+                "Date": "2027-04-10",
+                "Venue": "Hedon",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "The Toy Dolls"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32915/skroetfest/",
+                "Title": "Skroetfest"
             }
         ]
     },
@@ -1824,41 +2079,36 @@
                 "Date": "2026-06-16",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "metalcore"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/event/knocked-loose/",
-                "Title": "Knocked Loose"
+                "Bands": [
+                    "Knocked Loose",
+                    "State Power"
+                ],
+                "Url": "https://www.doornroosje.nl/event/knocked-loose/"
             },
             {
                 "Date": "2026-06-21",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "doom metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/event/faetooth-2/",
-                "Title": "Faetooth"
+                "Bands": [
+                    "Faetooth",
+                    "Onrust"
+                ],
+                "Url": "https://www.doornroosje.nl/event/faetooth-2/"
             },
             {
                 "Date": "2026-06-25",
-                "Venue": "Doornroosje",
+                "Venue": "Merleyn",
                 "Genres": [
                     "doom metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/event/doom-gong/",
-                "Title": "Doom Gong"
-            },
-            {
-                "Date": "2026-07-07",
-                "Venue": "Doornroosje",
-                "Genres": [
-                    "black metal"
+                "Bands": [
+                    "Doom Gong"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/nl/agenda/",
-                "Title": "Uada"
+                "Url": "https://www.doornroosje.nl/event/doom-gong/"
             },
             {
                 "Date": "2026-08-13",
@@ -1866,15 +2116,18 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/nl/agenda/",
-                "Title": "The Ghost Inside"
+                "Bands": [
+                    "The Ghost Inside",
+                    "Deez Nuts",
+                    "Swanslaughter"
+                ],
+                "Url": "https://www.doornroosje.nl/event/the-ghost-inside/"
             },
             {
                 "Date": "2026-08-18",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "metalcore"
                 ],
                 "Bands": [
                     "Signs Of The Swarm",
@@ -1901,19 +2154,33 @@
                 "Genres": [
                     "doom metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/event/wyatt-e/",
-                "Title": "Wyatt E."
+                "Bands": [
+                    "Wyatt E."
+                ],
+                "Url": "https://www.doornroosje.nl/event/wyatt-e/"
             },
             {
                 "Date": "2026-09-05",
-                "Venue": "Doornroosje",
+                "Venue": "Merleyn",
                 "Genres": [
                     "black metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/nl/agenda/",
-                "Title": "Doodseskader"
+                "Bands": [
+                    "Doodseskader"
+                ],
+                "Url": "https://www.doornroosje.nl/event/doodseskader/"
+            },
+            {
+                "Date": "2026-09-08",
+                "Venue": "Doornroosje",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Roman Candle",
+                    "Filth Is Eternal"
+                ],
+                "Url": "https://www.doornroosje.nl/event/roman-candle/"
             },
             {
                 "Date": "2026-09-13",
@@ -1933,7 +2200,7 @@
                 "Date": "2026-09-17",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "death metal"
                 ],
                 "Bands": [
                     "Allegaeon",
@@ -1958,7 +2225,7 @@
                 "Date": "2026-09-27",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "black metal"
                 ],
                 "Bands": [
                     "Fluisteraars",
@@ -1972,15 +2239,17 @@
                 "Genres": [
                     "power metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/nl/agenda/",
-                "Title": "Myrath"
+                "Bands": [
+                    "Myrath",
+                    "Roses Of Thieves"
+                ],
+                "Url": "https://www.doornroosje.nl/event/myrath/"
             },
             {
                 "Date": "2026-10-05",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "death metal"
                 ],
                 "Bands": [
                     "Unprocessed",
@@ -1995,15 +2264,16 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/event/laibach/",
-                "Title": "Laibach"
+                "Bands": [
+                    "Laibach"
+                ],
+                "Url": "https://www.doornroosje.nl/event/laibach/"
             },
             {
                 "Date": "2026-10-24",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "death metal"
                 ],
                 "Bands": [
                     "Archspire",
@@ -2030,7 +2300,7 @@
                 "Date": "2026-11-24",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "heavy metal"
+                    "black metal"
                 ],
                 "Bands": [
                     "Imperial Triumphant",
@@ -2039,14 +2309,18 @@
                 "Url": "https://www.doornroosje.nl/event/imperial-triumphant/"
             },
             {
-                "Date": "2027-06-25",
+                "Date": "2026-11-29",
                 "Venue": "Doornroosje",
                 "Genres": [
-                    "doom metal"
+                    "death metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.doornroosje.nl/event/doom-gong/",
-                "Title": "Doom Gong"
+                "Bands": [
+                    "Mental Cruelty",
+                    "Ov Sulfur",
+                    "Extermination Dismemberment",
+                    "Sun Eater"
+                ],
+                "Url": "https://www.doornroosje.nl/event/mental-cruelty/"
             }
         ]
     },
@@ -2247,23 +2521,10 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "An Evening With Paul Quinn (saxon)",
+                    "Paul Quinn",
                     "Dee Calhoun"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/an-evening-with-paul-quinn-saxon/"
-            },
-            {
-                "Date": "2026-06-06",
-                "Title": "Pro-pain + Megalomaniacs",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "metalcore"
-                ],
-                "Bands": [
-                    "Pro-pain",
-                    "Megalomaniacs"
-                ],
-                "Url": "https://www.littledevil.nl/calendar/pro-pain-usa-2/"
             },
             {
                 "Date": "2026-06-06",
@@ -2272,39 +2533,21 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Pro",
+                    "Pro-Pain",
                     "Megalomaniacs"
                 ],
-                "Url": "https://littledevil.nl/agenda/"
-            },
-            {
-                "Date": "2026-06-06",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/an-evening-with-paul-quinn-saxon/",
-                "Title": "An Evening With Paul Quinn Saxon"
-            },
-            {
-                "Date": "2026-06-07",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/pro-pain-usa-2/",
-                "Title": "Pro Pain Usa 2"
+                "Url": "https://www.littledevil.nl/calendar/pro-pain-usa-2/"
             },
             {
                 "Date": "2026-06-12",
-                "Title": "Victims Of A System, The Ultimate System Of A Down Tribute",
                 "Venue": "Little Devil",
                 "Genres": [
-                    "heavy metal"
+                    "nu metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Victims of a System"
+                ],
+                "Title": "Ultimate System of a Down tribute",
                 "Url": "https://www.littledevil.nl/calendar/victims-of-a-system/"
             },
             {
@@ -2319,16 +2562,6 @@
                     "Een Vaste Naam Binnen De Wereldwijde Blackmetalscene"
                 ],
                 "Url": "https://hall-fame.nl/programma/abigail-williams-shagor-111630177/"
-            },
-            {
-                "Date": "2026-06-14",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/victims-of-a-system/",
-                "Title": "Victims Of A System"
             },
             {
                 "Date": "2026-06-17",
@@ -2358,41 +2591,11 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/hulder-dudsekop/",
-                "Title": "Hulder Dudsekop"
-            },
-            {
-                "Date": "2026-06-19",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
                 "Bands": [
                     "Powercraft",
                     "Sword Breaker"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/powercraft-sword-breaker/"
-            },
-            {
-                "Date": "2026-06-20",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/powercraft-sword-breaker/",
-                "Title": "Powercraft Sword Breaker"
-            },
-            {
-                "Date": "2026-06-21",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/little-devil-goes-mtv-10/",
-                "Title": "Little Devil Goes Mtv"
             },
             {
                 "Date": "2026-06-22",
@@ -2420,33 +2623,15 @@
                 "Url": "https://hall-fame.nl/programma/immortal-disfigurement-x-gutrectomy-111618793/"
             },
             {
-                "Date": "2026-06-25",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/zak-perry-and-the-beautiful-things-usa-grammylou/",
-                "Title": "Zak Perry And The Beautiful Things Usa Grammylou"
-            },
-            {
                 "Date": "2026-06-28",
                 "Venue": "Little Devil",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/zeitwende-tria-nema/",
-                "Title": "Zeitwende Tria Nema"
-            },
-            {
-                "Date": "2026-06-28",
-                "Title": "Lithium, A Tribute To Nirvana",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
+                "Bands": [
+                    "Lithium"
                 ],
-                "Bands": [],
+                "Title": "Tribute to Nirvana",
                 "Url": "https://www.littledevil.nl/calendar/lithium-a-tribute-to-nirvana-3/"
             },
             {
@@ -2455,39 +2640,10 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/death-before-dishonor/",
-                "Title": "Death Before Dishonor"
-            },
-            {
-                "Date": "2026-07-02",
-                "Title": "Lithium A Tribute To Nirvana 3",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
+                "Bands": [
+                    "Death Before Dishonor"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/lithium-a-tribute-to-nirvana-3/"
-            },
-            {
-                "Date": "2026-07-03",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/death-before-dishonor/",
-                "Title": "Death Before Dishonor"
-            },
-            {
-                "Date": "2026-07-04",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/rosie/",
-                "Title": "Rosie"
+                "Url": "https://www.littledevil.nl/calendar/death-before-dishonor/"
             },
             {
                 "Date": "2026-07-05",
@@ -2501,28 +2657,6 @@
                     "The Black Moriah"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/nunslaughter-usa-the-black-moriah-usa/"
-            },
-            {
-                "Date": "2026-07-05",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Nunslaughter",
-                    "The Black Moriah"
-                ],
-                "Url": "https://littledevil.nl/agenda/"
-            },
-            {
-                "Date": "2026-07-05",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/rosie/",
-                "Title": "Rosie"
             },
             {
                 "Date": "2026-07-08",
@@ -2543,19 +2677,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://littledevil.nl/agenda/",
-                "Title": "Vindicta"
-            },
-            {
-                "Date": "2026-07-10",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
+                "Bands": [
+                    "Vindicta"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/nunslaughter-usa-the-black-moriah-usa/",
-                "Title": "Nunslaughter Usa The Black Moriah Usa"
+                "Url": "https://www.littledevil.nl/calendar/vindicta/"
             },
             {
                 "Date": "2026-07-11",
@@ -2573,16 +2698,6 @@
                 "Url": "https://www.013.nl/programma/128875/umah/"
             },
             {
-                "Date": "2026-07-11",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/vindicta/",
-                "Title": "Vindicta"
-            },
-            {
                 "Date": "2026-07-21",
                 "Venue": "013",
                 "Genres": [
@@ -2594,94 +2709,24 @@
             },
             {
                 "Date": "2026-07-22",
-                "Title": "Mmm Presents: Riot City + Aquilla",
                 "Venue": "Little Devil",
                 "Genres": [
                     "speed metal"
-                ],
-                "Bands": [
-                    "Mmm Presents: Riot City",
-                    "Aquilla"
-                ],
-                "Url": "https://www.littledevil.nl/calendar/mmm-presents-riot-city-ca-aquilla-pl/"
-            },
-            {
-                "Date": "2026-07-22",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/back-to-the-90s/",
-                "Title": "Back To The 90’s"
-            },
-            {
-                "Date": "2026-07-22",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
                 ],
                 "Bands": [
                     "Riot City",
                     "Aquilla"
                 ],
-                "Url": "https://littledevil.nl/agenda/"
-            },
-            {
-                "Date": "2026-07-22",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "speed metal"
-                ],
-                "Bands": [
-                    "Mmm Presents",
-                    "Aquilla"
-                ],
                 "Url": "https://www.littledevil.nl/calendar/mmm-presents-riot-city-ca-aquilla-pl/"
             },
             {
                 "Date": "2026-07-27",
                 "Venue": "Little Devil",
                 "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Vio",
-                    "Cutthroat"
-                ],
-                "Url": "https://littledevil.nl/agenda/"
-            },
-            {
-                "Date": "2026-07-27",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/mmm-presents-riot-city-ca-aquilla-pl/",
-                "Title": "Mmm Presents Riot City Ca Aquilla Pl"
-            },
-            {
-                "Date": "2026-07-27",
-                "Venue": "Little Devil",
-                "Genres": [
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Mmm Presents",
-                    "Cutthroat"
-                ],
-                "Url": "https://www.littledevil.nl/calendar/mmm-presents-vio-lence-usa-cutthroat-usa/"
-            },
-            {
-                "Date": "2026-07-27",
-                "Title": "Mmm Presents: Vio-lence + Cutthroat",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "thrash metal"
-                ],
-                "Bands": [
-                    "Mmm Presents: Vio-lence",
+                    "Vio-Lence",
                     "Cutthroat"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/mmm-presents-vio-lence-usa-cutthroat-usa/"
@@ -2735,23 +2780,13 @@
                 "Date": "2026-07-31",
                 "Venue": "Little Devil",
                 "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/mmm-presents-vio-lence-usa-cutthroat-usa/",
-                "Title": "Mmm Presents Vio Lence Usa Cutthroat Usa"
-            },
-            {
-                "Date": "2026-07-31",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
+                    "black metal"
                 ],
                 "Bands": [
                     "Wolvennest",
                     "Aeturna"
                 ],
-                "Url": "https://littledevil.nl/agenda/"
+                "Url": "https://www.littledevil.nl/calendar/wolvennest-aeturna/"
             },
             {
                 "Date": "2026-08-01",
@@ -2790,23 +2825,13 @@
                 "Date": "2026-08-06",
                 "Venue": "Little Devil",
                 "Genres": [
-                    "heavy metal"
+                    "nu metal"
                 ],
                 "Bands": [
                     "Luna Kills",
                     "Pacemaker"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/luna-kills/"
-            },
-            {
-                "Date": "2026-08-06",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/wolvennest-aeturna/",
-                "Title": "Wolvennest Aeturna"
             },
             {
                 "Date": "2026-08-08",
@@ -2898,29 +2923,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://littledevil.nl/agenda/",
-                "Title": "Raven"
-            },
-            {
-                "Date": "2026-09-09",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
+                "Bands": [
+                    "Raven"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/luna-kills/",
-                "Title": "Luna Kills"
-            },
-            {
-                "Date": "2026-09-09",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/raven-uk-2/",
-                "Title": "Raven"
+                "Url": "https://www.littledevil.nl/calendar/raven-uk-2/"
             },
             {
                 "Date": "2026-09-19",
@@ -2944,16 +2950,6 @@
                     "Post"
                 ],
                 "Url": "https://hall-fame.nl/programma/wyatt-e-hemelbestormer-111607425/"
-            },
-            {
-                "Date": "2026-09-25",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/raven-uk-2/",
-                "Title": "Raven Uk 2"
             },
             {
                 "Date": "2026-09-25",
@@ -3049,11 +3045,12 @@
                 "Date": "2026-10-09",
                 "Venue": "Little Devil",
                 "Genres": [
-                    "heavy metal"
+                    "folk metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/bokkeryers/",
-                "Title": "Bokkeryers"
+                "Bands": [
+                    "De Bokkerÿders"
+                ],
+                "Url": "https://www.littledevil.nl/calendar/bokkeryers/"
             },
             {
                 "Date": "2026-10-10",
@@ -3061,9 +3058,10 @@
                 "Genres": [
                     "grindcore"
                 ],
-                "Bands": [],
-                "Url": "https://littledevil.nl/agenda/",
-                "Title": "Pene Corrida"
+                "Bands": [
+                    "Pene Corrida"
+                ],
+                "Url": "https://www.littledevil.nl/calendar/pene-corrida-5/"
             },
             {
                 "Date": "2026-10-11",
@@ -3236,17 +3234,7 @@
                     "Praying Mantis",
                     "The Riven"
                 ],
-                "Url": "https://littledevil.nl/agenda/"
-            },
-            {
-                "Date": "2026-11-15",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/pene-corrida-5/",
-                "Title": "Pene Corrida 5"
+                "Url": "https://www.littledevil.nl/calendar/praying-mantis-uk-the-riven-swe/"
             },
             {
                 "Date": "2026-11-26",
@@ -3269,6 +3257,17 @@
                 "Bands": [],
                 "Url": "https://www.013.nl/programma/128241/sevendust/",
                 "Title": "Sevendust"
+            },
+            {
+                "Date": "2026-11-29",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Coilguns"
+                ],
+                "Url": "https://www.littledevil.nl/calendar/coilguns/"
             },
             {
                 "Date": "2026-12-03",
@@ -3331,16 +3330,6 @@
                     "Tailgunner"
                 ],
                 "Url": "https://www.013.nl/programma/126408/accept/"
-            },
-            {
-                "Date": "2027-01-16",
-                "Venue": "Little Devil",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.littledevil.nl/calendar/pene-corrida-6/",
-                "Title": "Pene Corrida"
             },
             {
                 "Date": "2027-02-01",
@@ -3960,11 +3949,14 @@
                 "Date": "2026-06-12",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "grindcore"
+                    "grindcore",
+                    "hardcore"
                 ],
-                "Bands": [],
-                "Url": "https://dbstudio.nl/event/neuk-support/",
-                "Title": "Neuk!"
+                "Bands": [
+                    "Neuk!",
+                    "Radical Retard"
+                ],
+                "Url": "https://dbstudio.nl/event/neuk-support/"
             },
             {
                 "Date": "2026-06-17",
@@ -4017,7 +4009,11 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Regressive Hypnosis",
+                    "Seventh Dimension",
+                    "Incidense"
+                ],
                 "Url": "https://dbstudio.nl/event/when-dream-and-prog-unite-a-progressive-metal-fest/",
                 "Title": "When Dream And Prog Unite"
             },
@@ -4025,11 +4021,14 @@
                 "Date": "2026-07-22",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "thrash metal"
+                    "thrash metal",
+                    "hardcore"
                 ],
-                "Bands": [],
-                "Url": "https://dbstudio.nl/event/d-r-i/",
-                "Title": "D.r.i."
+                "Bands": [
+                    "D.R.I.",
+                    "These Hands"
+                ],
+                "Url": "https://dbstudio.nl/event/d-r-i/"
             },
             {
                 "Date": "2026-08-01",
@@ -4080,9 +4079,10 @@
                 "Genres": [
                     "nu metal"
                 ],
-                "Bands": [],
-                "Url": "https://dbstudio.nl/event/luna-kills-fin-ism-tivolivredenburg/",
-                "Title": "Luna Kills"
+                "Bands": [
+                    "Luna Kills"
+                ],
+                "Url": "https://dbstudio.nl/event/luna-kills-fin-ism-tivolivredenburg/"
             },
             {
                 "Date": "2026-08-09",
@@ -4143,9 +4143,22 @@
                 "Genres": [
                     "doom metal"
                 ],
-                "Bands": [],
-                "Url": "https://dbstudio.nl/event/dbs-in-acu-presents-wyatt-e-be/",
-                "Title": "Db’s In Acu Presents"
+                "Bands": [
+                    "Wyatt E."
+                ],
+                "Url": "https://dbstudio.nl/event/dbs-in-acu-presents-wyatt-e-be/"
+            },
+            {
+                "Date": "2026-09-07",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Funebrarum",
+                    "Morbific"
+                ],
+                "Url": "https://dbstudio.nl/event/snook-bookings-presents-funebrarum-usa-morbific-fr/"
             },
             {
                 "Date": "2026-09-14",
@@ -4166,9 +4179,21 @@
                 "Genres": [
                     "nu metal"
                 ],
-                "Bands": [],
-                "Url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-arankai-usa/",
-                "Title": "Arankai"
+                "Bands": [
+                    "Arankai"
+                ],
+                "Url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-arankai-usa/"
+            },
+            {
+                "Date": "2026-10-01",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "De Bokkerÿders"
+                ],
+                "Url": "https://dbstudio.nl/event/de-bokkeryders/"
             },
             {
                 "Date": "2026-10-09",
@@ -4217,11 +4242,12 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Halloween Monster Rock W/ Money & The Man",
+                    "Money & The Man",
                     "Tankzilla",
                     "Dead Elvis"
                 ],
-                "Url": "https://dbstudio.nl/event/halloween-monster-rock-w-money-the-man-tankzilla-dead-elvis/"
+                "Url": "https://dbstudio.nl/event/halloween-monster-rock-w-money-the-man-tankzilla-dead-elvis/",
+                "Title": "Halloween Monster Rock"
             },
             {
                 "Date": "2026-11-01",
@@ -4636,7 +4662,7 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "D.r.i.",
+                    "D.R.I.",
                     "Age Of Panic"
                 ],
                 "Url": "https://baroeg.nl/productie/d-r-i/"
@@ -4953,24 +4979,15 @@
         "Longitude": "4.9041",
         "Gigs": [
             {
-                "Date": "2026-06-05",
-                "Venue": "Melkweg",
-                "Genres": [
-                    "death metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.melkweg.nl/nl/agenda/blood-incantation-all-gates-open-in-search-of-absolute-elsewhere-2026-05-06-2026/",
-                "Title": "Blood Incantation"
-            },
-            {
                 "Date": "2026-06-08",
                 "Venue": "Melkweg",
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/letlive-08-06-2026/",
-                "Title": "Letlive."
+                "Bands": [
+                    "Letlive."
+                ]
             },
             {
                 "Date": "2026-06-09",
@@ -4979,9 +4996,10 @@
                     "nu metal",
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/don-broco-09-06-2026/",
-                "Title": "Don Broco"
+                "Bands": [
+                    "Don Broco"
+                ]
             },
             {
                 "Date": "2026-06-10",
@@ -4989,9 +5007,11 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/the-story-so-far-10-06-2026/",
-                "Title": "The Story So Far"
+                "Bands": [
+                    "The Story So Far",
+                    "Drain"
+                ]
             },
             {
                 "Date": "2026-06-10",
@@ -5029,9 +5049,11 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/bloodywood-21-06-2026/",
-                "Title": "Bloodywood"
+                "Bands": [
+                    "Bloodywood",
+                    "Comastatic"
+                ]
             },
             {
                 "Date": "2026-06-22",
@@ -5039,13 +5061,13 @@
                 "Genres": [
                     "metalcore"
                 ],
+                "Url": "https://www.melkweg.nl/nl/agenda/kublai-khan-tx-22-06-2026/",
                 "Bands": [
                     "Kublai Khan Tx",
                     "Shai Hulud",
                     "Denial Of Life",
                     "Volatile Ways"
-                ],
-                "Url": "https://www.melkweg.nl/nl/agenda/kublai-khan-tx-22-06-2026/"
+                ]
             },
             {
                 "Date": "2026-06-23",
@@ -5053,9 +5075,11 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/touche-amore-23-06-2026/",
-                "Title": "Touché Amoré"
+                "Bands": [
+                    "Touché Amoré",
+                    "Greet Death"
+                ]
             },
             {
                 "Date": "2026-07-11",
@@ -5063,11 +5087,11 @@
                 "Genres": [
                     "thrash metal"
                 ],
+                "Url": "https://www.melkweg.nl/nl/agenda/biohazard-11-07-2026/",
                 "Bands": [
                     "Biohazard",
                     "Sworn Enemy"
-                ],
-                "Url": "https://www.melkweg.nl/nl/agenda/biohazard-11-07-2026/"
+                ]
             },
             {
                 "Date": "2026-07-13",
@@ -5075,9 +5099,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.melkweg.nl/nl/agenda/house-of-protection-13-07-2026/",
-                "Title": "House Of Protection"
+                "Bands": [
+                    "House Of Protection"
+                ],
+                "Url": "https://www.melkweg.nl/nl/agenda/house-of-protection-13-07-2026/"
             },
             {
                 "Date": "2026-09-01",
@@ -5085,11 +5110,12 @@
                 "Genres": [
                     "metalcore"
                 ],
+                "Url": "https://www.melkweg.nl/nl/agenda/dance-gavin-dance-01-09-2026/",
                 "Bands": [
                     "Dance Gavin Dance",
-                    "As December Falls"
-                ],
-                "Url": "https://www.melkweg.nl/nl/agenda/dance-gavin-dance-01-09-2026/"
+                    "As December Falls",
+                    "Dwellings"
+                ]
             },
             {
                 "Date": "2026-09-19",
@@ -5097,9 +5123,9 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/emo-night-mainland-19-09-2026/",
-                "Title": "Emo Night Mainland"
+                "Title": "Emo Night Mainland",
+                "Bands": []
             },
             {
                 "Date": "2026-09-22",
@@ -5120,9 +5146,11 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/poets-of-the-fall-24-09-2026/",
-                "Title": "Poets Of The Fall"
+                "Bands": [
+                    "Poets Of The Fall",
+                    "Rabbit Cult"
+                ]
             },
             {
                 "Date": "2026-09-25",
@@ -5140,9 +5168,23 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/future-palace-09-10-2026/",
-                "Title": "Future Palace"
+                "Bands": [
+                    "Future Palace",
+                    "As Everything Unfolds",
+                    "Luna Kills"
+                ]
+            },
+            {
+                "Date": "2026-10-30",
+                "Venue": "Melkweg",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Url": "https://www.melkweg.nl/nl/agenda/no-barrier-30-10-2026/",
+                "Bands": [
+                    "No Barrier"
+                ]
             },
             {
                 "Date": "2026-11-01",
@@ -5150,9 +5192,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/the-home-team-01-11-2026/",
-                "Title": "The Home Team"
+                "Bands": [
+                    "The Home Team"
+                ]
             },
             {
                 "Date": "2026-11-08",
@@ -5168,14 +5211,15 @@
                 "Url": "https://www.ziggodome.nl/nl/programma"
             },
             {
-                "Date": "2026-11-18",
+                "Date": "2026-11-13",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "heavy metal"
+                    "nu metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.melkweg.nl/nl/agenda/master-boot-record-18-11-2026/",
-                "Title": "Master Boot Record / Fulci"
+                "Url": "https://www.melkweg.nl/nl/agenda/grommet-13-11-2026/",
+                "Bands": [
+                    "Grommet"
+                ]
             },
             {
                 "Date": "2026-11-18",
@@ -5183,12 +5227,12 @@
                 "Genres": [
                     "heavy metal"
                 ],
+                "Url": "https://www.melkweg.nl/nl/agenda/master-boot-record-18-11-2026/",
                 "Bands": [
                     "Master Boot Record",
                     "Fulci",
                     "Arottenbit"
-                ],
-                "Url": "https://www.melkweg.nl/nl/agenda/master-boot-record-18-11-2026/"
+                ]
             },
             {
                 "Date": "2026-11-19",
@@ -5196,9 +5240,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/baby-lasagna-19-11-2026/",
-                "Title": "Baby Lasagna"
+                "Bands": [
+                    "Baby Lasagna"
+                ]
             },
             {
                 "Date": "2026-12-12",
@@ -5206,21 +5251,11 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/mammoth-12-12-2026/",
-                "Title": "Mammoth"
-            },
-            {
-                "Date": "2026-12-12",
-                "Venue": "Melkweg",
-                "Genres": [
-                    "heavy metal"
-                ],
                 "Bands": [
                     "Mammoth Wvh",
                     "Florence Black"
-                ],
-                "Url": "https://www.melkweg.nl/nl/agenda/mammoth-12-12-2026/"
+                ]
             },
             {
                 "Date": "2026-12-18",
@@ -5228,12 +5263,12 @@
                 "Genres": [
                     "metalcore"
                 ],
+                "Url": "https://www.melkweg.nl/nl/agenda/dayseeker-18-12-2026/",
                 "Bands": [
                     "Dayseeker",
                     "Northlane",
                     "Siamese"
-                ],
-                "Url": "https://www.melkweg.nl/nl/agenda/dayseeker-18-12-2026/"
+                ]
             },
             {
                 "Date": "2026-12-20",
@@ -5241,9 +5276,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/new-model-army-20-12-2026/",
-                "Title": "New Model Army"
+                "Bands": [
+                    "New Model Army"
+                ]
             },
             {
                 "Date": "2027-01-24",
@@ -5251,9 +5287,12 @@
                 "Genres": [
                     "metalcore"
                 ],
-                "Bands": [],
                 "Url": "https://www.melkweg.nl/nl/agenda/wage-war-24-01-2027/",
-                "Title": "Wage War"
+                "Bands": [
+                    "Wage War",
+                    "Invent Animate",
+                    "Wind Walkers"
+                ]
             }
         ]
     }
