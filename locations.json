@@ -206,33 +206,50 @@
         "Gigs": [
             {
                 "Date": "2026-06-21",
-                "Title": "Sunday Metal School Present A Tribute To Whitesnake",
+                "Title": "Sunday Metal School present Sinners & Snakes; a tribute to Whitesnake",
                 "Venue": "SETZ Huiskamer & Slijterij",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.setz.nl/"
+                "Bands": [
+                    "Sinners & Snakes"
+                ],
+                "Url": "https://www.setz.tv/evenementen/sunday-metal-school-present-sinners-snakes-a-tribute-to-whitesnake/"
             },
             {
                 "Date": "2026-09-13",
+                "Title": "Sunday Metal School present RVH Project",
                 "Venue": "SETZ Huiskamer & Slijterij",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.setz.nl/",
-                "Title": "Sunday Metal School Present Rvh Project"
+                "Bands": [
+                    "RVH Project"
+                ],
+                "Url": "https://www.setz.tv/evenementen/sunday-metal-school-present-rvh-project/"
+            },
+            {
+                "Date": "2026-10-03",
+                "Venue": "SETZ Huiskamer & Slijterij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Kashmir"
+                ],
+                "Url": "https://www.setz.tv/evenementen/kashmir-3/"
             },
             {
                 "Date": "2026-11-01",
+                "Title": "Sunday Metal School present Iron Laiden",
                 "Venue": "SETZ Huiskamer & Slijterij",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://www.setz.nl/",
-                "Title": "Sunday Metal School Present Iron Laiden"
+                "Bands": [
+                    "Iron Laiden"
+                ],
+                "Url": "https://www.setz.tv/evenementen/sunday-metal-school-present-iron-laiden/"
             }
         ]
     },
@@ -787,7 +804,9 @@
                 "Genres": [
                     "hardcore"
                 ],
-                "Bands": [],
+                "Bands": [
+					"Hard!"
+				],
                 "Url": "https://grenswerk.nl/agenda/hard-2/",
                 "Title": "Hard! Aftershow Cro-Mags"
             },
@@ -1345,17 +1364,100 @@
         "Longitude": "4.493",
         "Gigs": [
             {
-                "Date": "2026-10-16",
+                "Date": "2026-06-17",
                 "Venue": "Nobel",
                 "Genres": [
-                    "heavy metal"
+                    "death metal"
                 ],
                 "Bands": [
-                    "Iron Laiden",
-                    "Damaged Justice",
-                    "Megadeath"
+                    "Blood Incantation"
                 ],
-                "Url": "https://nobel.nl/"
+                "Url": "https://nobel.nl/agenda/blood-incantation-17-jun-2026/"
+            },
+            {
+                "Date": "2026-06-18",
+                "Venue": "Nobel",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Cradle Of Filth"
+                ],
+                "Url": "https://nobel.nl/agenda/cradle-filth-18-jun-2026/"
+            },
+            {
+                "Date": "2026-09-04",
+                "Title": "Leiden Zal Lijden",
+                "Venue": "Nobel",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Hakselaer",
+                    "Velozza",
+                    "AnomiC"
+                ],
+                "Url": "https://nobel.nl/agenda/leiden-zal-lijden-04-sept-2026/"
+            },
+            {
+                "Date": "2026-10-01",
+                "Venue": "Nobel",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Coroner"
+                ],
+                "Url": "https://nobel.nl/agenda/coroner-01-okt-2026/"
+            },
+            {
+                "Date": "2026-10-10",
+                "Title": "Metal Experience Fest",
+                "Venue": "Nobel",
+                "Genres": [
+                    "thrash metal",
+                    "speed metal"
+                ],
+                "Bands": [
+                    "Baest",
+                    "Warfield",
+                    "Mandator"
+                ],
+                "Url": "https://nobel.nl/agenda/metal-experience-fest-10-okt-2026/"
+            },
+            {
+                "Date": "2026-10-31",
+                "Venue": "Nobel",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Hemelbestormer"
+                ],
+                "Url": "https://nobel.nl/agenda/hemelbestormer-31-okt-2026/"
+            },
+            {
+                "Date": "2026-11-07",
+                "Venue": "Nobel",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Doodswens"
+                ],
+                "Url": "https://nobel.nl/agenda/doodswens-07-nov-2026/"
+            },
+            {
+                "Date": "2027-09-18",
+                "Venue": "Nobel",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Tankard"
+                ],
+                "Url": "https://nobel.nl/agenda/tankard-18-sept-2027/"
             }
         ]
     },
@@ -2931,19 +3033,6 @@
                 "Url": "https://www.littledevil.nl/calendar/warrant-de-burning/"
             },
             {
-                "Date": "2026-09-27",
-                "Venue": "Hall Of Fame",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Split System",
-                    "Béton Armé",
-                    "Heerlijke Punk Double Bill!"
-                ],
-                "Url": "https://hall-fame.nl/programma/split-system-beton-arme-111601613/"
-            },
-            {
                 "Date": "2026-10-01",
                 "Venue": "013",
                 "Genres": [
@@ -3412,16 +3501,6 @@
         "Longitude": "6.5665",
         "Gigs": [
             {
-                "Date": "2026-06-05",
-                "Venue": "Nobel",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://nobel.nl/agenda/triple-threat-metal-fest-05-jun-2026/",
-                "Title": "Triple Threat Metal Fest"
-            },
-            {
                 "Date": "2026-06-11",
                 "Venue": "Vera",
                 "Genres": [
@@ -3526,26 +3605,6 @@
                     "An Evening With Knives"
                 ],
                 "Url": "https://www.vera-groningen.nl/?post_type=events&p=151029&lang=nl/"
-            },
-            {
-                "Date": "2026-10-10",
-                "Title": "Metal Experience Fest",
-                "Venue": "Nobel",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://nobel.nl/agenda/metal-experience-fest-10-okt-2026/"
-            },
-            {
-                "Date": "2026-10-16",
-                "Venue": "Nobel",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://nobel.nl/agenda/metal-heads-geannuleerd-16-okt-2026/",
-                "Title": "Metal Heads Geannuleerd"
             },
             {
                 "Date": "2026-11-04",
