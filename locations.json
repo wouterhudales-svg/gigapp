@@ -184,7 +184,8 @@
                     "Vrøde"
                 ],
                 "Title": "Tilburg Metal Fest",
-                "Url": "https://tilburgmetalfest.nl/web/"
+                "Url": "https://tilburgmetalfest.nl/web/",
+				"Featured": true
             }
         ]
     },
