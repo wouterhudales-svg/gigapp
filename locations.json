@@ -12,7 +12,8 @@
                 ],
                 "Bands": [
                     "Dimmu Borgir",
-                    "Behemoth"
+                    "Behemoth",
+                    "Dark Funeral"
                 ],
                 "Url": "https://www.mainstage.nl/nl/agenda/dimmu-borgir-behemoth/18-10-2026_19-00/"
             },
@@ -1171,7 +1172,26 @@
         "City": "Den Helder",
         "Latitude": "52.9583",
         "Longitude": "4.7683",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-08-22",
+                "Venue": "Quelderduyn",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Disavowed",
+                    "Damnation",
+                    "Man As Plague",
+                    "Arising Rebellion",
+                    "Dystopia",
+                    "Undefused",
+                    "Carrionex"
+                ],
+                "Url": "https://jwdh.nl/agenda/delly-deathfest",
+                "Title": "Delly Deathfest"
+            }
+        ]
     },
     {
         "City": "Deventer",
@@ -2092,6 +2112,26 @@
         "Latitude": "50.8882",
         "Longitude": "5.9799",
         "Gigs": []
+    },
+    {
+        "City": "Hellendoorn",
+        "Latitude": "52.3833",
+        "Longitude": "6.45",
+        "Gigs": [
+            {
+                "Date": "2026-10-16",
+                "Venue": "Lantaarn",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Tank",
+                    "Mother Misery"
+                ],
+                "Url": "https://lantaarn.nl/agenda/"
+            }
+        ]
     },
     {
         "City": "Hengelo",
@@ -5010,6 +5050,17 @@
                 "Bands": [
                     "Myrath",
                     "Roses Of Thieves"
+                ]
+            },
+            {
+                "Date": "2026-10-10",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/axelrudipell/",
+                "Bands": [
+                    "Axel Rudi Pell"
                 ]
             },
             {
