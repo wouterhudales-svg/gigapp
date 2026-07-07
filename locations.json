@@ -187,7 +187,7 @@
                 "Title": "Tilburg Metal Fest",
                 "Url": "https://tilburgmetalfest.nl/web/",
                 "ImageSource": "https://tilburgmetalfest.nl/web/wp-content/uploads/2026/03/cropped-TMF-2026-SUper-logo.png",
-				"Featured": true
+                "Featured": true
             }
         ]
     },
@@ -1413,6 +1413,25 @@
         ]
     },
     {
+        "City": "Dronten",
+        "Latitude": "52.5167",
+        "Longitude": "5.7167",
+        "Gigs": [
+            {
+                "Date": "2026-09-12",
+                "Venue": "Nirwana",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Title": "Wildman Metal Fest 2026",
+                "Bands": [
+                    "2Destroy"
+                ],
+                "Url": "https://wildmanmetalfest.com/"
+            }
+        ]
+    },
+    {
         "City": "Ede",
         "Latitude": "52.0259",
         "Longitude": "5.664",
@@ -1792,23 +1811,6 @@
         ]
     },
     {
-        "City": "Engelbert",
-        "Latitude": "52.3878",
-        "Longitude": "6.8583",
-        "Gigs": [
-            {
-                "Date": "2026-10-24",
-                "Venue": "De Engelstede",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://engelstede.nl/event/rvh-project/",
-                "Title": "Rvh Project"
-            }
-        ]
-    },
-    {
         "City": "Enschede",
         "Latitude": "52.2215",
         "Longitude": "6.8937",
@@ -1895,6 +1897,15 @@
                 "Bands": [],
                 "Url": "https://www.vera-groningen.nl/?post_type=events&p=152263&lang=nl/",
                 "Title": "Hippotraktor"
+            },
+            {
+                "Date": "2026-10-24",
+                "Venue": "Engelstede",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": ["Rvh Project"],
+                "Url": "https://engelstede.nl/event/rvh-project/",
             },
             {
                 "Date": "2026-12-11",
@@ -4912,9 +4923,9 @@
                     "thrash metal"
                 ],
                 "Bands": [
-					"Disquiet",
-					"Arising Rebellion"
-				],
+                    "Disquiet",
+                    "Arising Rebellion"
+                ],
                 "Url": "https://degrooteweiver.nl/agenda/rebellionfest-iii-the-third-chapter/",
                 "Title": "Rebellionfest III"
             },
