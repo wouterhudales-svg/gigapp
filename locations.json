@@ -41,11 +41,33 @@
                 "Date": "2026-10-03",
                 "Venue": "N201",
                 "Genres": [
-                    "heavy metal"
+                    "doom metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Officium Triste",
+                    "Sad Whisperings",
+                    "OLTAS",
+                    "Prophets of Thwaites",
+                    "Sordid Empire"
+                ],
                 "Url": "https://www.n201.nl/",
-                "Title": "Play It Loud Fest"
+                "Title": "Rituals of Doom"
+            },
+            {
+                "Date": "2027-03-20",
+                "Venue": "N201",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Acid Death",
+                    "Inferum",
+                    "Buried",
+                    "The Curse Made Flesh",
+                    "Mosaic Metal"
+                ],
+                "Url": "https://www.n201.nl/",
+                "Title": "Death Convergence"
             }
         ]
     },
@@ -384,6 +406,25 @@
                     "As Everything Unfolds",
                     "Luna Kills"
                 ]
+            },
+            {
+                "Date": "2026-10-09",
+                "Venue": "Toekomstmuziek",
+                "Genres": [
+                    "groove metal",
+                    "death metal",
+                    "metalcore",
+                    "hardcore",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Selfmachine",
+                    "Man As Plague",
+                    "Demichron",
+                    "Once Mortals"
+                ],
+                "Title": "Future Metal Fest",
+                "Url": "https://www.toekomstmuziek.com/"
             },
             {
                 "Date": "2026-10-30",
@@ -1542,6 +1583,28 @@
                 "Title": "Dynamo Metalfest"
             },
             {
+                "Date": "2026-08-18",
+                "Venue": "The Jack",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Nefarious"
+                ],
+                "Url": "https://cafethejack.weticket.io/loud-noise-presents-nefarious"
+            },
+            {
+                "Date": "2026-09-03",
+                "Venue": "The Jack",
+                "Genres": [
+                    "hardcore"
+                ],
+                "Bands": [
+                    "War On Women"
+                ],
+                "Url": "https://cafethejack.weticket.io/war-on-women"
+            },
+            {
                 "Date": "2026-09-04",
                 "Venue": "Effenaar",
                 "Genres": [
@@ -1552,6 +1615,22 @@
                     "Modder",
                     "Der Mancha Red"
                 ]
+            },
+            {
+                "Date": "2026-09-06",
+                "Venue": "The Jack",
+                "Genres": [
+                    "hardcore",
+                    "metalcore"
+                ],
+                "Title": "Everything Decays | Release Show",
+                "Bands": [
+                    "Boneripper",
+                    "Man as Plague",
+                    "Bloodcrypt",
+                    "Left to Love"
+                ],
+                "Url": "https://cafethejack.weticket.io/everything-decays-full-length-release-show"
             },
             {
                 "Date": "2026-09-12",
@@ -1577,6 +1656,19 @@
                 "Bands": [
                     "The Accüsed"
                 ]
+            },
+            {
+                "Date": "2026-09-19",
+                "Venue": "The Jack",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Mourning Wood",
+                    "Black Powder Parlay",
+                    "The Royal Spuds"
+                ],
+                "Url": "https://cafethejack.weticket.io/mourning-wood"
             },
             {
                 "Date": "2026-09-27",
@@ -1642,6 +1734,40 @@
                     "Audrey Horne",
                     "Motorowl"
                 ]
+            },
+            {
+                "Date": "2026-10-16",
+                "Venue": "The Jack",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Rhabstallion",
+                    "Lord Volture"
+                ],
+                "Url": "https://cafethejack.weticket.io/rhabstallion-uk-lord-volture"
+            },
+            {
+                "Date": "2026-10-17",
+                "Venue": "The Jack",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Samavayo"
+                ],
+                "Url": "https://cafethejack.weticket.io/samavayo-de"
+            },
+            {
+                "Date": "2026-11-01",
+                "Venue": "The Jack",
+                "Genres": [
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "Valley of the Sun"
+                ],
+                "Url": "https://www.podiuminfo.nl/concert/465374/Valley-of-the-Sun/The-Jack/"
             },
             {
                 "Date": "2026-11-05",
@@ -1904,8 +2030,10 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": ["Rvh Project"],
-                "Url": "https://engelstede.nl/event/rvh-project/",
+                "Bands": [
+                    "Rvh Project"
+                ],
+                "Url": "https://engelstede.nl/event/rvh-project/"
             },
             {
                 "Date": "2026-12-11",
@@ -2733,6 +2861,64 @@
                     "Sin City Rebels"
                 ],
                 "Url": "https://www.shoottothrillagency.com/agenda"
+            }
+        ]
+    },
+    {
+        "City": "Middelburg",
+        "Latitude": "51.4988",
+        "Longitude": "3.6106",
+        "Gigs": [
+            {
+                "Date": "2026-10-16",
+                "Venue": "De Spot",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC",
+                    "Johnny Black"
+                ],
+                "Url": "https://despotmiddelburg.nl/programma/acindc-johnny-black"
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "De Spot",
+                "Genres": [
+                    "death metal",
+                    "metalcore"
+                ],
+                "Title": "BLEGHfest",
+                "Bands": [
+                    "Bodyfarm",
+                    "A Knight Under Maria's Altar",
+                    "No Kings Allowed",
+                    "Man as Plague"
+                ],
+                "Url": "https://despotmiddelburg.nl/programma/bleghfest-0"
+            },
+            {
+                "Date": "2027-01-29",
+                "Venue": "De Spot",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Made in Purple",
+                    "Lord Sabbath"
+                ],
+                "Url": "https://despotmiddelburg.nl/programma/made-purple-lord-sabbath"
+            },
+            {
+                "Date": "2027-02-17",
+                "Venue": "De Spot",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Tool Experience"
+                ],
+                "Url": "https://despotmiddelburg.nl/programma/tool-experience"
             }
         ]
     },
