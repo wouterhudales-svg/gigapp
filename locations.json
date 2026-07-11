@@ -182,7 +182,43 @@
         "City": "Almere",
         "Latitude": "52.3507849",
         "Longitude": "5.2647016",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-09-25",
+                "Venue": "Meester",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Title": "Meesterlijk Metaal XXXVI",
+                "Bands": [
+                    "Spartan Warrior",
+                    "Toranaga UK",
+                    "Wildeboer"
+                ],
+                "Url": "https://poppodiumdemeester.nl/event/meesterlijk-metaal/"
+            },
+            {
+                "Date": "2026-11-27",
+                "Venue": "Meester",
+                "Genres": [
+                    "heavy metal",
+                    "hardcore punk"
+                ],
+                "Title": "Wall to Wall: Live & Local",
+                "Bands": [
+                    "Anthems Of Steel",
+                    "Sweet April",
+                    "Demichron",
+                    "Neon Bird",
+                    "Under Four",
+                    "ö",
+                    "Esca$h",
+                    "Revenge",
+                    "Arteria"
+                ],
+                "Url": "https://poppodiumdemeester.nl/event/wall-to-wall-live-local-2/"
+            }
+        ]
     },
     {
         "City": "Alphen",
@@ -898,8 +934,9 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [],
-                "Title": "Wade Black's 35 Years Of Metal",
+                "Bands": [
+                    "Wade Black"
+                ],
                 "Url": "https://sounddogbreda.nl/#mmm-wade-blacks-35-years-of-metal/"
             },
             {
@@ -950,6 +987,16 @@
                     "Rvh Project"
                 ],
                 "Url": "https://sounddogbreda.nl/#mmm-tygers-of-pan-tang--rvh-project/"
+            },
+            {
+                "Date": "2026-08-22",
+                "Venue": "Sound Dog",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [],
+                "Title": "Dogzilla Metalfest",
+                "Url": "https://sounddogbreda.nl/#dogzilla-metalfest/"
             },
             {
                 "Date": "2026-08-24",
@@ -1044,7 +1091,8 @@
                 "Bands": [
                     "Defender"
                 ],
-                "Url": "https://sounddogbreda.nl/#mmm-defender-the-ultimate-manowar-tribute/"
+                "Url": "https://sounddogbreda.nl/#mmm-defender-the-ultimate-manowar-tribute/",
+                "Tribute": true
             },
             {
                 "Date": "2026-10-25",
@@ -2200,6 +2248,7 @@
                     "heavy metal"
                 ],
                 "Bands": [
+                    "AnomiC",
                     "Nefarious",
                     "Against Evil",
                     "The Wounded",
@@ -2494,6 +2543,22 @@
                     "Ensiferum"
                 ],
                 "Url": "https://patronaat.nl/event/orden-ogan-29-01-27/"
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "Skatepark",
+                "Genres": [
+                    "metalcore",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "None Shall Fall",
+                    "Gallamesh",
+                    "Salvage",
+                    "Collide"
+                ],
+                "Title": "Concrete Chaos",
+                "Url": "https://www.facebook.com/events/skatepark-haarlem-minckelersweg-30/play-it-loud-fest-presents-concrete-chaos-skatepark-haarlem/1322602256636740/"
             }
         ]
     },
@@ -2836,51 +2901,6 @@
         "Longitude": "5.7999",
         "Gigs": [
             {
-                "Date": "2026-07-03",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "metalcore"
-                ],
-                "Bands": [
-                    "Boneripper",
-                    "Trickstate",
-                    "Bot Mes"
-                ],
-                "Title": "Hardcore Vrijdag",
-                "Url": "https://www.neushoorn.nl/events/hardcore-vrijdag-jul"
-            },
-            {
-                "Date": "2026-07-04",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Bloody Sabbath",
-                    "Ultimate Ozzy",
-                    "Meatallica",
-                    "The Art Of Pantera",
-                    "Slayer Coverband",
-                    "We're The Men",
-                    "Lionesz"
-                ],
-                "Title": "A Tribute To: Back To The Beginning",
-                "Url": "https://www.neushoorn.nl/events/back-to-the-beginning",
-                "Tribute": true
-            },
-            {
-                "Date": "2026-07-09",
-                "Venue": "Neushoorn",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Vindicta",
-                    "Final Stage"
-                ],
-                "Url": "https://www.neushoorn.nl/events/vindicta"
-            },
-            {
                 "Date": "2026-08-02",
                 "Venue": "Neushoorn",
                 "Genres": [
@@ -2915,6 +2935,20 @@
                     "Mancuerda"
                 ],
                 "Url": "https://www.neushoorn.nl/events/deceased"
+            },
+            {
+                "Date": "2026-09-05",
+                "Venue": "Mukkes",
+                "Genres": [
+                    "thrash metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Warhammer",
+                    "Bloed",
+                    "Hellevorst"
+                ],
+                "Url": "https://www.facebook.com/events/1859387731403942/"
             },
             {
                 "Date": "2026-09-13",
@@ -2956,28 +2990,32 @@
                     "metalcore"
                 ],
                 "Bands": [
+                    "ten56.",
                     "Crippled Fingers",
-                    "Disdain",
-                    "Nonsense",
                     "Trenchwar",
-                    "Haywire",
+                    "Payback",
                     "Oceans Turn Red",
-                    "Payback"
+                    "Nonsense",
+                    "Haywire",
+                    "Disdain",
+                    "Drowning in Lakes"
                 ],
                 "Title": "Fajtfest Fryslân",
                 "Url": "https://www.neushoorn.nl/events/fajtfest-fryslan-26"
             },
             {
-                "Date": "2026-10-17",
-                "Venue": "Neushoorn",
+                "Date": "2026-10-24",
+                "Venue": "Mukkes",
                 "Genres": [
-                    "heavy metal"
+                    "black metal",
+                    "death metal"
                 ],
                 "Bands": [
-                    "The Dirty Denims",
-                    "Glock '45"
+                    "Wode",
+                    "Lijkschower",
+                    "Griis"
                 ],
-                "Url": "https://www.neushoorn.nl/programma"
+                "Url": "https://www.facebook.com/events/960946433413305/"
             },
             {
                 "Date": "2026-11-01",
@@ -2988,7 +3026,7 @@
                 "Bands": [
                     "Danko Jones"
                 ],
-                "Url": "https://www.neushoorn.nl/programma"
+                "Url": "https://www.neushoorn.nl/events/danko-jones"
             },
             {
                 "Date": "2026-11-06",
@@ -3020,7 +3058,7 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Up the Irons"
+                    "Up The Irons"
                 ],
                 "Url": "https://www.neushoorn.nl/events/up-the-irons",
                 "Tribute": true
@@ -3547,7 +3585,87 @@
         "City": "Ommen",
         "Latitude": "52.5211",
         "Longitude": "6.3406",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-08-09",
+                "Venue": "Café Calluna",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Vended"
+                ],
+                "Url": "https://www.facebook.com/events/3488857304621733/"
+            },
+            {
+                "Date": "2026-08-11",
+                "Venue": "Café Calluna",
+                "Genres": [
+                    "thrash metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Municipal Waste",
+                    "Vitamin X"
+                ],
+                "Url": "https://www.facebook.com/events/3938847179758039/"
+            },
+            {
+                "Date": "2026-08-28",
+                "Venue": "Café Calluna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Title": "Metallicamp",
+                "Bands": [
+                    "Atmoran",
+                    "March",
+                    "Hesken",
+                    "2destroy"
+                ],
+                "Url": "https://www.facebook.com/events/821957297656132/"
+            },
+            {
+                "Date": "2026-08-29",
+                "Venue": "Café Calluna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Title": "Metallicamp",
+                "Bands": [
+                    "Present Danger",
+                    "Bloody Sabbath",
+                    "Dead Head",
+                    "Stagehands From Hell",
+                    "Highyna"
+                ],
+                "Url": "https://www.facebook.com/events/821957297656132/"
+            },
+            {
+                "Date": "2026-10-17",
+                "Venue": "Café Calluna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Anvil",
+                    "Killer"
+                ],
+                "Url": "https://www.facebook.com/events/2128181991089646/"
+            },
+            {
+                "Date": "2026-11-07",
+                "Venue": "Café Calluna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Vengeance",
+                    "Stainless"
+                ],
+                "Url": "https://www.facebook.com/events/1579973463082828/"
+            }
+        ]
     },
     {
         "City": "Papendrecht",
