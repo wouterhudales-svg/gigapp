@@ -102,15 +102,16 @@
         "Longitude": "4.752",
         "Gigs": [
             {
-                "Date": "2026-07-08",
+                "Date": "2026-08-03",
                 "Venue": "HAL 25",
                 "Genres": [
-                    "death metal"
+                    "death metal",
+                    "deathcore"
                 ],
                 "Bands": [
-                    "Masacre"
+                    "Vulvodynia"
                 ],
-                "Url": "https://hal25.nl/events/masacre-support/"
+                "Url": "https://hal25.nl/events/vulvodynia-support/"
             },
             {
                 "Date": "2026-08-29",
@@ -176,7 +177,54 @@
         "City": "Almelo",
         "Latitude": "52.3568",
         "Longitude": "6.6629",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-07-25",
+                "Venue": "Stam",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Lord Sabbath"
+                ],
+                "Url": "https://www.cafedestam.nl/blog/2026/04/30/lord-sabbath/",
+                "Tribute": true
+            },
+            {
+                "Date": "2026-09-26",
+                "Venue": "Stam",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Rotten Remains",
+                    "Putrefied Corpse",
+                    "Bloodsin",
+                    "Mismorium"
+                ],
+                "Url": "https://www.cafedestam.nl/blog/2026/04/30/metal-fest/"
+            },
+            {
+                "Date": "2026-12-05",
+                "Venue": "Little Church",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Mickey Lyxx"
+                ],
+                "Url": "https://www.thelittlechurch.nl/#scheduleAnchor"
+            },
+            {
+                "Date": "2026-12-27",
+                "Venue": "Little Church",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Title": "Metalfest V",
+                "Url": "https://www.thelittlechurch.nl/#scheduleAnchor"
+            }
+        ]
     },
     {
         "City": "Almere",
@@ -647,37 +695,95 @@
                 "Date": "2026-08-08",
                 "Venue": "Bluescafe Apeldoorn",
                 "Genres": [
-                    "death metal"
+                    "heavy metal"
                 ],
-                "Bands": [],
-                "Url": "https://bluescafe.nl/event/dangerous-times-for-the-dead/",
-                "Title": "Dangerous Times For The Dead"
+                "Bands": [
+                    "Dangerous Times For The Dead"
+                ],
+                "Url": "https://bluescafe.nl/event/dangerous-times-for-the-dead/"
+            },
+            {
+                "Date": "2026-09-20",
+                "Venue": "Gigant",
+                "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Fallen Sanctuary"
+                ],
+                "Url": "https://www.gigant.nl/concert/fallen-sanctuary-muziekcafe/"
             },
             {
                 "Date": "2026-11-06",
                 "Venue": "Gigant",
                 "Genres": [
-                    "power metal"
+                    "power metal",
+                    "progressive metal"
                 ],
+                "Title": "Brainstorm",
                 "Bands": [
                     "Roy Khan",
                     "Sirenia",
-                    "Wytch Hazel"
+                    "Wytch Hazel",
+                    "Cân Bardd",
+                    "Fellowship",
+                    "Illumishade",
+                    "Signum Regis",
+                    "Nephylim",
+                    "Dark Ages",
+                    "NatusSumMori"
                 ],
-                "Url": "https://podiumgigant.nl/programma/"
+                "Url": "https://www.gigant.nl/concert/brainstorm-festival-2026-vrijdag/"
             },
             {
                 "Date": "2026-11-07",
                 "Venue": "Gigant",
                 "Genres": [
-                    "power metal"
+                    "power metal",
+                    "progressive metal"
                 ],
+                "Title": "Brainstorm",
                 "Bands": [
                     "Roy Khan",
                     "Sirenia",
-                    "Wytch Hazel"
+                    "Wytch Hazel",
+                    "Cân Bardd",
+                    "Fellowship",
+                    "Illumishade",
+                    "Signum Regis",
+                    "Nephylim",
+                    "Dark Ages",
+                    "NatusSumMori"
                 ],
-                "Url": "https://podiumgigant.nl/programma/"
+                "Url": "https://www.gigant.nl/concert/brainstorm-festival-2026-zaterdag/"
+            },
+            {
+                "Date": "2026-11-20",
+                "Venue": "Gigant",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Acindc"
+                ],
+                "Url": "https://www.gigant.nl/concert/acindc/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-02-13",
+                "Venue": "Gigant",
+                "Genres": [
+                    "folk metal",
+                    "black metal"
+                ],
+                "Title": "March Into Walhalla",
+                "Bands": [
+                    "Groza",
+                    "Svartsot",
+                    "Slechtvalk",
+                    "Ilmarinen"
+                ],
+                "Url": "https://www.gigant.nl/concert/march-into-walhalla/"
             }
         ]
     },
@@ -849,7 +955,21 @@
         "City": "Balk",
         "Latitude": "52.9973",
         "Longitude": "5.5065",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-12-12",
+                "Venue": "Spider",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Gin Dizzy",
+                    "Lord Sabbath"
+                ],
+                "Url": "https://www.facebook.com/events/2118206332442022/",
+                "Tribute": true
+            }
+        ]
     },
     {
         "City": "Barendrecht",
@@ -1391,10 +1511,9 @@
         "Gigs": [
             {
                 "Date": "2026-08-20",
-                "Venue": "Burgerweeshuis",
+                "Venue": "Burger Weeshuis",
                 "Genres": [
-                    "death metal",
-                    "metalcore"
+                    "deathcore"
                 ],
                 "Bands": [
                     "Heavy//Hitter"
@@ -1403,7 +1522,7 @@
             },
             {
                 "Date": "2026-09-24",
-                "Venue": "Burgerweeshuis",
+                "Venue": "Burger Weeshuis",
                 "Genres": [
                     "hardcore"
                 ],
@@ -1414,7 +1533,7 @@
             },
             {
                 "Date": "2026-11-26",
-                "Venue": "Burgerweeshuis",
+                "Venue": "Burger Weeshuis",
                 "Genres": [
                     "hardcore",
                     "heavy metal"
@@ -1427,7 +1546,7 @@
             },
             {
                 "Date": "2026-12-04",
-                "Venue": "Burgerweeshuis",
+                "Venue": "Burger Weeshuis",
                 "Genres": [
                     "heavy metal"
                 ],
@@ -1438,7 +1557,7 @@
             },
             {
                 "Date": "2026-12-11",
-                "Venue": "Burgerweeshuis",
+                "Venue": "Burger Weeshuis",
                 "Genres": [
                     "hardcore",
                     "heavy metal"
@@ -2651,15 +2770,17 @@
         "Longitude": "6.7895",
         "Gigs": [
             {
-                "Date": "2026-07-10",
-                "Venue": "Metropool",
+                "Date": "2026-08-25",
+                "Venue": "Innocent",
                 "Genres": [
-                    "hardcore"
+                    "death metal"
                 ],
                 "Bands": [
-                    "Zeke"
+                    "Deadsquad",
+                    "Jasad",
+                    "Death Vomit"
                 ],
-                "Url": "https://www.metropool.nl/agenda/zeke"
+                "Url": "https://www.metropool.nl/agenda/deadsquad"
             },
             {
                 "Date": "2026-09-18",
@@ -2667,13 +2788,14 @@
                 "Genres": [
                     "nu metal"
                 ],
+                "Title": "Nu-Metal Night",
                 "Bands": [
                     "The Hunting Party",
                     "Dad Vibes",
                     "Psychosocial"
                 ],
                 "Url": "https://www.metropool.nl/agenda/nu-metal-night",
-                "Title": "Nu-metal Night"
+                "Tribute": true
             },
             {
                 "Date": "2026-09-19",
@@ -2696,7 +2818,8 @@
                     "Belphegor",
                     "Krisiun",
                     "Asagraum"
-                ]
+                ],
+                "Url": "https://www.metropool.nl/agenda/belphegor-krisiun"
             },
             {
                 "Date": "2026-10-03",
@@ -2759,6 +2882,17 @@
                 ],
                 "Url": "https://www.metropool.nl/agenda/feuerengel-a-tribute-to-rammstein",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-01-30",
+                "Venue": "Metropool",
+                "Genres": [
+                    "hardcore"
+                ],
+                "Bands": [
+                    "State Power"
+                ],
+                "Url": "https://www.metropool.nl/agenda/state-power"
             }
         ]
     },
@@ -3238,6 +3372,45 @@
                 ],
                 "Url": "https://www.corneel.nl/agenda/hotterthanhell/",
                 "Tribute": true
+            }
+        ]
+    },
+    {
+        "City": "Luttenberg",
+        "Latitude": "52.3992",
+        "Longitude": "6.3698",
+        "Gigs": [
+            {
+                "Date": "2026-11-14",
+                "Venue": "Elckerlyc",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Title": "Spiekerhard Metal Fest",
+                "Bands": [
+                    "Velozza",
+                    "Anger Machine",
+                    "Overruled",
+                    "Izegrim",
+                    "Dead Head"
+                ],
+                "Url": "https://www.spiekerhard.nl/spiekerhard-metal-fest/"
+            },
+            {
+                "Date": "2027-04-17",
+                "Venue": "Elckerlyc",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Title": "Spiekerhard Hardrock Fest",
+                "Bands": [
+                    "Sense of Urgency",
+                    "Jurassic Park",
+                    "Highway Chile",
+                    "Helloïse",
+                    "Vengeance"
+                ],
+                "Url": "https://www.spiekerhard.nl/spiekerhard-hardrock-fest/"
             }
         ]
     },
