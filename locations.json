@@ -2519,6 +2519,32 @@
                     "Plusminus"
                 ],
                 "Url": "https://www.facebook.com/events/1798054657821991"
+            },
+            {
+                "Date": "2026-10-09",
+                "Venue": "Estrado",
+                "Genres": [
+                    "black metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Ancient Rites",
+                    "Pentacle",
+                    "Asgrauw"
+                ],
+                "Url": "https://estrado.nl/productie/ancient-rites-pentacle/"
+            },
+            {
+                "Date": "2026-10-30",
+                "Venue": "Estrado",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://estrado.nl/productie/acindc/",
+                "Tribute": true
             }
         ]
     },
