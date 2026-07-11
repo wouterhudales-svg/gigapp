@@ -3161,18 +3161,45 @@
         "Longitude": "5.4788",
         "Gigs": [
             {
-                "Date": "2026-07-03",
+                "Date": "2026-10-09",
+                "Venue": "Corneel",
+                "Genres": [
+                    "death metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Inferum",
+                    "TerraDown"
+                ],
+                "Url": "https://www.corneel.nl/agenda/terradown-inferum/"
+            },
+            {
+                "Date": "2026-10-31",
+                "Venue": "Corneel",
+                "Genres": [
+                    "nu metal",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "The Hunting Party",
+                    "Victims Of A System",
+                    "Psychosocial"
+                ],
+                "Url": "https://www.corneel.nl/agenda/metaltributenight/",
+                "Title": "Metal Tribute Night",
+                "Tribute": true
+            },
+            {
+                "Date": "2026-12-11",
                 "Venue": "Corneel",
                 "Genres": [
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Between The Rats & Snakes",
-                    "Ann My Dice",
-                    "Sledeon",
-                    "Scenyte"
+                    "Hotter Than Hell"
                 ],
-                "Url": "https://corneel.nl/"
+                "Url": "https://www.corneel.nl/agenda/hotterthanhell/",
+                "Tribute": true
             }
         ]
     },
