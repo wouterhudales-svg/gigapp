@@ -2511,6 +2511,18 @@
                     "Wicked Leather"
                 ],
                 "Url": "https://poppodiumemmen.nl/all-events/?event=3777"
+            },
+            {
+                "Date": "2026-11-28",
+                "Title": "Metal Before Christmas 2026",
+                "Venue": "De Deele",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Atrophy"
+                ],
+                "Url": "https://poppodiumemmen.nl/all-events/?event=3823"
             }
         ]
     },
@@ -3116,6 +3128,20 @@
                 "Url": "https://hetpodium.nl/agenda/ronnie-romero-gus-g-convergence-fest/"
             },
             {
+                "Date": "2026-10-09",
+                "Title": "The Force From Hell Tour",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Onslaught",
+                    "The Prophecy23",
+                    "Toranaga UK"
+                ],
+                "Url": "https://hetpodium.nl/agenda/"
+            },
+            {
                 "Date": "2026-10-10",
                 "Venue": "Het Podium",
                 "Genres": [
@@ -3140,6 +3166,17 @@
                     "Facing The Madness"
                 ],
                 "Url": "https://hetpodium.nl/agenda/god-dethroned-fractured-insanity-facing-the-madness/"
+            },
+            {
+                "Date": "2026-11-29",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Sacred Reich"
+                ],
+                "Url": "https://hetpodium.nl/agenda/"
             },
             {
                 "Date": "2026-12-12",
@@ -4324,7 +4361,7 @@
                     "Trepaneringsritualen",
                     "Imha Tarikat",
                     "Pale Spektre",
-                    "Fir",
+                    "Solfatare",
                     "Nortfalke",
                     "Satanic Black Blood",
                     "Bradung",
@@ -4342,30 +4379,6 @@
                     "Raven"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/raven-uk-2/"
-            },
-            {
-                "Date": "2026-09-11",
-                "Venue": "Hall Of Fame",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "Sex Mask"
-                ],
-                "Url": "https://hall-fame.nl/programma/sex-mask-111644095/"
-            },
-            {
-                "Date": "2026-09-17",
-                "Venue": "Hall Of Fame",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "Pauperpunk",
-                    "Lothario",
-                    "Useless Eaters"
-                ],
-                "Url": "https://hall-fame.nl/programma/pauperpunk-lothario-useless-eaters-111622024/"
             },
             {
                 "Date": "2026-09-22",
@@ -4516,7 +4529,8 @@
                 ],
                 "Bands": [
                     "Baest",
-                    "Deadnate"
+                    "Deadnate",
+                    "Bloodcrypt"
                 ],
                 "Url": "https://hall-fame.nl/programma/baest-111621797/"
             },
@@ -4801,7 +4815,9 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Morbid"
+                    "Morbid",
+                    "Messor Falce",
+                    "Hellevorst"
                 ],
                 "Url": "https://hall-fame.nl/programma/morbid-111636997/"
             },
@@ -5221,6 +5237,17 @@
                 "Url": "https://dbstudio.nl/event/ploegendienst/"
             },
             {
+                "Date": "2026-09-29",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Devin Townsend"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/47911083/devin-townsend-29-09-2026/"
+            },
+            {
                 "Date": "2026-09-30",
                 "Venue": "dB's Studio",
                 "Genres": [
@@ -5294,12 +5321,16 @@
                 "Date": "2026-10-09",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
+                    "deathcore",
                     "death metal"
                 ],
                 "Bands": [
-                    "Shadow Of Intent"
+                    "Shadow Of Intent",
+                    "Aborted",
+                    "Disembodied Tyrant",
+                    "Soreption"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/56112914/shadow-of-intent-09-10-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/56112914/shadow-of-intent-09-10-2026/"
             },
             {
                 "Date": "2026-10-10",
@@ -5351,12 +5382,13 @@
                 "Date": "2026-10-23",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
-                    "heavy metal"
+                    "folk metal"
                 ],
                 "Bands": [
-                    "The Hu"
+                    "The Hu",
+                    "Skáld"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/95181615/the-hu-23-10-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/95181615/the-hu-23-10-2026/"
             },
             {
                 "Date": "2026-10-25",
@@ -5365,9 +5397,11 @@
                     "power metal"
                 ],
                 "Bands": [
-                    "Gloryhammer"
+                    "Gloryhammer",
+                    "Majestica",
+                    "Arion"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/53448188/gloryhammer-25-10-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/53448188/gloryhammer-25-10-2026/"
             },
             {
                 "Date": "2026-10-27",
@@ -5376,9 +5410,21 @@
                     "nu metal"
                 ],
                 "Bands": [
-                    "Clawfinger"
+                    "Clawfinger",
+                    "Sickret"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/43739677/clawfinger-27-10-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/43739677/clawfinger-27-10-2026/"
+            },
+            {
+                "Date": "2026-10-30",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Marko Hietala"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/98201006/marko-hietala-30-10-2026/"
             },
             {
                 "Date": "2026-10-30",
@@ -5413,9 +5459,10 @@
                     "death metal"
                 ],
                 "Bands": [
-                    "Mayan"
+                    "Mayan",
+                    "Dear Mother"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/44286163/mayan-01-11-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/44286163/mayan-01-11-2026/"
             },
             {
                 "Date": "2026-11-02",
@@ -5425,21 +5472,24 @@
                 ],
                 "Bands": [
                     "Erra",
-                    "Currents"
+                    "Currents",
+                    "Caskets",
+                    "Aviana"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/67027875/erra-currents-02-11-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/67027875/erra-currents-02-11-2026/"
             },
             {
                 "Date": "2026-11-03",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
-                    "heavy metal"
+                    "industrial metal"
                 ],
                 "Bands": [
                     "Carpenter Brut",
-                    "Health"
+                    "Health",
+                    "Vowws"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/16345823/carpenter-brut-health-03-11-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/16345823/carpenter-brut-health-03-11-2026/"
             },
             {
                 "Date": "2026-11-05",
@@ -5474,7 +5524,7 @@
                     "Tribulation",
                     "Vulkan"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/12346515/soen-17-11-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/12346515/soen-17-11-2026/"
             },
             {
                 "Date": "2026-11-18",
@@ -5508,8 +5558,20 @@
                 "Bands": [
                     "Bizkit Park"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/43217021/bizkit-park-21-11-2026",
+                "Url": "https://www.tivolivredenburg.nl/agenda/43217021/bizkit-park-21-11-2026/",
                 "Tribute": true
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Chelsea Wolfe",
+                    "A.A. Williams"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/14639295/chelsea-wolfe-21-11-2026/"
             },
             {
                 "Date": "2026-11-25",
@@ -5552,20 +5614,161 @@
                     "folk metal"
                 ],
                 "Bands": [
-                    "Eluveitie"
+                    "Eluveitie",
+                    "Pain",
+                    "Wolfheart"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/18673035/eluveitie-06-12-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/18673035/eluveitie-06-12-2026/"
+            },
+            {
+                "Date": "2026-12-06",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "grindcore",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Napalm Death",
+                    "Master",
+                    "Brat",
+                    "Goatburner"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/23781217/napalm-death-06-12-2026/"
             },
             {
                 "Date": "2026-12-13",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Dominum",
+                    "The Night Flight Orchestra",
+                    "Edge Of Paradise"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/41191505/dominum-13-12-2026/"
+            },
+            {
+                "Date": "2027-01-21",
+                "Title": "Obscura's Shred Fest",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Obscura",
+                    "Pestilence",
+                    "Cryptic Shift",
+                    "Thus",
+                    "Dvrk"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/25243543/obscuras-shred-fest-21-01-2027/"
+            },
+            {
+                "Date": "2027-01-30",
+                "Title": "MidWinter Prog Festival",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Haken"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/24238612/midwinter-prog-festival-30-01-2027/"
+            },
+            {
+                "Date": "2027-02-05",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "metalcore",
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Bury Tomorrow",
+                    "Stick To Your Guns",
+                    "Windwaker",
+                    "Elwood Stray"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/86655989/bury-tomorrow-05-02-2027/"
+            },
+            {
+                "Date": "2027-02-14",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "deathcore",
                     "death metal"
                 ],
                 "Bands": [
-                    "Dominum"
+                    "Whitechapel",
+                    "Sylosis",
+                    "200 Stab Wounds",
+                    "Tribal Gaze"
                 ],
-                "Url": "https://www.tivolivredenburg.nl/agenda/41191505/dominum-13-12-2026"
+                "Url": "https://www.tivolivredenburg.nl/agenda/81839856/whitechapel-14-02-2027/"
+            },
+            {
+                "Date": "2027-02-26",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "The Halo Effect",
+                    "Lacuna Coil",
+                    "Omnium Gatherum"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/62185113/the-halo-effect-26-02-2027/"
+            },
+            {
+                "Date": "2027-02-27",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "metalcore",
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Fleddy Melculy"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/55541629/fleddy-melculy-27-02-2027/"
+            },
+            {
+                "Date": "2027-02-27",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Charlotte Wessels",
+                    "Melissa Bonny"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/53384276/charlotte-wessels-27-02-2027/"
+            },
+            {
+                "Date": "2027-03-04",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "doom metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Draconian",
+                    "Saturnus",
+                    "Ann My Guard"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/21773644/draconian-04-03-2027/"
+            },
+            {
+                "Date": "2027-04-02",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Ministry",
+                    "Die Krupps"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/64545683/ministry-02-04-2027/"
             }
         ]
     },
@@ -5578,7 +5781,7 @@
                 "Date": "2026-10-02",
                 "Venue": "Grenswerk",
                 "Genres": [
-                    "heavy metal"
+                    "hardcore"
                 ],
                 "Bands": [
                     "Betontod"
@@ -5589,7 +5792,7 @@
                 "Date": "2026-10-04",
                 "Venue": "Grenswerk",
                 "Genres": [
-                    "heavy metal"
+                    "metalcore"
                 ],
                 "Bands": [
                     "Tenside",
@@ -5599,26 +5802,20 @@
                 "Url": "https://grenswerk.nl/agenda/tenside/"
             },
             {
-                "Date": "2026-10-16",
+                "Date": "2027-04-02",
+                "Title": "Forever Nu",
                 "Venue": "Grenswerk",
                 "Genres": [
-                    "heavy metal"
+                    "nu metal"
                 ],
                 "Bands": [
-                    "Pelican Dealer Aftershow Turin Brakes"
+                    "Chop Suey",
+                    "Slip-Not",
+                    "Blimp Trizkitz",
+                    "Linkin Park Tribute"
                 ],
-                "Url": "https://grenswerk.nl/agenda/pelican-dealer/"
-            },
-            {
-                "Date": "2027-04-16",
-                "Venue": "Grenswerk",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Black Doldrums Kalt & Duuster Presents"
-                ],
-                "Url": "https://grenswerk.nl/agenda/black-doldrums/"
+                "Url": "https://grenswerk.nl/agenda/forever-nu/",
+                "Tribute": true
             }
         ]
     },
@@ -5631,7 +5828,15 @@
                 "Date": "2026-11-07",
                 "Title": "Beukfeest 49",
                 "Venue": "Gryphus",
-                "Bands": []
+                "Bands": [
+					"Sayas",
+					"Midnightmares",
+					"Gore Force 5"
+					],
+				"Genres": [
+					"death metal",
+					"gothic metal"
+					]
             },
             {
                 "Date": "2027-04-17",
@@ -6000,17 +6205,6 @@
         "Longitude": "6.0833",
         "Gigs": [
             {
-                "Date": "2026-09-10",
-                "Venue": "Hedon",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "These Go To Eleven"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/33010/these-go-to-eleven/"
-            },
-            {
                 "Date": "2026-09-24",
                 "Venue": "Hedon",
                 "Genres": [
@@ -6022,37 +6216,17 @@
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32960/ploegendienst/"
             },
             {
-                "Date": "2026-09-25",
-                "Venue": "Hedon",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "Sterke Koffie"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32914/sterke-koffie/"
-            },
-            {
                 "Date": "2026-10-03",
                 "Venue": "Hedon",
                 "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "A Life Aligned"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/33004/a-life-aligned/"
-            },
-            {
-                "Date": "2026-10-08",
-                "Venue": "Hedon",
-                "Genres": [
+                    "metalcore",
                     "hardcore"
                 ],
                 "Bands": [
-                    "These Go To Eleven"
+                    "A Life Aligned",
+                    "Silent Treatment"
                 ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/33011/these-go-to-eleven/"
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/33004/a-life-aligned/"
             },
             {
                 "Date": "2026-10-23",
@@ -6079,70 +6253,31 @@
                 "Tribute": true
             },
             {
-                "Date": "2026-11-05",
-                "Venue": "Hedon",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "Kruidkoek & Joost Oomen"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32903/kruidkoek-joost-oomen/"
-            },
-            {
-                "Date": "2026-11-12",
-                "Venue": "Hedon",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "These Go To Eleven"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/33012/these-go-to-eleven/"
-            },
-            {
-                "Date": "2026-11-20",
-                "Venue": "Hedon",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Iron Jinn",
-                    "Temple Fang"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32980/iron-jinn-temple-fang/"
-            },
-            {
                 "Date": "2026-12-03",
                 "Venue": "Hedon",
                 "Genres": [
-                    "heavy metal",
-                    "hardcore"
+                    "metalcore",
+                    "deathcore"
                 ],
                 "Bands": [
-                    "Sugar Spine"
+                    "Sugar Spine",
+                    "Braces"
                 ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/33015/sugar-spine/"
-            },
-            {
-                "Date": "2026-12-10",
-                "Venue": "Hedon",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "These Go To Eleven"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/33013/these-go-to-eleven/"
             },
             {
                 "Date": "2027-01-09",
                 "Title": "Hedon Zwaar Nieuwjaar",
                 "Venue": "Hedon",
                 "Genres": [
-                    "heavy metal"
+                    "black metal",
+                    "death metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Ellende",
+                    "Nephylim",
+                    "Tenuem"
+                ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32984/hedon-zwaar-nieuwjaar/"
             },
             {
@@ -6155,16 +6290,6 @@
                     "Heideroosjes"
                 ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32992/heideroosjes/"
-            },
-            {
-                "Date": "2027-04-10",
-                "Title": "Skroetfest",
-                "Venue": "Hedon",
-                "Genres": [
-                    "heavy metal"
-                ],
-                "Bands": [],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32915/skroetfest/"
             }
         ]
     }
