@@ -2602,6 +2602,20 @@
                 ],
                 "Url": "https://www.tbeest.nl/",
                 "Tribute": true
+            },
+            {
+                "Date": "2026-12-19",
+                "Title": "Ozzy Lives On",
+                "Venue": "'t Beest",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ultimate Ozzy",
+                    "Bloody Sabbath"
+                ],
+                "Url": "https://tbeest.nl/productie/ozzy-lives-on/",
+                "Tribute": true
             }
         ]
     },
@@ -4329,6 +4343,67 @@
         "Gigs": []
     },
     {
+        "City": "Terneuzen",
+        "Latitude": "51.3358",
+        "Longitude": "3.8278",
+        "Gigs": [
+            {
+                "Date": "2026-09-19",
+                "Title": "Black Metal Night",
+                "Venue": "Poppodium De Pit",
+                "Genres": [
+                    "black metal",
+                    "grindcore",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Radeloos///Ziedend",
+                    "Serotonin",
+                    "GogmaGore"
+                ],
+                "Url": "https://www.poppodiumdepit.nl/productie/black-metal-night/"
+            },
+            {
+                "Date": "2026-10-10",
+                "Title": "Kashfest",
+                "Venue": "Poppodium De Pit",
+                "Genres": [
+                    "death metal",
+                    "grindcore",
+                    "deathcore"
+                ],
+                "Bands": [
+                    "Bloedhond",
+                    "Necrotesque",
+                    "Imprisoned In Flesh",
+                    "Rectal Smegma",
+                    "Stillbirth"
+                ],
+                "Url": "https://www.poppodiumdepit.nl/productie/kashfest-2/"
+            },
+            {
+                "Date": "2026-12-12",
+                "Title": "Crowfest",
+                "Venue": "Poppodium De Pit",
+                "Genres": [
+                    "death metal",
+                    "metalcore",
+                    "hardcore"
+                ],
+                "Bands": [
+                    "Inherited",
+                    "Dethroned",
+                    "KLAÏTON",
+                    "Headlock",
+                    "As We Speak",
+                    "Coalmine Canary",
+                    "Living In Hatred"
+                ],
+                "Url": "https://www.poppodiumdepit.nl/productie/crowfest/"
+            }
+        ]
+    },
+    {
         "City": "Tilburg",
         "Latitude": "51.5555",
         "Longitude": "5.0913",
@@ -5890,6 +5965,26 @@
                     "The Fifth Alliance"
                 ],
                 "Url": "https://kroepoekfabriek.nl/agenda/hemelbestormer/"
+            }
+        ]
+    },
+    {
+        "City": "Vlissingen",
+        "Latitude": "51.4425",
+        "Longitude": "3.5736",
+        "Gigs": [
+            {
+                "Date": "2026-10-31",
+                "Title": "Halloween With Pene Corrida!",
+                "Venue": "De Piek",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Pene Corrida"
+                ],
+                "Url": "https://depiek.nl/nl/Programma/v3SoUvoskWwz/Halloween-with-Pene-Corrida!.html",
+                "Tribute": true
             }
         ]
     },
