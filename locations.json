@@ -376,6 +376,7 @@
                 "Genres": [
                     "heavy metal"
                 ],
+				"Title": "Heavy Metal Maniacs Festival",
                 "Bands": [
                     "Helstar",
                     "Iron Savior",
@@ -391,6 +392,7 @@
                     "heavy metal",
                     "power metal"
                 ],
+				"Title": "Heavy Metal Maniacs Festival",
                 "Bands": [
                     "Firewind",
                     "Torch",
@@ -6279,17 +6281,6 @@
                     "Tenuem"
                 ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32984/hedon-zwaar-nieuwjaar/"
-            },
-            {
-                "Date": "2027-02-20",
-                "Venue": "Hedon",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "Heideroosjes"
-                ],
-                "Url": "https://www.hedon-zwolle.nl/voorstelling/32992/heideroosjes/"
             }
         ]
     }
