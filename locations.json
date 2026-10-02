@@ -47,7 +47,7 @@
                 "Date": "2026-11-07",
                 "Venue": "Willem Twee",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Shoreline",
@@ -84,7 +84,7 @@
                 "Date": "2026-12-06",
                 "Venue": "Willem Twee",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "black metal"
                 ],
                 "Bands": [
@@ -125,7 +125,7 @@
                     "Officium Triste",
                     "Sordid Empire",
                     "Sad Whisperings",
-                    "O.L.T.A.S.",
+                    "O.l.t.a.s.",
                     "Prophets Of Thwaites",
                     "Solace"
                 ],
@@ -274,7 +274,7 @@
                     "Coalmine Canary",
                     "Bleepbloep"
                 ],
-                "Url": "https://hal25.nl/agenda/",
+                "Url": "https://hal25.nl/events/herrie-fest-2026/",
                 "ImageSource": "https://wateenherrie.nl/wp-content/uploads/2026/07/HERRIE-FEST-2026-insta-groot-v2-scaled.jpg",
                 "Featured": true
             },
@@ -513,7 +513,7 @@
                 "Date": "2026-10-02",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Kaizers Orchestra"
@@ -554,7 +554,7 @@
                     "groove metal",
                     "death metal",
                     "metalcore",
-                    "hardcore",
+                    "hardcore punk",
                     "progressive metal"
                 ],
                 "Bands": [
@@ -569,7 +569,7 @@
                 "Date": "2026-10-13",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Devotchka"
@@ -581,7 +581,7 @@
                 "Venue": "Melkweg",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "No Barrier"
@@ -652,7 +652,7 @@
                 "Date": "2026-11-25",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Kid Kapichi"
@@ -663,7 +663,7 @@
                 "Date": "2026-12-01",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "The Chameleons"
@@ -674,7 +674,7 @@
                 "Date": "2026-12-06",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "The Skints"
@@ -709,7 +709,7 @@
                 "Date": "2026-12-09",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Seb Lowe"
@@ -808,7 +808,7 @@
                 "Date": "2027-02-09",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Tx2"
@@ -819,7 +819,7 @@
                 "Date": "2027-02-15",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Knox"
@@ -831,7 +831,7 @@
                 "Venue": "Melkweg",
                 "Genres": [
                     "nu metal",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "South Arcade"
@@ -853,7 +853,7 @@
                 "Date": "2027-05-14",
                 "Venue": "Melkweg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Talco"
@@ -1201,18 +1201,6 @@
             },
             {
                 "Date": "2026-09-27",
-                "Venue": "Mezz",
-                "Genres": [
-                    "hard rock",
-                    "heavy metal"
-                ],
-                "Bands": [
-                    "Black Stone Cherry"
-                ],
-                "Url": "https://www.mezz.nl/programma/black-stone-cherry/"
-            },
-            {
-                "Date": "2026-09-27",
                 "Venue": "Phoenix",
                 "Genres": [
                     "sludge metal",
@@ -1375,7 +1363,7 @@
                 "Title": "Gob + Ink Bomb",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Gob",
@@ -1400,7 +1388,7 @@
                 "Date": "2026-09-26",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Youngrubbi",
@@ -1414,7 +1402,7 @@
                 "Title": "Teardrinker + Curselifter",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Teardrinker",
@@ -1434,11 +1422,22 @@
                 "Url": "https://www.paard.nl/event/babybeard/"
             },
             {
+                "Date": "2026-10-06",
+                "Venue": "Paard",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Hällas"
+                ],
+                "Url": "https://www.paard.nl/event/hallas/"
+            },
+            {
                 "Date": "2026-10-07",
                 "Title": "Girlpower On Stage",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Clitteband",
@@ -1450,7 +1449,7 @@
                 "Date": "2026-10-10",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Dezerter"
@@ -1474,7 +1473,7 @@
                 "Date": "2026-10-18",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Hardcore Birthday Bash"
@@ -1486,7 +1485,7 @@
                 "Title": "Cosmic Kitten + Maria’s Molotov",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Cosmic Kitten",
@@ -1511,7 +1510,7 @@
                 "Title": "Escalpo + Kezus Krijst",
                 "Venue": "Musicon",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Escalpo",
@@ -1559,6 +1558,21 @@
                 "Url": "https://musicon.nl/event/season-of-the-dead-turbowitch/"
             },
             {
+                "Date": "2026-11-14",
+                "Title": "Void Of Metal",
+                "Venue": "Musicon",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Mouflon",
+                    "Canyon Literature",
+                    "Arteria",
+                    "Stilte"
+                ],
+                "Url": "https://musicon.nl/event/mouflon-canyon-literature-arteria-stilte/"
+            },
+            {
                 "Date": "2026-11-15",
                 "Venue": "Musicon",
                 "Genres": [
@@ -1591,7 +1605,7 @@
                 "Venue": "Musicon",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Moral Law",
@@ -1599,6 +1613,19 @@
                     "Spear"
                 ],
                 "Url": "https://musicon.nl/event/moral-law-rising-risk-spear/"
+            },
+            {
+                "Date": "2026-12-02",
+                "Title": "Girlpower On Stage",
+                "Venue": "Musicon",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Abstracted Mind",
+                    "Between The Rats & Snakes"
+                ],
+                "Url": "https://musicon.nl/event/girlpower-on-stage-abstracted-mind-between-rats-snakes/"
             },
             {
                 "Date": "2026-12-07",
@@ -1628,7 +1655,7 @@
                 "Date": "2026-12-19",
                 "Venue": "Paard",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "State Power"
@@ -1636,7 +1663,20 @@
                 "Url": "https://www.paard.nl/event/state-power/"
             },
             {
-                "Date": "2027-02-05",
+                "Date": "2027-02-17",
+                "Venue": "Paard",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Grimner",
+                    "Waylander",
+                    "Vansind"
+                ],
+                "Url": "https://www.paard.nl/event/grimner-waylander-vansind/"
+            },
+            {
+                "Date": "2027-02-19",
                 "Venue": "Musicon",
                 "Genres": [
                     "heavy metal"
@@ -1645,6 +1685,30 @@
                     "Pene Corrida"
                 ],
                 "Url": "https://musicon.nl/event/pene-corrida/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-03-05",
+                "Venue": "Paard",
+                "Genres": [
+                    "heavy metal",
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Slomosa"
+                ],
+                "Url": "https://www.paard.nl/event/slomosa/"
+            },
+            {
+                "Date": "2027-04-03",
+                "Venue": "Musicon",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Ænima"
+                ],
+                "Url": "https://musicon.nl/event/aenima-tool-tribute/",
                 "Tribute": true
             }
         ]
@@ -1664,7 +1728,7 @@
                 "Date": "2026-09-24",
                 "Venue": "Burger Weeshuis",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Gob"
@@ -1675,7 +1739,7 @@
                 "Date": "2026-11-26",
                 "Venue": "Burger Weeshuis",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "heavy metal"
                 ],
                 "Bands": [
@@ -1699,7 +1763,7 @@
                 "Date": "2026-12-11",
                 "Venue": "Burger Weeshuis",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "heavy metal"
                 ],
                 "Bands": [
@@ -1833,7 +1897,7 @@
                 "Date": "2026-10-25",
                 "Venue": "Iduna",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "punk"
                 ],
                 "Bands": [
@@ -1859,7 +1923,7 @@
                 "Date": "2026-11-22",
                 "Venue": "Iduna",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "thrash metal"
                 ],
                 "Bands": [
@@ -1991,7 +2055,7 @@
                 "Date": "2026-09-13",
                 "Venue": "Dynamo",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Drug Church",
@@ -2204,7 +2268,7 @@
                 "Date": "2026-11-17",
                 "Venue": "Dynamo",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Zebrahead",
@@ -2241,7 +2305,7 @@
                 "Date": "2026-12-03",
                 "Venue": "Dynamo",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "State Power"
@@ -2352,7 +2416,7 @@
                 "Date": "2026-12-19",
                 "Venue": "Dynamo",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "John Coffey"
@@ -2363,7 +2427,7 @@
                 "Date": "2027-02-20",
                 "Venue": "Dynamo",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "De Hardheid",
@@ -2496,20 +2560,59 @@
         "Gigs": []
     },
     {
+        "City": "Groesbeek",
+        "Latitude": "51.7767",
+        "Longitude": "5.9361",
+        "Gigs": [
+            {
+                "Date": "2026-11-14",
+                "Venue": "OJC Maddogs",
+                "Genres": [
+                    "black metal",
+                    "thrash metal",
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Asgrauw",
+                    "The Chösen",
+                    "Kludde"
+                ],
+                "Url": "https://www.ojcmaddogs.nl/event/asgrauw-album-release-show"
+            }
+        ]
+    },
+    {
         "City": "Groningen",
         "Latitude": "53.2194",
         "Longitude": "6.5665",
         "Gigs": [
             {
-                "Date": "2026-10-24",
-                "Venue": "Engelstede",
+                "Date": "2026-10-04",
+                "Venue": "Café de Walrus",
                 "Genres": [
-                    "heavy metal"
+                    "black metal",
+                    "death metal",
+                    "thrash metal"
                 ],
                 "Bands": [
-                    "Rvh Project"
+                    "Perdition Temple",
+                    "Force Of Darkness",
+                    "Witchfukker"
                 ],
-                "Url": "https://engelstede.nl/event/rvh-project/"
+                "Url": "https://cafedewalrus.nl/"
+            },
+            {
+                "Date": "2026-10-30",
+                "Venue": "Café de Walrus",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Drawn & Quartered",
+                    "Noroth",
+                    "Necrotesque"
+                ],
+                "Url": "https://cafedewalrus.nl/"
             },
             {
                 "Date": "2026-11-04",
@@ -2518,9 +2621,36 @@
                     "progressive metal"
                 ],
                 "Bands": [
-                    "Hippotraktor"
+                    "Hippotraktor",
+                    "OLTAS"
                 ],
-                "Url": "https://www.vera-groningen.nl/?post_type=events&p=152263&lang=nl/"
+                "Url": "https://www.vera-groningen.nl/events/hippotraktor-2026/"
+            },
+            {
+                "Date": "2026-11-14",
+                "Venue": "Vera",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Doodseskader",
+                    "Eigen Risico"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/doodseskader-2026/"
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "Café de Walrus",
+                "Genres": [
+                    "thrash metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Critical Defiance",
+                    "DET",
+                    "Headless Hunter"
+                ],
+                "Url": "https://cafedewalrus.nl/"
             },
             {
                 "Date": "2026-12-11",
@@ -2533,6 +2663,42 @@
                     "Dug"
                 ],
                 "Url": "https://www.vera-groningen.nl/?post_type=events&p=151522&lang=nl/"
+            },
+            {
+                "Date": "2026-12-12",
+                "Venue": "Vera",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "John Coffey",
+                    "Bot Mes"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/john-coffey-2026/"
+            },
+            {
+                "Date": "2027-01-29",
+                "Venue": "Vera",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power",
+                    "Minus Youth"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/state-power-2027/"
+            },
+            {
+                "Date": "2027-03-13",
+                "Venue": "Vera",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Heideroosjes",
+                    "Tim Vantol"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/heideroosjes-2027/"
             }
         ]
     },
@@ -2682,7 +2848,7 @@
                 "Venue": "Patronaat",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Any Given Day",
@@ -2903,7 +3069,7 @@
                 "Date": "2027-01-30",
                 "Venue": "Metropool",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "State Power"
@@ -2996,27 +3162,28 @@
             },
             {
                 "Date": "2026-10-09",
-                "Title": "The Force From Hell Tour",
                 "Venue": "Het Podium",
                 "Genres": [
                     "thrash metal"
                 ],
                 "Bands": [
                     "Onslaught",
-                    "The Prophecy23",
+                    "The Prophecy 23",
                     "Toranaga"
                 ],
-                "Url": "https://hetpodium.nl/agenda/"
+                "Url": "https://hetpodium.nl/agenda/onslaught-the-prophecy-23-toranaga-uk/"
             },
             {
                 "Date": "2026-10-10",
                 "Venue": "Het Podium",
                 "Genres": [
                     "symphonic metal",
-                    "melodic death metal"
+                    "death metal"
                 ],
                 "Bands": [
-                    "Eleine"
+                    "Eleine",
+                    "Rexoria",
+                    "Liv Sin"
                 ],
                 "Url": "https://hetpodium.nl/agenda/eleine-2026/"
             },
@@ -3041,9 +3208,10 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Sacred Reich"
+                    "Sacred Reich",
+                    "Cervexa"
                 ],
-                "Url": "https://hetpodium.nl/agenda/"
+                "Url": "https://hetpodium.nl/agenda/sacred-reich/"
             },
             {
                 "Date": "2026-12-12",
@@ -3058,15 +3226,77 @@
                 "Url": "https://hetpodium.nl/agenda/the-scratch-dug/"
             },
             {
+                "Date": "2027-01-22",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Heideroosjes"
+                ],
+                "Url": "https://hetpodium.nl/agenda/heideroosjes-try-out/"
+            },
+            {
                 "Date": "2027-02-13",
                 "Venue": "Het Podium",
                 "Genres": [
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Fleddy Melculy"
+                    "Fleddy Melculy",
+                    "Inherited"
                 ],
                 "Url": "https://hetpodium.nl/agenda/fleddy-melculy/"
+            },
+            {
+                "Date": "2027-02-27",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Party Cannon",
+                    "Internal Bleeding",
+                    "Guttural Slug"
+                ],
+                "Url": "https://hetpodium.nl/agenda/party-cannon-internal-bleeding-guttural-slug/"
+            },
+            {
+                "Date": "2027-03-13",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Bombus"
+                ],
+                "Url": "https://hetpodium.nl/agenda/bombus/"
+            },
+            {
+                "Date": "2027-03-19",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Thulcandra",
+                    "Yoth Iria",
+                    "Vorga"
+                ],
+                "Url": "https://hetpodium.nl/agenda/thulcandra-yoth-iria-vorgain/"
+            },
+            {
+                "Date": "2027-04-10",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Chop Suey",
+                    "Slip-not"
+                ],
+                "Url": "https://hetpodium.nl/agenda/forever-nu-system-of-a-down-slipknot-limp-bizkit-linkin-park/",
+                "Tribute": true
             }
         ]
     },
@@ -3275,7 +3505,7 @@
                 "Date": "2026-10-31",
                 "Venue": "Nobel",
                 "Genres": [
-                    "post metal",
+                    "post-metal",
                     "sludge metal"
                 ],
                 "Bands": [
@@ -3447,7 +3677,7 @@
                     "alternative metal"
                 ],
                 "Bands": [
-                    "Slip-NOT",
+                    "Slip-not",
                     "Chop Suey"
                 ],
                 "Url": "https://muziekgieterij.nl/event/slipknot-system-of-a-down-2026-10-16/",
@@ -3472,7 +3702,7 @@
                 "Genres": [
                     "black metal",
                     "doom metal",
-                    "post metal"
+                    "post-metal"
                 ],
                 "Bands": [
                     "Wolves In The Throne Room",
@@ -3495,7 +3725,7 @@
                 "Genres": [
                     "black metal",
                     "doom metal",
-                    "post metal"
+                    "post-metal"
                 ],
                 "Bands": [
                     "Paradise Lost",
@@ -3516,7 +3746,7 @@
                 "Venue": "Muziekgieterij",
                 "Genres": [
                     "progressive metal",
-                    "post metal"
+                    "post-metal"
                 ],
                 "Bands": [
                     "Hippotraktor",
@@ -3582,7 +3812,7 @@
                 "Date": "2027-03-04",
                 "Venue": "Muziekgieterij",
                 "Genres": [
-                    "post metal",
+                    "post-metal",
                     "sludge metal"
                 ],
                 "Bands": [
@@ -3608,7 +3838,6 @@
                 "Date": "2027-03-21",
                 "Venue": "Muziekgieterij",
                 "Genres": [
-                    "hard rock",
                     "heavy metal"
                 ],
                 "Bands": [
@@ -3619,29 +3848,35 @@
             {
                 "Date": "2027-06-04",
                 "Venue": "Stadsweide",
-                "Title": "South of Heaven",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-friday-2027-06-04/"
+                "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-friday-2027-06-04/",
+                "Bands": [
+                    "South Of Heaven"
+                ]
             },
             {
                 "Date": "2027-06-05",
                 "Venue": "Stadsweide",
-                "Title": "South of Heaven",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-saturday-2027-06-05/"
+                "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-saturday-2027-06-05/",
+                "Bands": [
+                    "South Of Heaven"
+                ]
             },
             {
                 "Date": "2027-06-06",
                 "Venue": "Stadsweide",
-                "Title": "South of Heaven",
                 "Genres": [
                     "heavy metal"
                 ],
-                "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-sunday-2027-06-06/"
+                "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-sunday-2027-06-06/",
+                "Bands": [
+                    "South Of Heaven"
+                ]
             }
         ]
     },
@@ -3979,6 +4214,27 @@
         "Gigs": []
     },
     {
+        "City": "Roosendaal",
+        "Latitude": "51.5444",
+        "Longitude": "4.4653",
+        "Gigs": [
+            {
+                "Date": "2026-12-19",
+                "Title": "Midwinter Mass",
+                "Venue": "The Loods",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Antzaker",
+                    "Stilte",
+                    "Veenlijk"
+                ],
+                "Url": "https://theloodshof.nl/"
+            }
+        ]
+    },
+    {
         "City": "Rotterdam",
         "Latitude": "51.926517",
         "Longitude": "4.462456",
@@ -4020,7 +4276,7 @@
                 "Date": "2026-09-30",
                 "Venue": "Baroeg",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "metalcore"
                 ],
                 "Bands": [
@@ -4219,7 +4475,7 @@
                 "Date": "2026-12-18",
                 "Venue": "Baroeg",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Backfire!",
@@ -4232,7 +4488,7 @@
                 "Venue": "Baroeg",
                 "Genres": [
                     "death metal",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Wolfbrigade"
@@ -4264,7 +4520,7 @@
                 "Title": "Club 3voor12 Limburg",
                 "Venue": "Volt",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "metalcore"
                 ],
                 "Bands": [
@@ -4303,7 +4559,7 @@
                 "Venue": "Volt",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Sugar Spine",
@@ -4340,7 +4596,37 @@
         "City": "Steenwijk",
         "Latitude": "52.79",
         "Longitude": "6.12",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2027-07-31",
+                "Title": "Stonehenge 2027",
+                "Venue": "Stonehenge",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Ashen Tomb",
+                    "Author & Punisher",
+                    "Beheaded",
+                    "Dead Head",
+                    "Destruction",
+                    "Extermination Dismemberment",
+                    "Fleshcrawl",
+                    "Gruesome",
+                    "Krisiun",
+                    "Misery Index",
+                    "Mucky Pup",
+                    "Opstand",
+                    "Origin",
+                    "Rot",
+                    "Scordatura",
+                    "Sinister 90",
+                    "Triptykon"
+                ],
+                "Url": "https://www.stonehengefestival.nl/lineup/2027/"
+            }
+        ]
     },
     {
         "City": "Terneuzen",
@@ -4388,7 +4674,7 @@
                 "Genres": [
                     "death metal",
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Inherited",
@@ -4424,7 +4710,7 @@
                 "Venue": "013",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Beartooth",
@@ -4461,7 +4747,7 @@
                 "Date": "2026-09-27",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Split System",
@@ -4500,7 +4786,7 @@
                 "Date": "2026-10-06",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Slope",
@@ -4514,7 +4800,7 @@
                 "Venue": "013",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "The Amity Affliction",
@@ -4630,7 +4916,7 @@
                 "Venue": "013",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "No Barrier"
@@ -4641,7 +4927,7 @@
                 "Date": "2026-10-25",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Babe Haven",
@@ -4677,7 +4963,7 @@
                 "Date": "2026-10-29",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Ploegendienst"
@@ -4741,7 +5027,7 @@
                 "Date": "2026-11-14",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "L.a. Sagne"
@@ -4777,7 +5063,7 @@
                 "Date": "2026-11-17",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Hail The Sun"
@@ -4814,7 +5100,7 @@
                 "Venue": "013",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Sugar Spine",
@@ -4864,7 +5150,7 @@
                 "Date": "2026-12-05",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "sludge metal"
                 ],
                 "Bands": [
@@ -4901,7 +5187,7 @@
                 "Date": "2026-12-09",
                 "Venue": "Hall Of Fame",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Waste"
@@ -4967,7 +5253,7 @@
                 "Date": "2027-01-23",
                 "Venue": "Little Devil",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "thrash metal"
                 ],
                 "Bands": [
@@ -5057,7 +5343,7 @@
                 "Date": "2027-02-28",
                 "Venue": "013",
                 "Genres": [
-                    "hardcore",
+                    "hardcore punk",
                     "metalcore"
                 ],
                 "Bands": [
@@ -5071,7 +5357,7 @@
                 "Date": "2027-03-11",
                 "Venue": "013",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Turnover"
@@ -5199,7 +5485,7 @@
                 "Date": "2026-09-11",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Skampida"
@@ -5211,7 +5497,7 @@
                 "Venue": "dB's Studio",
                 "Genres": [
                     "black metal",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Sigh",
@@ -5234,7 +5520,7 @@
                 "Date": "2026-09-25",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Ploegendienst"
@@ -5256,7 +5542,7 @@
                 "Date": "2026-09-30",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Kate Clover"
@@ -5290,7 +5576,7 @@
                 "Date": "2026-10-02",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Hardcore Earthquake",
@@ -5301,26 +5587,27 @@
                 "Url": "https://dbstudio.nl/event/hardcore-earthquake-ft-loma-prieta-usa-hexis-dk-violence-dk/"
             },
             {
-                "Date": "2026-10-03",
-                "Venue": "dB's Studio",
-                "Genres": [
-                    "hardcore"
-                ],
-                "Bands": [
-                    "Dub Pistols"
-                ],
-                "Url": "https://dbstudio.nl/event/dub-pistols-uk/"
-            },
-            {
                 "Date": "2026-10-09",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Zakmes"
                 ],
                 "Url": "https://dbstudio.nl/event/zakmes-zakmes-is-so-back-release-party/"
+            },
+            {
+                "Date": "2026-10-09",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "John Coffey",
+                    "Eyesores"
+                ],
+                "Url": "https://dehelling.nl/agenda/john-coffey-09-10-2026/"
             },
             {
                 "Date": "2026-10-09",
@@ -5341,10 +5628,11 @@
                 "Date": "2026-10-10",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
-                    "John Coffey"
+                    "John Coffey",
+                    "Van Tastik"
                 ],
                 "Url": "https://dbstudio.nl/event/john-coffey/"
             },
@@ -5355,9 +5643,23 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Deathchant"
+                    "Deathchant",
+                    "Shitman"
                 ],
                 "Url": "https://dbstudio.nl/event/deathchant-usa/"
+            },
+            {
+                "Date": "2026-10-15",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "black metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Krallice",
+                    "Baker & Wyskida"
+                ],
+                "Url": "https://dehelling.nl/agenda/krallice-baker-wyskida-15-10-2026/"
             },
             {
                 "Date": "2026-10-18",
@@ -5366,7 +5668,8 @@
                     "metalcore"
                 ],
                 "Bands": [
-                    "I Promised The World"
+                    "I Promised The World",
+                    "Rosasharin"
                 ],
                 "Url": "https://dbstudio.nl/event/i-promised-the-world-usa/"
             },
@@ -5379,9 +5682,24 @@
                 ],
                 "Bands": [
                     "Wolvennest",
-                    "Bedsore"
+                    "Bedsore",
+                    "Vígljós"
                 ],
                 "Url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-wolvennest-be-bedsore-it/"
+            },
+            {
+                "Date": "2026-10-21",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Acres",
+                    "Wayside",
+                    "What Lies Below",
+                    "Lifespark"
+                ],
+                "Url": "https://dehelling.nl/agenda/acres-wayside-what-lies-below-lifespark-21-10-2026/"
             },
             {
                 "Date": "2026-10-23",
@@ -5424,13 +5742,27 @@
                 "Date": "2026-10-30",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Tusky",
-                    "Rats & Daggers"
+                    "Pomme-Grenade"
                 ],
                 "Url": "https://dbstudio.nl/event/tusky-rats-daggers/"
+            },
+            {
+                "Date": "2026-10-30",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Nasty",
+                    "Crawlspace",
+                    "Pintglass",
+                    "Premonition"
+                ],
+                "Url": "https://dehelling.nl/agenda/nasty-crawlspace-pintglass-premonition-30-10-2026/"
             },
             {
                 "Date": "2026-10-30",
@@ -5508,10 +5840,24 @@
                 "Url": "https://dbstudio.nl/event/shining-norway/"
             },
             {
+                "Date": "2026-11-12",
+                "Title": "Pink 20th Anniversary Tour",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "sludge metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Boris",
+                    "Planning For Burial"
+                ],
+                "Url": "https://dehelling.nl/agenda/boris-pink-20th-anniversary-tour-12-11-2026/"
+            },
+            {
                 "Date": "2026-11-17",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Pro-pain"
@@ -5538,7 +5884,8 @@
                     "nu metal"
                 ],
                 "Bands": [
-                    "Blackgold"
+                    "Blackgold",
+                    "Sumo Cyco"
                 ],
                 "Url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-blackgold-uk/"
             },
@@ -5546,13 +5893,26 @@
                 "Date": "2026-11-19",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "metalcore"
+                    "metalcore",
+                    "deathcore"
                 ],
                 "Bands": [
                     "Sugar Spine",
-                    "Braces"
+                    "Braces",
+                    "Between Cities"
                 ],
                 "Url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-sugar-spine-braces/"
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Violent Vira"
+                ],
+                "Url": "https://dehelling.nl/agenda/violent-vira-21-11-2026/"
             },
             {
                 "Date": "2026-11-21",
@@ -5582,10 +5942,11 @@
                 "Date": "2026-11-25",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
-                    "Coilguns"
+                    "Coilguns",
+                    "Teardrinker"
                 ],
                 "Url": "https://dbstudio.nl/event/dbs-tivolivredenburg-present-coilguns-ch/"
             },
@@ -5593,7 +5954,7 @@
                 "Date": "2026-12-02",
                 "Venue": "dB's Studio",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Dÿse"
@@ -5641,6 +6002,18 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/23781217/napalm-death-06-12-2026/"
             },
             {
+                "Date": "2026-12-07",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "The Scratch",
+                    "Dug"
+                ],
+                "Url": "https://dehelling.nl/agenda/the-scratch-07-12-2026/"
+            },
+            {
                 "Date": "2026-12-13",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
@@ -5685,7 +6058,7 @@
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Bury Tomorrow",
@@ -5728,7 +6101,7 @@
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Fleddy Melculy"
@@ -5762,6 +6135,20 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/21773644/draconian-04-03-2027/"
             },
             {
+                "Date": "2027-03-05",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Bloodred Hourglass",
+                    "Brymir",
+                    "Pridian"
+                ],
+                "Url": "https://dehelling.nl/agenda/bloodred-hourglass-05-03-2027/"
+            },
+            {
                 "Date": "2027-04-02",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
@@ -5772,6 +6159,17 @@
                     "Die Krupps"
                 ],
                 "Url": "https://www.tivolivredenburg.nl/agenda/64545683/ministry-02-04-2027/"
+            },
+            {
+                "Date": "2027-05-02",
+                "Venue": "Tivoli De Helling",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Breakdown Of Sanity"
+                ],
+                "Url": "https://dehelling.nl/agenda/breakdown-of-sanity-02-05-2027/"
             }
         ]
     },
@@ -5784,7 +6182,7 @@
                 "Date": "2026-10-02",
                 "Venue": "Grenswerk",
                 "Genres": [
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "Betontod"
@@ -5805,8 +6203,46 @@
                 "Url": "https://grenswerk.nl/agenda/tenside/"
             },
             {
+                "Date": "2026-11-27",
+                "Venue": "Grenswerk",
+                "Genres": [
+                    "heavy metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Meatallica",
+                    "The Art Of Pantera"
+                ],
+                "Url": "https://grenswerk.nl/agenda/meatallica-the-art-of-pantera/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-01-23",
+                "Venue": "Grenswerk",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://grenswerk.nl/agenda/acindc-dirty-deeds/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-02-18",
+                "Venue": "Grenswerk",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Grimner",
+                    "Waylander",
+                    "Vansind"
+                ],
+                "Url": "https://grenswerk.nl/agenda/grimner/"
+            },
+            {
                 "Date": "2027-04-02",
-                "Title": "Forever Nu",
                 "Venue": "Grenswerk",
                 "Genres": [
                     "nu metal"
@@ -5819,6 +6255,17 @@
                 ],
                 "Url": "https://grenswerk.nl/agenda/forever-nu/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-05-20",
+                "Venue": "Grenswerk",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Damian Wilson Legacy"
+                ],
+                "Url": "https://grenswerk.nl/agenda/damian-wilson-legacy/"
             }
         ]
     },
@@ -6227,7 +6674,7 @@
                 "Venue": "Hedon",
                 "Genres": [
                     "metalcore",
-                    "hardcore"
+                    "hardcore punk"
                 ],
                 "Bands": [
                     "A Life Aligned",
