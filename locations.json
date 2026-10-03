@@ -1013,19 +1013,17 @@
                 "Url": "https://www.willemeen.nl/programma/kryptograf-no-gallon/"
             },
             {
-                "Date": "2026-10-17",
-                "Title": "Back Alley Ritual",
+                "Date": "2026-10-08",
                 "Venue": "Willemeen",
                 "Genres": [
-                    "speed metal",
-                    "doom metal"
+                    "thrash metal"
                 ],
                 "Bands": [
-                    "Trencher",
-                    "Hell Poison",
-                    "Hex Tar"
+                    "Onslaught",
+                    "The Prophecy 23",
+                    "Toranaga"
                 ],
-                "Url": "https://www.willemeen.nl/programma/back-alley-ritual-trencher-usa-hell-poison-bra-hex-tar/"
+                "Url": "https://www.willemeen.nl/programma/onslaught-uk-the-prophecy-23-de-toranaga-uk/"
             },
             {
                 "Date": "2026-10-22",
@@ -1036,9 +1034,9 @@
                 "Bands": [
                     "Deep Sun",
                     "Oikoumen",
-                    "Hell's Throne"
+                    "Hel's Throne"
                 ],
-                "Url": "https://www.willemeen.nl/programma/deep-sun-ch-oikoumen-fr-hells-throne-de-excl-nl-show/"
+                "Url": "https://www.willemeen.nl/programma/deep-sun-ch-oikoumen-fr-hels-throne-de-excl-nl-show/"
             },
             {
                 "Date": "2026-10-24",
@@ -1048,12 +1046,26 @@
                     "death metal"
                 ],
                 "Bands": [
-                    "Korpse",
                     "Izegrim",
                     "Necrotesque",
-                    "Burial"
+                    "Burial",
+                    "Shinigami",
+                    "Suspect Hostile"
                 ],
-                "Url": "https://www.willemeen.nl/programma/arnhem-death-fest/"
+                "Url": "https://www.willemeen.nl/programma/arnhem-death-fest-2026-izegrim-necrotesque-burial-ea/"
+            },
+            {
+                "Date": "2026-11-01",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Destruction Ritual",
+                    "Sanctvs",
+                    "Lvthn"
+                ],
+                "Url": "https://www.willemeen.nl/programma/destruction-ritual-fr-sanctvs-lvthn-excl-nl-show/"
             },
             {
                 "Date": "2026-11-03",
@@ -1082,6 +1094,33 @@
                 "Url": "https://www.willemeen.nl/programma/back-alley-ritual-sorcery-se-cutthroat-ie-sons-of-snakes/"
             },
             {
+                "Date": "2026-11-07",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Caedere",
+                    "Human Vivisection",
+                    "Embedded"
+                ],
+                "Url": "https://www.willemeen.nl/programma/caedere-human-vivisection-be-embedded-de/"
+            },
+            {
+                "Date": "2026-11-14",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "death metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Changeling",
+                    "Obsidian Tide",
+                    "Demichron"
+                ],
+                "Url": "https://www.willemeen.nl/programma/changeling-obsidian-tide-demichron/"
+            },
+            {
                 "Date": "2026-11-28",
                 "Venue": "Willemeen",
                 "Genres": [
@@ -1090,9 +1129,73 @@
                 ],
                 "Bands": [
                     "Sugar Spine",
-                    "Braces"
+                    "Braces",
+                    "Reformist"
                 ],
-                "Url": "https://www.willemeen.nl/programma/sugar-spine-braces-1-more/"
+                "Url": "https://www.willemeen.nl/programma/sugar-spine-braces-reformist/"
+            },
+            {
+                "Date": "2027-01-08",
+                "Title": "Brutal Insanity New Year Fest",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [],
+                "Url": "https://www.willemeen.nl/programma/brutal-insanity-new-year-fest-2026/"
+            },
+            {
+                "Date": "2027-01-23",
+                "Title": "Gathering Bizarro",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Paindemonium",
+                    "In All Fours",
+                    "Von Mollestein",
+                    "Mismorium",
+                    "Skumratzz"
+                ],
+                "Url": "https://www.willemeen.nl/programma/gathering-bizarro-met-paindemonium-in-all-fours-be-von-mollestein-mismorium-skumratzz/"
+            },
+            {
+                "Date": "2027-02-19",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Turmion Kätilöt"
+                ],
+                "Url": "https://www.willemeen.nl/programma/turmion-katilot-fi-support/"
+            },
+            {
+                "Date": "2027-03-05",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "High Spirits",
+                    "Savage Master"
+                ],
+                "Url": "https://www.willemeen.nl/programma/high-spirits-savage-master/"
+            },
+            {
+                "Date": "2027-03-24",
+                "Title": "Back Alley Ritual",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "doom metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Castle",
+                    "Hex Tar"
+                ],
+                "Url": "https://www.willemeen.nl/programma/back-alley-ritual-met-castle-us-hex-tar/"
             }
         ]
     },
@@ -1218,9 +1321,25 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Krashkarma"
+                    "Krashkarma",
+                    "Queen Of Spades"
                 ],
-                "Url": "https://poppodiumphoenix.nl/event/krashkarma-support-presented-by-tilburg-metal-fest-poppodium-phoenix/"
+                "Url": "https://poppodiumphoenix.nl/event/krashkarma/"
+            },
+            {
+                "Date": "2026-10-10",
+                "Title": "Confettiinjebierfest #10",
+                "Venue": "Phoenix",
+                "Genres": [
+                    "grindcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Excrementory Grindfuckers",
+                    "Oproerkraaiers",
+                    "Rectum Stretchers"
+                ],
+                "Url": "https://poppodiumphoenix.nl/event/confettiinjebierfest-editie-10/"
             },
             {
                 "Date": "2026-10-12",
@@ -1247,6 +1366,17 @@
                 "Url": "https://sounddogbreda.nl/#mmm-typhus--slavantas/"
             },
             {
+                "Date": "2026-11-02",
+                "Venue": "Mezz",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Valley Of The Sun"
+                ],
+                "Url": "https://www.mezz.nl/programma/valley-of-the-sun/"
+            },
+            {
                 "Date": "2026-11-10",
                 "Venue": "Sound Dog",
                 "Genres": [
@@ -1260,14 +1390,67 @@
             },
             {
                 "Date": "2026-11-14",
+                "Title": "Snakefest 2026",
+                "Venue": "Phoenix",
+                "Genres": [
+                    "death metal",
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Necrology",
+                    "Left Behind",
+                    "Dance With Dragons",
+                    "Tarnished",
+                    "Knokploeg"
+                ],
+                "Url": "https://poppodiumphoenix.nl/event/snakefest-2026/"
+            },
+            {
+                "Date": "2026-11-14",
                 "Venue": "Sound Dog",
                 "Genres": [
-                    "heavy metal"
+                    "thrash metal"
                 ],
                 "Bands": [
                     "Hetfieldz"
                 ],
                 "Url": "https://sounddogbreda.nl/#mmm-hetfieldz/",
+                "Tribute": true
+            },
+            {
+                "Date": "2026-11-18",
+                "Venue": "Sound Dog",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Season Of The Dead",
+                    "Turbowitch"
+                ],
+                "Url": "https://sounddogbreda.nl/#mmm-season-of-the-dead--turbowitch/"
+            },
+            {
+                "Date": "2026-11-20",
+                "Venue": "Sound Dog",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Atrophy",
+                    "Confess"
+                ],
+                "Url": "https://sounddogbreda.nl/#mmm-atrophy--confess/"
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "Sound Dog",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Type Of Negative"
+                ],
+                "Url": "https://sounddogbreda.nl/#mmm-type-of-negative/",
                 "Tribute": true
             },
             {
@@ -1283,6 +1466,21 @@
                 "Url": "https://www.mezz.nl/programma/pene-corrida-3/"
             },
             {
+                "Date": "2026-12-05",
+                "Title": "Satanklaas",
+                "Venue": "Phoenix",
+                "Genres": [
+                    "thrash metal",
+                    "grindcore"
+                ],
+                "Bands": [
+                    "Razorblade Messiah",
+                    "Hallowed Fire",
+                    "Stoeptegels"
+                ],
+                "Url": "https://poppodiumphoenix.nl/event/satanklaas-razorblade-messiah-hallowed-fire-stoeptegels/"
+            },
+            {
                 "Date": "2026-12-19",
                 "Venue": "Sound Dog",
                 "Genres": [
@@ -1293,6 +1491,29 @@
                     "Game Over"
                 ],
                 "Url": "https://sounddogbreda.nl/#mmm-defiance--game-over/"
+            },
+            {
+                "Date": "2026-12-20",
+                "Venue": "Mezz",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Doodswens"
+                ],
+                "Url": "https://www.mezz.nl/programma/doodswens/"
+            },
+            {
+                "Date": "2027-01-30",
+                "Venue": "Mezz",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Acindc"
+                ],
+                "Url": "https://www.mezz.nl/programma/acindc-2/",
+                "Tribute": true
             },
             {
                 "Date": "2027-03-12",
@@ -1306,6 +1527,29 @@
                     "Devil's Henchmen"
                 ],
                 "Url": "https://sounddogbreda.nl/#mmm-dead-serious--death-valley-knights--devils-henchmen/"
+            },
+            {
+                "Date": "2027-05-01",
+                "Venue": "Sound Dog",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Godthrymm",
+                    "Isabeau"
+                ],
+                "Url": "https://sounddogbreda.nl/#mmm-godthrymm--isabeau/"
+            },
+            {
+                "Date": "2027-05-12",
+                "Venue": "Sound Dog",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Absolva"
+                ],
+                "Url": "https://sounddogbreda.nl/#mmm-absolva--support/"
             }
         ]
     },
@@ -2557,7 +2801,52 @@
         "City": "Gouda",
         "Latitude": "52.0116",
         "Longitude": "4.7108",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-10-31",
+                "Title": "Hauntfest",
+                "Venue": "Studio Gonz",
+                "Genres": [
+                    "black metal",
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Hellevorst",
+                    "Arteria",
+                    "Grit",
+                    "Vomit Scraper",
+                    "Legion X"
+                ],
+                "Url": "https://www.studiogonz.nl/agenda/2737/Hauntfest"
+            },
+            {
+                "Date": "2027-02-06",
+                "Venue": "Studio Gonz",
+                "Genres": [
+                    "nu metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Victims Of A System",
+                    "Fade To Black"
+                ],
+                "Url": "https://www.studiogonz.nl/agenda/2705/Victims+of+a+System+%7C%7C+System+of+a+Down+Tribute",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-05-29",
+                "Venue": "Studio Gonz",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Damnation"
+                ],
+                "Url": "https://www.studiogonz.nl/agenda/2697/Damnation+-+A+Tribute+To+ACDC",
+                "Tribute": true
+            }
+        ]
     },
     {
         "City": "Groesbeek",
@@ -2622,7 +2911,7 @@
                 ],
                 "Bands": [
                     "Hippotraktor",
-                    "OLTAS"
+                    "Oltas"
                 ],
                 "Url": "https://www.vera-groningen.nl/events/hippotraktor-2026/"
             },
@@ -2647,7 +2936,7 @@
                 ],
                 "Bands": [
                     "Critical Defiance",
-                    "DET",
+                    "Det",
                     "Headless Hunter"
                 ],
                 "Url": "https://cafedewalrus.nl/"
@@ -2931,13 +3220,188 @@
         "City": "Heerhugowaard",
         "Latitude": "52.6629",
         "Longitude": "4.8286",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-10-03",
+                "Title": "Beukfest #19",
+                "Venue": "JC Kompleks",
+                "Genres": [
+                    "death metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "ONKT",
+                    "2Destroy",
+                    "Damnation"
+                ],
+                "Url": "https://kompleks.nl/evenement/beukfest-19/"
+            },
+            {
+                "Date": "2026-11-21",
+                "Title": "Metalstorm",
+                "Venue": "JC Kompleks",
+                "Genres": [
+                    "death metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Ceremony",
+                    "Sayas",
+                    "Remain Untaimed",
+                    "Skaldgrim"
+                ],
+                "Url": "https://kompleks.nl/evenement/metalstorm-2026/"
+            },
+            {
+                "Date": "2026-12-12",
+                "Title": "NoizFest 2026",
+                "Venue": "JC Kompleks",
+                "Genres": [
+                    "death metal",
+                    "grindcore"
+                ],
+                "Bands": [
+                    "Rotzorg",
+                    "Casentrino",
+                    "Perianal Abscess",
+                    "Carrionex"
+                ],
+                "Url": "https://kompleks.nl/evenement/noizfest-2026/"
+            }
+        ]
     },
     {
         "City": "Heerlen",
         "Latitude": "50.8882",
         "Longitude": "5.9799",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-10-09",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "heavy metal",
+                    "power metal"
+                ],
+                "Bands": [
+                    "Axel Rudi Pell",
+                    "Night Laser"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/10/09/axel-rudi-pell"
+            },
+            {
+                "Date": "2026-10-25",
+                "Venue": "Parkstad Limburg Theaters",
+                "Title": "The Magician's Farewell Tour",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Uriah Heep",
+                    "Heavy Pettin"
+                ],
+                "Url": "https://www.plt.nl/programma/uriah-heep-uk-the-magicians-farewell-tour/25-10-2026-19-30"
+            },
+            {
+                "Date": "2026-10-29",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "black metal",
+                    "grindcore"
+                ],
+                "Bands": [
+                    "Radeloos///ziedend",
+                    "Serotonin",
+                    "Novalization"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/10/29/radeloos-ziedend-serotonin"
+            },
+            {
+                "Date": "2026-11-12",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Turpentine Valley",
+                    "Ka'una"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/11/12/sagor-som-leder-mot-slutet-turpentine-valley"
+            },
+            {
+                "Date": "2026-12-10",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Nile",
+                    "Redsphere",
+                    "Intrepid",
+                    "Orecus"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/12/10/nile"
+            },
+            {
+                "Date": "2026-12-12",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/12/12/state-power"
+            },
+            {
+                "Date": "2026-12-13",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "The Scratch"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/12/13/the-scratch"
+            },
+            {
+                "Date": "2027-01-22",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Fight From Within",
+                    "Nicolas Cage Fighter",
+                    "Swanslaughter"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/01/22/fight-from-within-nicolas-cage-fighter"
+            },
+            {
+                "Date": "2027-04-16",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Living Theory",
+                    "Limp Business"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/04/16/living-theory-limp-business",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-05-22",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ritual"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/05/22/ritual-the-dutch-ghost-experience",
+                "Tribute": true
+            }
+        ]
     },
     {
         "City": "Hellendoorn",
@@ -3955,6 +4419,30 @@
                 ],
                 "Bands": [],
                 "Url": "https://despotmiddelburg.nl/programma/tool-experience"
+            }
+        ]
+    },
+    {
+        "City": "Nieuwendijk",
+        "Latitude": "51.7710",
+        "Longitude": "4.9261",
+        "Gigs": [
+            {
+                "Date": "2027-05-01",
+                "Title": "Heilland Festival",
+                "Venue": "Xinix",
+                "Genres": [
+                    "black metal",
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Misanthropia",
+                    "Fenris",
+                    "Schizophrenia",
+                    "Cirith Gorgor"
+                ],
+                "Url": "https://xinix.nl/agenda-item/heilland-festival-2027/"
             }
         ]
     },
@@ -5746,7 +6234,7 @@
                 ],
                 "Bands": [
                     "Tusky",
-                    "Pomme-Grenade"
+                    "Pomme-grenade"
                 ],
                 "Url": "https://dbstudio.nl/event/tusky-rats-daggers/"
             },
@@ -6223,7 +6711,7 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "ACinDC"
+                    "Acindc"
                 ],
                 "Url": "https://grenswerk.nl/agenda/acindc-dirty-deeds/",
                 "Tribute": true
@@ -6250,8 +6738,7 @@
                 "Bands": [
                     "Chop Suey",
                     "Slip-not",
-                    "Blimp Trizkitz",
-                    "Linkin Park Tribute"
+                    "Blimp Trizkitz"
                 ],
                 "Url": "https://grenswerk.nl/agenda/forever-nu/",
                 "Tribute": true
