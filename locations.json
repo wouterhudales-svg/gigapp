@@ -2128,29 +2128,13 @@
                 "Date": "2026-10-16",
                 "Venue": "Iduna",
                 "Genres": [
-                    "symphonic metal",
                     "metalcore"
                 ],
                 "Bands": [
                     "Nymue",
-                    "Griene Wâlden"
+                    "De Griene Wâlden"
                 ],
                 "Url": "https://iduna.nl/agenda/nymue-de-griene-walden/"
-            },
-            {
-                "Date": "2026-10-25",
-                "Venue": "Iduna",
-                "Genres": [
-                    "hardcore punk",
-                    "punk"
-                ],
-                "Bands": [
-                    "The Bones",
-                    "Murphy's Law",
-                    "The Drowns",
-                    "Teflon Dons"
-                ],
-                "Url": "https://iduna.nl/agenda/the-bones/"
             },
             {
                 "Date": "2026-10-29",
@@ -2159,9 +2143,38 @@
                     "progressive metal"
                 ],
                 "Bands": [
-                    "Mindcrime The Final Chapter"
+                    "Geoff Tate",
+                    "James Keegan"
                 ],
                 "Url": "https://iduna.nl/agenda/geoff-tate/"
+            },
+            {
+                "Date": "2026-11-05",
+                "Venue": "Iduna",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Sorcery",
+                    "Cutthroat",
+                    "Damnation"
+                ],
+                "Url": "https://iduna.nl/agenda/sorcery-cutthroat-damnation/"
+            },
+            {
+                "Date": "2026-11-21",
+                "Venue": "Iduna",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "I Am Morbid",
+                    "Atheist",
+                    "Cancer",
+                    "Narcotic Wasteland"
+                ],
+                "Url": "https://iduna.nl/agenda/iammorbid/"
             },
             {
                 "Date": "2026-11-22",
@@ -2171,7 +2184,9 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Pro-pain"
+                    "Pro-Pain",
+                    "Spear",
+                    "Schizm"
                 ],
                 "Url": "https://iduna.nl/agenda/pro-pain-2/"
             },
@@ -2209,9 +2224,27 @@
                     "thrash metal"
                 ],
                 "Bands": [
-                    "Countdown To Extinction"
+                    "David Ellefson"
                 ],
+                "Title": "Countdown To Extinction",
                 "Url": "https://iduna.nl/agenda/david-ellefson/"
+            },
+            {
+                "Date": "2027-01-16",
+                "Title": "Monsters Of Rock 2027",
+                "Venue": "Iduna",
+                "Genres": [
+                    "thrash metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "The Art Of Pantera",
+                    "In Utero",
+                    "Backbone",
+                    "Player"
+                ],
+                "Url": "https://iduna.nl/agenda/monsters-of-rock-2/",
+                "Tribute": true
             },
             {
                 "Date": "2027-02-06",
@@ -2223,10 +2256,39 @@
                 "Bands": [
                     "The Black Dahlia Murder",
                     "Wolfbrigade",
+                    "Dead Congregation",
                     "Slaughterday",
-                    "Burial"
+                    "Burial",
+                    "Savage"
                 ],
                 "Url": "https://iduna.nl/agenda/drachten-deathfest-3/"
+            },
+            {
+                "Date": "2027-03-05",
+                "Venue": "Iduna",
+                "Genres": [
+                    "thrash metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Evil Invaders",
+                    "Heathen",
+                    "Exhorder",
+                    "Warfield"
+                ],
+                "Url": "https://iduna.nl/agenda/evil-invaders-heathen-exhorder-warfield/"
+            },
+            {
+                "Date": "2027-03-07",
+                "Venue": "Iduna",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ozzyfied"
+                ],
+                "Url": "https://iduna.nl/agenda/ozzyfied-in-memory-of-ozzy-osbourne/",
+                "Tribute": true
             }
         ]
     },
@@ -3254,7 +3316,7 @@
             },
             {
                 "Date": "2026-12-12",
-                "Title": "NoizFest 2026",
+                "Title": "Noizfest 2026",
                 "Venue": "JC Kompleks",
                 "Genres": [
                     "death metal",
@@ -3562,15 +3624,34 @@
         "Gigs": [
             {
                 "Date": "2026-10-31",
+                "Title": "Dutch Metalheads Fest",
+                "Venue": "Vorstin",
+                "Genres": [
+                    "death metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "The Monolith Deathcult",
+                    "No Kings Allowed",
+                    "Man As Plague",
+                    "Deadspeak",
+                    "Loyalty Ends Here",
+                    "Mourn",
+                    "Chaos Unleashed"
+                ],
+                "Url": "https://vorstin.nl/agenda/metalheads-fest-31-10-2026/"
+            },
+            {
+                "Date": "2027-04-10",
                 "Venue": "Vorstin",
                 "Genres": [
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Man As Plague",
-                    "Loyalty Ends Here"
+                    "Ozzyfied"
                 ],
-                "Url": "https://vorstin.nl/"
+                "Url": "https://vorstin.nl/agenda/ozzyfied-10-04-2027/",
+                "Tribute": true
             }
         ]
     },
@@ -4037,6 +4118,20 @@
                 "Tribute": true
             },
             {
+                "Date": "2026-11-06",
+                "Venue": "Corneel",
+                "Genres": [
+                    "death metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Hesken",
+                    "Release The River",
+                    "Crush"
+                ],
+                "Url": "https://www.corneel.nl/agenda/hesken-releasetheriver-crush/"
+            },
+            {
                 "Date": "2026-12-11",
                 "Venue": "Corneel",
                 "Genres": [
@@ -4047,6 +4142,21 @@
                 ],
                 "Url": "https://www.corneel.nl/agenda/hotterthanhell/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-01-09",
+                "Title": "Void Of Metal",
+                "Venue": "Corneel",
+                "Genres": [
+                    "death metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Damnation",
+                    "2Destroy",
+                    "Arteria"
+                ],
+                "Url": "https://www.corneel.nl/agenda/voidofmetal/"
             }
         ]
     },
