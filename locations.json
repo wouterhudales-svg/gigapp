@@ -1206,6 +1206,27 @@
         "Gigs": []
     },
     {
+        "City": "Bad Nieuweschans",
+        "Latitude": "53.1681",
+        "Longitude": "7.1839",
+        "Gigs": [
+            {
+                "Date": "2026-10-17",
+                "Title": "Rumble in Café Reiderland",
+                "Venue": "Café Reiderland",
+                "Genres": [
+                    "thrash metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "PPTA",
+                    "Northerion"
+                ],
+                "Url": "https://www.reiderland.net/activiteiten/"
+            }
+        ]
+    },
+    {
         "City": "Balk",
         "Latitude": "52.9",
         "Longitude": "5.5833",
@@ -1268,6 +1289,26 @@
                 ],
                 "Url": "https://www.dezonbodegraven.nl/agenda/tribute-night-beast-of-maiden-12-dec-2026/?occurrence=2026-12-12",
                 "Tribute": true
+            }
+        ]
+    },
+    {
+        "City": "Borne",
+        "Latitude": "52.3010",
+        "Longitude": "6.7483",
+        "Gigs": [
+            {
+                "Date": "2026-10-24",
+                "Title": "KulturSchok!",
+                "Venue": "Kulturhus Borne",
+                "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Whiteabbey",
+                    "The Black Fall"
+                ],
+                "Url": "https://www.kulturhusborne.nl/programmadetails/kulturschok/"
             }
         ]
     },
@@ -1550,6 +1591,93 @@
                     "Absolva"
                 ],
                 "Url": "https://sounddogbreda.nl/#mmm-absolva--support/"
+            }
+        ]
+    },
+    {
+        "City": "Buchten",
+        "Latitude": "51.0435",
+        "Longitude": "5.8129",
+        "Gigs": [
+            {
+                "Date": "2027-09-25",
+                "Title": "12e Metalnach Buchte",
+                "Venue": "Sportcomplex Het Anker",
+                "Genres": [],
+                "Bands": [],
+                "Url": "https://hbc09.nl/metalnach-buchte/"
+            }
+        ]
+    },
+    {
+        "City": "Capelle aan den IJssel",
+        "Latitude": "51.9349",
+        "Longitude": "4.5801",
+        "Gigs": [
+            {
+                "Date": "2026-10-10",
+                "Venue": "Capsloc",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Up The Irons"
+                ],
+                "Url": "https://www.capsloc.nl/programma/up-the-irons-iron-maiden-tribute/",
+                "Tribute": true
+            },
+            {
+                "Date": "2026-11-14",
+                "Title": "CAPS Loud!",
+                "Venue": "Capsloc",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Proxima Flare",
+                    "Hurryland",
+                    "Subspectral",
+                    "Unfinished"
+                ],
+                "Url": "https://www.capsloc.nl/programma/proxima-flare-hurryland-subspectral-unfinished/"
+            }
+        ]
+    },
+    {
+        "City": "De Westereen",
+        "Latitude": "53.2610",
+        "Longitude": "6.0356",
+        "Gigs": [
+            {
+                "Date": "2026-11-07",
+                "Title": "Badhûs Metal Meeting vol. 2",
+                "Venue": "Badhûs",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Deafened To Death",
+                    "Written In Blood",
+                    "Insurrection",
+                    "Boneripper"
+                ],
+                "Url": "https://badhus.nl/events/badhus-metal-meeting-vol-2/"
+            },
+            {
+                "Date": "2027-02-19",
+                "Venue": "Badhûs",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Chop Suey",
+                    "Slip-NOT UK",
+                    "Blimp Trizkitz",
+                    "LP Tribute UK"
+                ],
+                "Url": "https://badhus.nl/events/forever-nu-tour-2027/",
+                "Tribute": true
             }
         ]
     },
@@ -2821,6 +2949,20 @@
         ]
     },
     {
+        "City": "Geesteren",
+        "Latitude": "52.4232",
+        "Longitude": "6.7201",
+        "Gigs": [
+            {
+                "Date": "2027-09-04",
+                "Title": "Weiland Metalfest",
+                "Venue": "Weiland Geesteren",
+                "Genres": [],
+                "Bands": []
+            }
+        ]
+    },
+    {
         "City": "Gemert",
         "Latitude": "51.5155",
         "Longitude": "5.6994",
@@ -2907,6 +3049,42 @@
                 ],
                 "Url": "https://www.studiogonz.nl/agenda/2697/Damnation+-+A+Tribute+To+ACDC",
                 "Tribute": true
+            }
+        ]
+    },
+    {
+        "City": "Groenlo",
+        "Latitude": "52.0381",
+        "Longitude": "6.6388",
+        "Gigs": [
+            {
+                "Date": "2027-09-18",
+                "Title": "Metalnight",
+                "Venue": "Rockcafé Taste",
+                "Genres": [
+                    "thrash metal",
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Locus Negativ",
+                    "Thrashcan",
+                    "Grey Moray"
+                ],
+                "Url": "https://www.rockcafetaste.nl/"
+            },
+            {
+                "Date": "2028-09-16",
+                "Title": "Metal Night",
+                "Venue": "Rockcafé Taste",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Sayas",
+                    "Milithia"
+                ],
+                "Url": "https://www.rockcafetaste.nl/"
             }
         ]
     },
@@ -3486,6 +3664,102 @@
         ]
     },
     {
+        "City": "Helmond",
+        "Latitude": "51.4762",
+        "Longitude": "5.6570",
+        "Gigs": [
+            {
+                "Date": "2026-10-14",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Marduk",
+                    "Doodswens"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/marduk-14-10-2026"
+            },
+            {
+                "Date": "2026-10-16",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Anvil"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/anvil-pounding-the-past-tour-16-10-2026"
+            },
+            {
+                "Date": "2026-10-31",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Threshold",
+                    "Ancient Curse",
+                    "Course Of Fate"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/threshold-hypothetical-25th-anniversary-tour-31-10-2026"
+            },
+            {
+                "Date": "2026-10-31",
+                "Title": "Halloween Just Got Scarier",
+                "Venue": "Muziekcafé",
+                "Genres": [
+                    "black metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Funeraria",
+                    "Veenlijk",
+                    "Gogmagore",
+                    "Anapoda"
+                ],
+                "Url": "https://muziekcafehelmond.nl/agenda"
+            },
+            {
+                "Date": "2026-11-05",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Eyehategod",
+                    "Baardvader"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/eyehategod-05-11-2026"
+            },
+            {
+                "Date": "2026-11-08",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Fellowship",
+                    "Signum Regis",
+                    "Elegy"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/fellowship-signum-regis-08-11-2026"
+            },
+            {
+                "Date": "2027-02-13",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Serenity",
+                    "Secret Sphere"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/serenity-13-02-2027"
+            }
+        ]
+    },
+    {
         "City": "Hengelo",
         "Latitude": "52.2658",
         "Longitude": "6.7895",
@@ -3688,6 +3962,46 @@
         ]
     },
     {
+        "City": "Hoogenweg",
+        "Latitude": "52.5684",
+        "Longitude": "6.6598",
+        "Gigs": [
+            {
+                "Date": "2027-04-02",
+                "Title": "Stage Destroying Metalfest",
+                "Venue": "Gebouw Hoogenweg",
+                "Genres": [
+                    "death metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Hamerhaai",
+                    "Carnal Desecration",
+                    "Bloody Invasion"
+                ],
+                "Url": "https://dehoogenweg.nl/"
+            },
+            {
+                "Date": "2027-04-03",
+                "Title": "Stage Destroying Metalfest",
+                "Venue": "Gebouw Hoogenweg",
+                "Genres": [
+                    "death metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Dead Man's Walk",
+                    "Nebelstorm",
+                    "Written In Blood",
+                    "Misanthropia",
+                    "Temple of Dread",
+                    "Fleshless"
+                ],
+                "Url": "https://dehoogenweg.nl/"
+            }
+        ]
+    },
+    {
         "City": "Hoogeveen",
         "Latitude": "52.7267",
         "Longitude": "6.4789",
@@ -3842,6 +4156,38 @@
                 ],
                 "Url": "https://hetpodium.nl/agenda/forever-nu-system-of-a-down-slipknot-limp-bizkit-linkin-park/",
                 "Tribute": true
+            }
+        ]
+    },
+    {
+        "City": "Kampen",
+        "Latitude": "52.5819",
+        "Longitude": "5.8854",
+        "Gigs": [
+            {
+                "Date": "2026-10-10",
+                "Venue": "'t Ukien",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Money & The Man",
+                    "Barbee"
+                ],
+                "Url": "https://ukien.nl/agenda/cultureel-podium/money-the-man-support-act-barbee/"
+            },
+            {
+                "Date": "2026-10-24",
+                "Venue": "'t Ukien",
+                "Genres": [
+                    "death metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Hesken",
+                    "Novelization"
+                ],
+                "Url": "https://ukien.nl/agenda/cultureel-podium/hesken/"
             }
         ]
     },
@@ -4474,6 +4820,30 @@
         ]
     },
     {
+        "City": "Menaldum",
+        "Latitude": "53.2157",
+        "Longitude": "5.6665",
+        "Gigs": [
+            {
+                "Date": "2026-11-07",
+                "Title": "Masters of Metal",
+                "Venue": "Café Black Horse",
+                "Genres": [
+                    "thrash metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Voltbeat",
+                    "Highway to Rosie",
+                    "The Dutch Horsemen",
+                    "Armadé"
+                ],
+                "Url": "https://cafeblackhorse.nl/",
+                "Tribute": true
+            }
+        ]
+    },
+    {
         "City": "Middelburg",
         "Latitude": "51.4988",
         "Longitude": "3.6106",
@@ -4529,6 +4899,21 @@
                 ],
                 "Bands": [],
                 "Url": "https://despotmiddelburg.nl/programma/tool-experience"
+            }
+        ]
+    },
+    {
+        "City": "Nieuwegein",
+        "Latitude": "52.0308",
+        "Longitude": "5.0947",
+        "Gigs": [
+            {
+                "Date": "2026-11-21",
+                "Title": "Nieuwegein HEAVY 8",
+                "Venue": "De Partner",
+                "Genres": [],
+                "Bands": [],
+                "Url": "https://departnernieuwegein.nl/programma/"
             }
         ]
     },
@@ -4782,6 +5167,73 @@
         ]
     },
     {
+        "City": "Oss",
+        "Latitude": "51.7649",
+        "Longitude": "5.5217",
+        "Gigs": [
+            {
+                "Date": "2026-10-24",
+                "Venue": "Groene Engel",
+                "Genres": [
+                    "heavy metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Meatallica",
+                    "October Rust"
+                ],
+                "Url": "https://www.groene-engel.nl/programma/meatallica-october-rust/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-01-23",
+                "Venue": "Groene Engel",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Wolvennest",
+                    "Satanic Witch"
+                ],
+                "Url": "https://www.groene-engel.nl/programma/wolvennest-satanic-witch/"
+            },
+            {
+                "Date": "2027-02-19",
+                "Venue": "Groene Engel",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Wild Blaze"
+                ],
+                "Url": "https://www.groene-engel.nl/programma/after-show-physical-graffiti-wild-blaze/"
+            },
+            {
+                "Date": "2027-04-02",
+                "Venue": "Groene Engel",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Damian Wilson Legacy"
+                ],
+                "Url": "https://www.groene-engel.nl/programma/damian-wilson-legacy/"
+            },
+            {
+                "Date": "2027-04-09",
+                "Venue": "Groene Engel",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ozzyfied"
+                ],
+                "Url": "https://www.groene-engel.nl/programma/ozzyfied-in-memory-of-ozzy-osbourne-black-sabbath/",
+                "Tribute": true
+            }
+        ]
+    },
+    {
         "City": "Papendrecht",
         "Latitude": "51.8317",
         "Longitude": "4.6875",
@@ -4916,6 +5368,19 @@
                     "Berzerk IV"
                 ],
                 "Url": "https://baroeg.nl/productie/berzerk-events-presents-berzerk-iv/"
+            },
+            {
+                "Date": "2026-10-18",
+                "Venue": "Baroeg",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Benediction",
+                    "Pentacle",
+                    "Nightbearer"
+                ],
+                "Url": "https://baroeg.nl/productie/benediction-nightbearer/"
             },
             {
                 "Date": "2026-10-23",
@@ -5057,6 +5522,19 @@
                 "Url": "https://baroeg.nl/productie/wednesday-13-the-birthday-massacre-killus/"
             },
             {
+                "Date": "2026-12-06",
+                "Venue": "Baroeg",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Torturerama",
+                    "Mancuerda",
+                    "Daemorthan"
+                ],
+                "Url": "https://baroeg.nl/productie/baroeg-on-tour-soundville-itgow-presents-torturerama-mancuerda-daemorthan/"
+            },
+            {
                 "Date": "2026-12-11",
                 "Venue": "Baroeg",
                 "Genres": [
@@ -5070,6 +5548,20 @@
                 "Url": "https://baroeg.nl/productie/evergrey/"
             },
             {
+                "Date": "2026-12-13",
+                "Venue": "Baroeg",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Nile",
+                    "Redsphere",
+                    "Intrepid",
+                    "Orecus"
+                ],
+                "Url": "https://baroeg.nl/productie/nile-redsphere-intrepid-orecus/"
+            },
+            {
                 "Date": "2026-12-18",
                 "Venue": "Baroeg",
                 "Genres": [
@@ -5080,6 +5572,30 @@
                     "Traumatizer"
                 ],
                 "Url": "https://baroeg.nl/productie/backfire-farewell-show-traumatizer/"
+            },
+            {
+                "Date": "2027-01-16",
+                "Venue": "Baroeg",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Breakdown"
+                ],
+                "Url": "https://baroeg.nl/productie/breakdownbaroeg/"
+            },
+            {
+                "Date": "2027-02-05",
+                "Venue": "Baroeg",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Dead Congregation",
+                    "Deathless Void",
+                    "Deadspeak"
+                ],
+                "Url": "https://baroeg.nl/productie/dead-congregation/"
             },
             {
                 "Date": "2027-02-07",
@@ -5961,6 +6477,26 @@
                     "Turnover"
                 ],
                 "Url": "https://www.013.nl/programma/142310/turnover/"
+            }
+        ]
+    },
+    {
+        "City": "Tolkamer",
+        "Latitude": "51.8655",
+        "Longitude": "6.0892",
+        "Gigs": [
+            {
+                "Date": "2026-11-29",
+                "Title": "'t Heavy Anker",
+                "Venue": "Café 't Anker",
+                "Genres": [
+                    "death metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Mouflon",
+                    "Suspect Hostile"
+                ]
             }
         ]
     },
@@ -7020,6 +7556,28 @@
         ]
     },
     {
+        "City": "Winkel",
+        "Latitude": "52.7585",
+        "Longitude": "4.9184",
+        "Gigs": [
+            {
+                "Date": "2026-11-14",
+                "Title": "Metal Blast from the Past",
+                "Venue": "Grand Café 88",
+                "Genres": [
+                    "thrash metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Countersound",
+                    "Volière",
+                    "Chaos Unleashed"
+                ],
+                "Url": "https://grandcafe88.nl/events/"
+            }
+        ]
+    },
+    {
         "City": "Winschoten",
         "Latitude": "53.144",
         "Longitude": "7.0346",
@@ -7043,6 +7601,28 @@
         "Latitude": "51.9722",
         "Longitude": "6.7194",
         "Gigs": []
+    },
+    {
+        "City": "Woerden",
+        "Latitude": "52.0863",
+        "Longitude": "4.8790",
+        "Gigs": [
+            {
+                "Date": "2027-01-16",
+                "Title": "Bredius Brutality",
+                "Venue": "Podium Bredius",
+                "Genres": [
+                    "black metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Cirith Gorgor",
+                    "Deathless Void",
+                    "Ibex Angel Order"
+                ],
+                "Url": "https://www.podiumbredius.nl/#a338"
+            }
+        ]
     },
     {
         "City": "Wormerveer",
@@ -7088,6 +7668,29 @@
         "Latitude": "52.4478",
         "Longitude": "4.8265",
         "Gigs": []
+    },
+    {
+        "City": "Zeeland",
+        "Latitude": "51.6922",
+        "Longitude": "5.6820",
+        "Gigs": [
+            {
+                "Date": "2026-10-31",
+                "Title": "Zèlland Rocknight",
+                "Venue": "Dorpshuis Zeeland",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "The Slowtuners",
+                    "Turn It Up",
+                    "Dallas 1PM",
+                    "Metal Heart"
+                ],
+                "Url": "https://www.dorpshuiszeeland.nl/agenda/zelland-rocknight-2026/",
+                "Tribute": true
+            }
+        ]
     },
     {
         "City": "Zoetermeer",
