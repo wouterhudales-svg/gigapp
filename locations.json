@@ -951,6 +951,19 @@
                 "Url": "https://www.willemeen.nl/programma/the-obsessed-usa-support/"
             },
             {
+                "Date": "2026-11-05",
+                "Venue": "Luxor Live",
+                "Genres": [
+                    "progressive metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Diggeth",
+                    "Bismut"
+                ],
+                "Url": "https://www.luxorlive.nl/agenda/diggeth-2/"
+            },
+            {
                 "Date": "2026-11-06",
                 "Title": "Back Alley Ritual",
                 "Venue": "Willemeen",
@@ -993,6 +1006,19 @@
                 "Url": "https://www.willemeen.nl/programma/changeling-obsidian-tide-demichron/"
             },
             {
+                "Date": "2026-11-21",
+                "Title": "The Magician's Farewell",
+                "Venue": "Musis",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Uriah Heep",
+                    "Heavy Pettin'"
+                ],
+                "Url": "https://www.musisenstadstheater.nl/nl/agenda/uriah-heep/10126"
+            },
+            {
                 "Date": "2026-11-28",
                 "Venue": "Willemeen",
                 "Genres": [
@@ -1007,13 +1033,28 @@
                 "Url": "https://www.willemeen.nl/programma/sugar-spine-braces-reformist/"
             },
             {
+                "Date": "2026-12-09",
+                "Venue": "Luxor Live",
+                "Genres": [
+                    "progressive metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Sledeon",
+                    "Ann My Dice"
+                ],
+                "Url": "https://www.luxorlive.nl/agenda/sledeon-2/"
+            },
+            {
                 "Date": "2027-01-08",
                 "Title": "Brutal Insanity New Year Fest",
                 "Venue": "Willemeen",
                 "Genres": [
                     "death metal"
                 ],
-                "Bands": [],
+                "Bands": [
+                    "Traumatism"
+                ],
                 "Url": "https://www.willemeen.nl/programma/brutal-insanity-new-year-fest-2026/"
             },
             {
@@ -1027,10 +1068,22 @@
                     "Paindemonium",
                     "In All Fours",
                     "Von Mollestein",
-                    "Mismorium",
                     "Skumratzz"
                 ],
-                "Url": "https://www.willemeen.nl/programma/gathering-bizarro-met-paindemonium-in-all-fours-be-von-mollestein-mismorium-skumratzz/"
+                "Url": "https://www.willemeen.nl/programma/gathering-bizarro-met-paindemonium-in-all-fours-be-von-mollestein-skumratzz/"
+            },
+            {
+                "Date": "2027-02-19",
+                "Title": "L'avocat Du Diable",
+                "Venue": "Luxor Live",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Fleddy Melculy",
+                    "Inherited"
+                ],
+                "Url": "https://www.luxorlive.nl/agenda/fleddy-melculy-3/"
             },
             {
                 "Date": "2027-02-19",
@@ -1068,6 +1121,18 @@
                     "Hex Tar"
                 ],
                 "Url": "https://www.willemeen.nl/programma/back-alley-ritual-met-castle-us-hex-tar/"
+            },
+            {
+                "Date": "2027-05-12",
+                "Venue": "Luxor Live",
+                "Genres": [
+                    "sludge metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Bokassa"
+                ],
+                "Url": "https://www.luxorlive.nl/agenda/bokassa-2/"
             }
         ]
     },
@@ -2409,7 +2474,22 @@
         "City": "Emmeloord",
         "Latitude": "52.7065",
         "Longitude": "5.7604",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-10-10",
+                "Title": "Brutal Trinity",
+                "Venue": "De Klos",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Human Vivisection",
+                    "Caedere",
+                    "Embedded"
+                ],
+                "Url": "https://de-klos.nl/"
+            }
+        ]
     },
     {
         "City": "Emmer-Compascuum",
@@ -2417,13 +2497,35 @@
         "Longitude": "7.0458",
         "Gigs": [
             {
-                "Date": "2026-11-28",
-                "Venue": "De Deele",
+                "Date": "2026-10-31",
+                "Title": "Tollyfest 11",
+                "Venue": "De Foxel",
                 "Genres": [
-                    "thrash metal"
+                    "heavy metal",
+                    "power metal"
                 ],
                 "Bands": [
-                    "Metal Before Christmas 2026"
+                    "5150",
+                    "Burning",
+                    "No Sentence"
+                ]
+            },
+            {
+                "Date": "2026-11-28",
+                "Title": "Metal Before Christmas 2026",
+                "Venue": "De Deele",
+                "Genres": [
+                    "thrash metal",
+                    "death metal",
+                    "heavy metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Atrophy",
+                    "Procreation",
+                    "Angelic Forces",
+                    "Jurassic Park",
+                    "Confess"
                 ],
                 "Url": "https://poppodiumemmen.nl/all-events/?event=3823"
             }
@@ -3511,6 +3613,20 @@
                 "Url": "https://hetpodium.nl/agenda/god-dethroned-fractured-insanity-facing-the-madness/"
             },
             {
+                "Date": "2026-11-21",
+                "Venue": "Café De Lijst",
+                "Genres": [
+                    "speed metal",
+                    "thrash metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Overruled",
+                    "Massive Assault"
+                ],
+                "Url": "https://www.cafedelijst.nl/overruledenmassiveassault.php"
+            },
+            {
                 "Date": "2026-11-29",
                 "Venue": "Het Podium",
                 "Genres": [
@@ -3521,6 +3637,18 @@
                     "Cervexa"
                 ],
                 "Url": "https://hetpodium.nl/agenda/sacred-reich/"
+            },
+            {
+                "Date": "2026-12-04",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "The Metallicas"
+                ],
+                "Url": "https://hetpodium.nl/agenda/the-metallicas-metallica-tribute/",
+                "Tribute": true
             },
             {
                 "Date": "2026-12-12",
@@ -4512,6 +4640,25 @@
                 "Url": "https://www.doornroosje.nl/event/archspire-3/"
             },
             {
+                "Date": "2026-10-25",
+                "Title": "Waalhella Part 16",
+                "Venue": "Waalhalla",
+                "Genres": [
+                    "metalcore",
+                    "death metal",
+                    "thrash metal",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "Swanslaughter",
+                    "Deathisfaction",
+                    "Kelsey",
+                    "Rising Tide",
+                    "Fulgurite"
+                ],
+                "Url": "https://www.waalhalla-centrum.nl/events/waalhella-pt-16/"
+            },
+            {
                 "Date": "2026-11-05",
                 "Venue": "Merleyn",
                 "Genres": [
@@ -4572,6 +4719,33 @@
                     "Sun Eater"
                 ],
                 "Url": "https://www.doornroosje.nl/event/mental-cruelty/"
+            },
+            {
+                "Date": "2026-12-11",
+                "Venue": "Waalhalla",
+                "Genres": [
+                    "death metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Inferum"
+                ],
+                "Url": "https://www.waalhalla-centrum.nl/events/inferum-support/"
+            },
+            {
+                "Date": "2026-12-27",
+                "Title": "Waalhella: Black Edition",
+                "Venue": "Waalhalla",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Wrang",
+                    "Kaeck",
+                    "Veenlijk",
+                    "Razernij"
+                ],
+                "Url": "http://waalhella.nl/"
             }
         ]
     },
@@ -5437,9 +5611,10 @@
                     "progressive metal"
                 ],
                 "Bands": [
-                    "Mindcrime"
+                    "Geoff Tate"
                 ],
-                "Url": "https://www.013.nl/programma/124342/geoff-tates-operation-mindcrime/"
+                "Url": "https://www.013.nl/programma/124342/geoff-tates-operation-mindcrime/",
+                "Title": "Geoff Tate's Operation: Mindcrime"
             },
             {
                 "Date": "2026-10-28",
@@ -5734,9 +5909,10 @@
                     "death metal"
                 ],
                 "Bands": [
-                    "Two Decades Of Nocturnal"
+                    "The Black Dahlia Murder"
                 ],
-                "Url": "https://www.013.nl/programma/144498/the-black-dahlia-murder/"
+                "Url": "https://www.013.nl/programma/144498/the-black-dahlia-murder/",
+                "Title": "Two Decades Of Nocturnal"
             },
             {
                 "Date": "2027-02-11",
