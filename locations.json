@@ -998,12 +998,14 @@
                 "Date": "2026-11-03",
                 "Venue": "Willemeen",
                 "Genres": [
-                    "doom metal"
+                    "doom metal",
+                    "sludge metal"
                 ],
                 "Bands": [
-                    "The Obsessed"
+                    "The Obsessed",
+                    "Swamp Fire"
                 ],
-                "Url": "https://www.willemeen.nl/programma/the-obsessed-usa-support/"
+                "Url": "https://www.willemeen.nl/programma/the-obsessed-usa-swamp-fire/"
             },
             {
                 "Date": "2026-11-05",
@@ -1101,6 +1103,33 @@
                 "Url": "https://www.luxorlive.nl/agenda/sledeon-2/"
             },
             {
+                "Date": "2026-12-11",
+                "Title": "Arra Scum",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "grindcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "My Minds Mine"
+                ],
+                "Url": "https://www.willemeen.nl/programma/arra-scum-w-my-minds-mine/"
+            },
+            {
+                "Date": "2026-12-27",
+                "Venue": "Willemeen",
+                "Genres": [
+                    "black metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Asagraum",
+                    "Lucifer's Cold Embrace",
+                    "Antzaker"
+                ],
+                "Url": "https://www.willemeen.nl/programma/asagraum-lucifers-cold-embrace-antzaker/"
+            },
+            {
                 "Date": "2027-01-08",
                 "Title": "Brutal Insanity New Year Fest",
                 "Venue": "Willemeen",
@@ -1110,7 +1139,7 @@
                 "Bands": [
                     "Traumatism"
                 ],
-                "Url": "https://www.willemeen.nl/programma/brutal-insanity-new-year-fest-2026/"
+                "Url": "https://www.willemeen.nl/programma/brutal-insanity-new-year-fest-2027/"
             },
             {
                 "Date": "2027-01-23",
@@ -1121,11 +1150,11 @@
                 ],
                 "Bands": [
                     "Paindemonium",
-                    "In All Fours",
+                    "On All Fours",
                     "Von Mollestein",
                     "Skumratzz"
                 ],
-                "Url": "https://www.willemeen.nl/programma/gathering-bizarro-met-paindemonium-in-all-fours-be-von-mollestein-skumratzz/"
+                "Url": "https://www.willemeen.nl/programma/gathering-bizarro-met-paindemonium-on-all-fours-be-von-mollestein-skumratzz/"
             },
             {
                 "Date": "2027-02-19",
@@ -1906,6 +1935,19 @@
                 ],
                 "Url": "https://musicon.nl/event/aenima-tool-tribute/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-04-25",
+                "Venue": "Musicon",
+                "Genres": [
+                    "thrash metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Carnivore A.D.",
+                    "Hostilia"
+                ],
+                "Url": "https://musicon.nl/event/carnivore-a-d/"
             }
         ]
     },
@@ -2364,7 +2406,7 @@
             },
             {
                 "Date": "2026-10-31",
-                "Title": "Timo Tolkki plays Stratovarius",
+                "Title": "Timo Tolkki Plays Stratovarius",
                 "Venue": "Effenaar",
                 "Genres": [
                     "power metal"
@@ -2435,23 +2477,23 @@
                     "hardcore punk"
                 ],
                 "Bands": [
-                    "Eagles of Death Metal",
+                    "Eagles Of Death Metal",
                     "Peter Pan Speedrock",
                     "Amenra",
                     "Converge",
                     "The Exploited",
-                    "L.A. Guns",
+                    "L.a. Guns",
                     "Ramkot",
                     "Sanguisugabogg",
                     "Prong",
-                    "Pro-Pain",
+                    "Pro-pain",
                     "Backfire!",
                     "Nashville Pussy",
                     "Demented Are Go",
-                    "The Lords of Altamont",
+                    "The Lords Of Altamont",
                     "Supersuckers",
                     "Los Banditos",
-                    "Money & the Man",
+                    "Money & The Man",
                     "Toxic Shock",
                     "Pupil Slicer",
                     "Astro Zombies A.D.",
@@ -2617,13 +2659,13 @@
                     "sludge metal"
                 ],
                 "Bands": [
-                    "TankZilla"
+                    "Tankzilla"
                 ],
                 "Url": "https://www.cafethejack.nl/tickets"
             },
             {
                 "Date": "2026-12-26",
-                "Title": "Legends of Rock Tribute Festival XL",
+                "Title": "Legends Of Rock Tribute Festival Xl",
                 "Venue": "Effenaar",
                 "Genres": [
                     "heavy metal"
@@ -2664,8 +2706,8 @@
                 ],
                 "Bands": [
                     "Moonspell",
-                    "IOTUNN",
-                    "TodoMal"
+                    "Iotunn",
+                    "Todomal"
                 ],
                 "Url": "https://www.effenaar.nl/agenda/moonspell/"
             },
@@ -2693,7 +2735,7 @@
                     "industrial metal"
                 ],
                 "Bands": [
-                    "KMFDM",
+                    "Kmfdm",
                     "I Ya Toyah"
                 ],
                 "Url": "https://www.effenaar.nl/agenda/kmfdm-nieuwe-datum/"
@@ -2707,7 +2749,7 @@
                 ],
                 "Bands": [
                     "Nevermore",
-                    "Rivers of Nihil",
+                    "Rivers Of Nihil",
                     "Urne"
                 ],
                 "Url": "https://www.effenaar.nl/agenda/nevermore/"
@@ -3789,6 +3831,19 @@
                     "Secret Sphere"
                 ],
                 "Url": "https://www.cacaofabriek.nl/agenda/serenity-13-02-2027"
+            },
+            {
+                "Date": "2027-04-24",
+                "Venue": "Cacaofabriek",
+                "Genres": [
+                    "thrash metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Carnivore A.D.",
+                    "Hostilia"
+                ],
+                "Url": "https://www.cacaofabriek.nl/agenda/carnivore-ad-hostitla"
             }
         ]
     },
@@ -4058,16 +4113,74 @@
                 "Url": "https://cpunt.nl/"
             },
             {
-                "Date": "2026-10-31",
+                "Date": "2026-11-27",
+                "Title": "The Progspace: 10th Anniversary Preparty",
                 "Venue": "Cpunt",
                 "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Atlantis Chronicles",
+                    "Art Against Agony",
+                    "Kristoffer Gildenlöw"
+                ],
+                "Url": "https://www.cpunt.nl/agenda/TPS-10th-Preparty"
+            },
+            {
+                "Date": "2026-11-28",
+                "Title": "The Progspace: 10th Anniversary Show",
+                "Venue": "Cpunt",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Persefone",
+                    "Ihlo",
+                    "An Abstract Illusion",
+                    "Feather Mountain",
+                    "Soulsplitter",
+                    "The Aurora Project"
+                ],
+                "Url": "https://www.cpunt.nl/agenda/TPS-10th"
+            },
+            {
+                "Date": "2027-02-05",
+                "Venue": "Cpunt",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Cryptosis",
+                    "Epistulum",
+                    "Beyond The Pale"
+                ],
+                "Url": "https://www.cpunt.nl/agenda/cryptosis-epistulum-beyond-the-pale"
+            },
+            {
+                "Date": "2027-04-16",
+                "Venue": "Cpunt",
+                "Genres": [
+                    "thrash metal",
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Magnacult",
-                    "Terradown"
+                    "The Metallicas"
                 ],
-                "Url": "https://cpunt.nl/"
+                "Url": "https://www.cpunt.nl/agenda/the-metallicas",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-04-29",
+                "Venue": "Cpunt",
+                "Genres": [
+                    "thrash metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Carnivore A.D."
+                ],
+                "Url": "https://cpunt.nl/agenda/"
             }
         ]
     },
@@ -4320,7 +4433,25 @@
         "City": "Katwijk",
         "Latitude": "52.2033",
         "Longitude": "4.3986",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-11-14",
+                "Title": "Scream Bloody Scum",
+                "Venue": "Scum",
+                "Genres": [
+                    "death metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Piece Of Maiden",
+                    "Scream Bloody Death",
+                    "Bolt Thrower Forever Loyal",
+                    "Obscure Demise"
+                ],
+                "Url": "https://scumkatwijk.nl/scream-bloody-scum/",
+                "Tribute": true
+            }
+        ]
     },
     {
         "City": "Leeuwarden",
@@ -5708,6 +5839,28 @@
         ]
     },
     {
+        "City": "Oosterhout",
+        "Latitude": "51.6450",
+        "Longitude": "4.8627",
+        "Gigs": [
+            {
+                "Date": "2026-12-12",
+                "Title": "Oosterloud",
+                "Venue": "Café Oud Brabant",
+                "Genres": [
+                    "death metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Razorblade Messiah",
+                    "Bloodcrypt",
+                    "Dark Intentions"
+                ],
+                "Url": "https://www.cafeoudbrabant.nl/"
+            }
+        ]
+    },
+    {
         "City": "Oss",
         "Latitude": "51.7649",
         "Longitude": "5.5217",
@@ -6985,6 +7138,19 @@
                     "Like Roses"
                 ],
                 "Url": "https://www.013.nl/programma/135855/sleeping-with-sirens/"
+            },
+            {
+                "Date": "2027-04-23",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "thrash metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Carnivore A.D.",
+                    "Hostilia"
+                ],
+                "Url": "https://www.littledevil.nl/2027/23-4-2027-carnivore-a-d-usa-en-hostilia-swe.html"
             }
         ]
     },
@@ -7032,20 +7198,113 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Vengeance"
+                    "Vengeance",
+                    "Seven Thirty",
+                    "Helldriver"
                 ],
-                "Url": "https://www.depul.nl/"
+                "Url": "https://www.livepul.com/agenda/vengeance/"
             },
             {
-                "Date": "2026-11-08",
+                "Date": "2026-11-21",
+                "Title": "Masters Of Metal",
+                "Venue": "De Pul",
+                "Genres": [
+                    "heavy metal",
+                    "nu metal",
+                    "power metal",
+                    "folk metal",
+                    "groove metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Psychosocial",
+                    "Ghost Division",
+                    "The Dutch Horsemen",
+                    "Snaggletooth",
+                    "Puppet Show",
+                    "Metal Factory"
+                ],
+                "Url": "https://www.livepul.com/agenda/masters-of-metal-2026/",
+                "Tribute": true
+            },
+            {
+                "Date": "2026-12-06",
+                "Venue": "De Pul",
+                "Genres": [
+                    "folk metal",
+                    "power metal"
+                ],
+                "Bands": [
+                    "Týr",
+                    "Twilight Force",
+                    "Dragonland",
+                    "Vanaheim"
+                ],
+                "Url": "https://www.livepul.com/agenda/tyr-twilight-force/"
+            },
+            {
+                "Date": "2027-01-28",
+                "Venue": "De Pul",
+                "Genres": [
+                    "grindcore",
+                    "death metal",
+                    "industrial metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Napalm Death",
+                    "Misery Index",
+                    "Author & Punisher",
+                    "Habak",
+                    "Piece"
+                ],
+                "Url": "https://www.livepul.com/agenda/napalm-death/"
+            },
+            {
+                "Date": "2027-02-20",
+                "Venue": "De Pul",
+                "Genres": [
+                    "alternative metal",
+                    "progressive metal"
+                ],
+                "Bands": [],
+                "Url": "https://www.livepul.com/agenda/the-tool-experience/",
+                "Tribute": true,
+                "Title": "The Tool Experience"
+            },
+            {
+                "Date": "2027-04-10",
                 "Venue": "De Pul",
                 "Genres": [
                     "heavy metal"
                 ],
                 "Bands": [
-                    "Helldriver"
+                    "Acindc"
                 ],
-                "Url": "https://www.depul.nl/"
+                "Url": "https://www.livepul.com/agenda/acindc-2027/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-04-24",
+                "Title": "Pulverize Metalfest",
+                "Venue": "De Pul",
+                "Genres": [
+                    "death metal",
+                    "groove metal",
+                    "black metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "A Knight Under Maria's Altar",
+                    "Canyon Literature",
+                    "Changing Tides",
+                    "I'll Get By",
+                    "Nothing Ends Quietly",
+                    "Pyrus Malus",
+                    "Reformist",
+                    "Sapphyr"
+                ],
+                "Url": "https://www.livepul.com/agenda/pulverize-metalfest-2027/"
             }
         ]
     },
