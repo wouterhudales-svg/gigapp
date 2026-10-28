@@ -1925,6 +1925,19 @@
                 "Url": "https://www.paard.nl/event/slomosa/"
             },
             {
+                "Date": "2027-03-05",
+                "Venue": "Musicon",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Spearhead",
+                    "Scream Bloody Death"
+                ],
+                "Url": "https://musicon.nl/event/spearhead-scream-bloody-death/",
+                "Tribute": true
+            },
+            {
                 "Date": "2027-04-03",
                 "Venue": "Musicon",
                 "Genres": [
