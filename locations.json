@@ -1898,6 +1898,23 @@
                 "Url": "https://musicon.nl/event/defiance-game-over/"
             },
             {
+                "Date": "2027-01-24",
+                "Title": "Loud & Heavy",
+                "Venue": "Musicon",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Miasmes",
+                    "Asgrauw",
+                    "Bokkerijders",
+                    "The Chösen",
+                    "Stilte",
+                    "Räum"
+                ],
+                "Url": "https://musicon.nl/event/loud-heavy-miasmes-asgrauw-bokkenrijers/"
+            },
+            {
                 "Date": "2027-02-17",
                 "Venue": "Paard",
                 "Genres": [
