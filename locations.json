@@ -7223,6 +7223,21 @@
                 "Url": "https://www.013.nl/programma/135855/sleeping-with-sirens/"
             },
             {
+                "Date": "2027-02-28",
+                "Venue": "013",
+                "Genres": [
+                    "death metal",
+                    "deathcore"
+                ],
+                "Bands": [
+                    "PeelingFlesh",
+                    "Snuffed On Sight",
+                    "Corpse Pile",
+                    "Girl of Glass"
+                ],
+                "Url": "https://www.013.nl/programma/160999/peelingflesh/"
+            },
+            {
                 "Date": "2027-04-11",
                 "Venue": "013",
                 "Genres": [
