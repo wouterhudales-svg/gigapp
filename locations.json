@@ -271,6 +271,18 @@
                     "Steve 'n' Seagulls"
                 ],
                 "Url": "https://www.podiumvictorie.nl/programma/steve-n-seagulls/"
+            },
+            {
+                "Date": "2027-02-27",
+                "Title": "Herrie in de Stadsfabriek",
+                "Venue": "Stadsfabriek",
+                "Genres": [
+                    "deathcore"
+                ],
+                "Bands": [
+                    "A Night In Texas"
+                ],
+                "Url": "https://wateenherrie.nl/tickets/"
             }
         ]
     },
