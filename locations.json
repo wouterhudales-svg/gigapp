@@ -7188,6 +7188,20 @@
                 "Url": "https://www.013.nl/programma/135855/sleeping-with-sirens/"
             },
             {
+                "Date": "2027-04-11",
+                "Venue": "013",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "DragonForce",
+                    "Visions Of Atlantis",
+                    "Wings Of Steel"
+                ],
+                "Url": "https://www.013.nl/programma/157445/dragonforce/"
+            },
+            {
                 "Date": "2027-04-23",
                 "Venue": "Little Devil",
                 "Genres": [
