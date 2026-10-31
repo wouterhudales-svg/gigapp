@@ -6357,6 +6357,19 @@
                 "Url": "https://baroeg.nl/productie/breakdownbaroeg/"
             },
             {
+                "Date": "2027-01-23",
+                "Venue": "Baroeg",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Throne Of Katarsis",
+                    "Shroud Of Satan",
+                    "Shores Of Ladon"
+                ],
+                "Url": "https://baroeg.nl/productie/sathanas-in-gloriam-presents-throne-of-katarsis-shroud-of-satan-shores-of-ladon/"
+            },
+            {
                 "Date": "2027-02-05",
                 "Venue": "Baroeg",
                 "Genres": [
