@@ -8329,6 +8329,18 @@
                 ],
                 "Url": "https://poppodiumboerderij.nl/programma/madeinpurple/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-04-18",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Sonata Arctica",
+                    "Rage"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/sonataarctica-rage/"
             }
         ]
     },
