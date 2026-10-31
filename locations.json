@@ -8362,6 +8362,17 @@
                 "Tribute": true
             },
             {
+                "Date": "2026-11-13",
+                "Venue": "Jacks Music Bar",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Jurassic Park"
+                ],
+                "Url": "https://www.jacksmusicbar.nl/"
+            },
+            {
                 "Date": "2026-12-03",
                 "Venue": "Hedon",
                 "Genres": [
