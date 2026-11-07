@@ -8226,6 +8226,18 @@
         "Longitude": "4.8790",
         "Gigs": [
             {
+                "Date": "2026-12-19",
+                "Title": "Dauthuz",
+                "Venue": "Podium Bredius",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Dauthuz"
+                ],
+                "Url": "https://www.podiumbredius.nl"
+            },
+            {
                 "Date": "2027-01-16",
                 "Title": "Bredius Brutality",
                 "Venue": "Podium Bredius",
