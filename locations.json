@@ -8053,7 +8053,20 @@
                 "Date": "2027-04-17",
                 "Title": "Beukfeest 50",
                 "Venue": "Gryphus",
-                "Bands": []
+                "Genres": [
+                    "black metal",
+                    "death metal",
+                    "heavy metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Lucifer's Cold Embrace",
+                    "Lord Volture",
+                    "Beast of Damnation",
+                    "No Permission",
+                    "Klont"
+                ],
+                "Url": "https://www.facebook.com/events/2370349660484953/"
             }
         ]
     },
