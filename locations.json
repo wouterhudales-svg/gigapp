@@ -5449,12 +5449,23 @@
         "Gigs": [
             {
                 "Date": "2026-11-21",
+                "Title": "Nieuwegein Heavy 8",
                 "Venue": "De Partner",
-                "Genres": [],
-                "Bands": [
-                    "Nieuwegein Heavy 8"
+                "Genres": [
+                    "deathcore",
+                    "hardcore punk",
+                    "alternative metal",
+                    "metalcore",
+                    "groove metal",
+                    "death metal"
                 ],
-                "Url": "https://departnernieuwegein.nl/programma/"
+                "Bands": [
+                    "Torn From Oblivion",
+                    "Unnerve",
+                    "Demichron",
+                    "Arteria"
+                ],
+                "Url": "https://www.facebook.com/events/1749119966320472/"
             }
         ]
     },
