@@ -1889,15 +1889,44 @@
                 "Url": "https://musicon.nl/event/girlpower-on-stage-abstracted-mind-between-rats-snakes/"
             },
             {
+                "Date": "2026-12-04",
+                "Title": "Oud Ijzer",
+                "Venue": "Musicon",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "A Knight Under Maria's Altar",
+                    "To No Avail",
+                    "Digigore"
+                ],
+                "Url": "https://musicon.nl/event/oud-ijzer-a-knight-under-marias-altar-to-no-avail-digigore/"
+            },
+            {
                 "Date": "2026-12-07",
                 "Venue": "Musicon",
                 "Genres": [
-                    "thrash metal"
+                    "thrash metal",
+                    "doom metal"
                 ],
                 "Bands": [
-                    "Ellefson"
+                    "Ellefson",
+                    "When The Deadbolt Breaks",
+                    "Grindpad"
                 ],
                 "Url": "https://musicon.nl/event/ellefson/"
+            },
+            {
+                "Date": "2026-12-11",
+                "Venue": "Musicon",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Iron Laiden"
+                ],
+                "Url": "https://musicon.nl/event/iron-laiden/",
+                "Tribute": true
             },
             {
                 "Date": "2026-12-16",
@@ -1910,6 +1939,35 @@
                     "Game Over"
                 ],
                 "Url": "https://musicon.nl/event/defiance-game-over/"
+            },
+            {
+                "Date": "2027-01-02",
+                "Venue": "Musicon",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Caedere",
+                    "Human Vivisection",
+                    "Dekathexis"
+                ],
+                "Url": "https://musicon.nl/event/caedere-human-vivisection-dekathexis/"
+            },
+            {
+                "Date": "2027-01-08",
+                "Title": "New Year Punkshow",
+                "Venue": "Musicon",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Honey Blonde",
+                    "Neuroot",
+                    "Tineke",
+                    "De Jeugd",
+                    "My Potential Suicide"
+                ],
+                "Url": "https://musicon.nl/event/new-year-punkshow-honey-blonde-neuroot-tineke-de-jeugd-my-potential-suicide/"
             },
             {
                 "Date": "2027-01-24",
@@ -1927,6 +1985,30 @@
                     "Räum"
                 ],
                 "Url": "https://musicon.nl/event/loud-heavy-miasmes-asgrauw-bokkenrijers/"
+            },
+            {
+                "Date": "2027-02-03",
+                "Title": "Girlpower On Stage",
+                "Venue": "Musicon",
+                "Genres": [
+                    "post-metal"
+                ],
+                "Bands": [
+                    "Ontaard"
+                ],
+                "Url": "https://musicon.nl/event/girlpower-on-stage-ontaard-2/"
+            },
+            {
+                "Date": "2027-02-09",
+                "Venue": "Musicon",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "New Age Doom",
+                    "Polarized"
+                ],
+                "Url": "https://musicon.nl/event/new-age-doom-polarized/"
             },
             {
                 "Date": "2027-02-17",
@@ -1954,6 +2036,18 @@
                 "Tribute": true
             },
             {
+                "Date": "2027-02-26",
+                "Venue": "Musicon",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Baphy",
+                    "Midsummer Blaze"
+                ],
+                "Url": "https://musicon.nl/event/baphy-midsummer-blaze/"
+            },
+            {
                 "Date": "2027-03-05",
                 "Venue": "Paard",
                 "Genres": [
@@ -1977,6 +2071,20 @@
                 ],
                 "Url": "https://musicon.nl/event/spearhead-scream-bloody-death/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-04-02",
+                "Venue": "Musicon",
+                "Genres": [
+                    "black metal",
+                    "grindcore"
+                ],
+                "Bands": [
+                    "Spit For The Masses",
+                    "Ruona Neida",
+                    "Dooie Mus"
+                ],
+                "Url": "https://musicon.nl/event/spit-for-the-masses-ruona-neida-dooie-mus/"
             },
             {
                 "Date": "2027-04-03",
