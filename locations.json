@@ -6431,12 +6431,15 @@
             {
                 "Date": "2027-02-07",
                 "Venue": "Baroeg",
+                "Title": "Tales From The Punx",
                 "Genres": [
-                    "death metal",
+                    "crust",
                     "hardcore punk"
                 ],
                 "Bands": [
-                    "Wolfbrigade"
+                    "Wolfbrigade",
+                    "The Night Templars",
+                    "Neuroot"
                 ],
                 "Url": "https://baroeg.nl/productie/tales-from-the-punx-wolfbrigade/"
             },
