@@ -3989,9 +3989,10 @@
                 ],
                 "Bands": [
                     "Sugar Spine",
-                    "Braces"
+                    "Braces",
+                    "Torn From Oblivion"
                 ],
-                "Url": "https://www.littledevil.nl/"
+                "Url": "https://www.013.nl/programma/145139/sugar-spine"
             },
             {
                 "Date": "2026-11-29",
@@ -4013,7 +4014,8 @@
                     "metalcore"
                 ],
                 "Bands": [
-                    "Coilguns"
+                    "Coilguns",
+                    "Haatdrager"
                 ],
                 "Url": "https://www.littledevil.nl/calendar/coilguns/"
             },
@@ -4030,6 +4032,19 @@
                     "Hellevorst"
                 ],
                 "Url": "https://hall-fame.nl/programma/morbid-111636997/"
+            },
+            {
+                "Date": "2026-12-04",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "symphonic metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Dark Oath",
+                    "Black Powder Parlay"
+                ],
+                "Url": "https://www.013.nl/programma/159067/dark-oath"
             },
             {
                 "Date": "2026-12-05",
@@ -4069,6 +4084,20 @@
                 "Url": "https://www.013.nl/programma/145171/queensr%C3%BFche/"
             },
             {
+                "Date": "2026-12-08",
+                "Venue": "013",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "thrown",
+                    "Counterparts",
+                    "No Cure",
+                    "Heavensgate"
+                ],
+                "Url": "https://www.013.nl/programma/138782/thrown-counterparts"
+            },
+            {
                 "Date": "2026-12-13",
                 "Venue": "013",
                 "Genres": [
@@ -4092,7 +4121,7 @@
                 "Bands": [
                     "Accept",
                     "Dynazty",
-                    "Tailgunner"
+                    "Enforcer"
                 ],
                 "Url": "https://www.013.nl/programma/126408/accept/"
             },
@@ -4112,6 +4141,19 @@
                 "Url": "https://www.013.nl/programma/131570/rhapsody-of-fire-serious-black/"
             },
             {
+                "Date": "2027-01-10",
+                "Venue": "013",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Imminence",
+                    "August Burns Red",
+                    "House Of Protection"
+                ],
+                "Url": "https://www.013.nl/programma/143444/imminence"
+            },
+            {
                 "Date": "2027-01-16",
                 "Venue": "Little Devil",
                 "Genres": [
@@ -4122,6 +4164,59 @@
                 ],
                 "Url": "https://www.littledevil.nl/calendar/pene-corrida-6/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-01-19",
+                "Venue": "013",
+                "Genres": [
+                    "metalcore",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Black Veil Brides",
+                    "The Funeral Portrait",
+                    "The Howling"
+                ],
+                "Url": "https://www.013.nl/programma/140392/black-veil-brides"
+            },
+            {
+                "Date": "2027-01-22",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "alternative metal",
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Enemy Inside",
+                    "halflives",
+                    "MAZ UNIVERZE"
+                ],
+                "Url": "https://www.013.nl/programma/152957/enemy-inside"
+            },
+            {
+                "Date": "2027-01-27",
+                "Venue": "013",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Hollywood Undead"
+                ],
+                "Url": "https://www.013.nl/programma/161480/hollywood-undead"
+            },
+            {
+                "Date": "2027-01-28",
+                "Venue": "013",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Frozen Soul",
+                    "Dethroned",
+                    "Darkest Hour",
+                    "Denial Of Life"
+                ],
+                "Url": "https://www.013.nl/programma/155569/frozen-soul"
             },
             {
                 "Date": "2027-02-01",
@@ -4157,7 +4252,9 @@
                     "death metal"
                 ],
                 "Bands": [
-                    "The Black Dahlia Murder"
+                    "The Black Dahlia Murder",
+                    "Fuming Mouth",
+                    "Celestial Sanctuary"
                 ],
                 "Url": "https://www.013.nl/programma/144498/the-black-dahlia-murder/",
                 "Title": "Two Decades Of Nocturnal"
@@ -4170,9 +4267,24 @@
                 ],
                 "Bands": [
                     "Delain",
-                    "Infected Rain"
+                    "Infected Rain",
+                    "Persefone"
                 ],
                 "Url": "https://www.013.nl/programma/129205/delain/"
+            },
+            {
+                "Date": "2027-02-13",
+                "Venue": "013",
+                "Genres": [
+                    "stoner metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Uncle Acid And The Deadbeats",
+                    "Earth Tongue",
+                    "Conan"
+                ],
+                "Url": "https://www.013.nl/programma/153886/uncle-acid-and-the-deadbeats"
             },
             {
                 "Date": "2027-02-14",
@@ -4232,6 +4344,73 @@
                 "Url": "https://www.013.nl/programma/160999/peelingflesh/"
             },
             {
+                "Date": "2027-03-06",
+                "Title": "True Spirit Fest",
+                "Venue": "Hall Of Fame",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "No Turning Back",
+                    "Born From Pain",
+                    "Dagger Threat",
+                    "Peace Of Mind",
+                    "Curselifter",
+                    "Inherited",
+                    "Deathwish",
+                    "Leave Me Out"
+                ],
+                "Url": "https://www.013.nl/programma/163553/true-spirt-fest"
+            },
+            {
+                "Date": "2027-03-21",
+                "Venue": "013",
+                "Genres": [
+                    "post-metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Alcest",
+                    "Agriculture"
+                ],
+                "Url": "https://www.013.nl/programma/153847/alcest"
+            },
+            {
+                "Date": "2027-03-24",
+                "Venue": "013",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Saxon"
+                ],
+                "Url": "https://www.013.nl/programma/161931/saxon"
+            },
+            {
+                "Date": "2027-03-29",
+                "Venue": "013",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "The Bronx",
+                    "Mariachi El Bronx"
+                ],
+                "Url": "https://www.013.nl/programma/162841/the-bronx-mariachi-el-bronx-super-show"
+            },
+            {
+                "Date": "2027-04-05",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Spirit Possession",
+                    "Funeral Chant"
+                ],
+                "Url": "https://www.013.nl/programma/162922/spirit-possession"
+            },
+            {
                 "Date": "2027-04-11",
                 "Venue": "013",
                 "Genres": [
@@ -4246,6 +4425,26 @@
                 "Url": "https://www.013.nl/programma/157445/dragonforce/"
             },
             {
+                "Date": "2027-04-15",
+                "Title": "Roadburn 2027",
+                "Venue": "013",
+                "Genres": [
+                    "post-metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Emma Ruth Rundle",
+                    "IAN",
+                    "Iron Lung",
+                    "Parts & Labor",
+                    "RHODODENDRON",
+                    "Sadness",
+                    "Steröid",
+                    "Violencia"
+                ],
+                "Url": "https://www.013.nl/programma/136076/roadburn-2027"
+            },
+            {
                 "Date": "2027-04-23",
                 "Venue": "Little Devil",
                 "Genres": [
@@ -4257,6 +4456,79 @@
                     "Hostilia"
                 ],
                 "Url": "https://www.littledevil.nl/2027/23-4-2027-carnivore-a-d-usa-en-hostilia-swe.html"
+            },
+            {
+                "Date": "2027-05-07",
+                "Venue": "013",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Witch Club Satan",
+                    "Krøyer",
+                    "Otay:onii"
+                ],
+                "Url": "https://www.013.nl/programma/163472/witch-club-satan"
+            },
+            {
+                "Date": "2027-05-14",
+                "Venue": "013",
+                "Genres": [
+                    "power metal"
+                ],
+                "Bands": [
+                    "Stratovarius",
+                    "Fabio Lione's Dawn Of Victory"
+                ],
+                "Url": "https://www.013.nl/programma/163906/stratovarius-fabio-liones-dawn-of-victory"
+            },
+            {
+                "Date": "2027-05-23",
+                "Venue": "013",
+                "Genres": [
+                    "progressive metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Crimson Glory"
+                ],
+                "Url": "https://www.013.nl/programma/159174/crimson-glory"
+            },
+            {
+                "Date": "2027-06-16",
+                "Venue": "013",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Pierce The Veil"
+                ],
+                "Url": "https://www.013.nl/programma/163712/pierce-the-veil"
+            },
+            {
+                "Date": "2027-11-20",
+                "Venue": "Hall Of Fame",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Avralize"
+                ],
+                "Url": "https://www.013.nl/programma/162685/avralize"
+            },
+            {
+                "Date": "2027-11-22",
+                "Venue": "013",
+                "Genres": [
+                    "gothic metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Paradise Lost",
+                    "Voivod",
+                    "DOOL"
+                ],
+                "Url": "https://www.013.nl/programma/163695/paradise-lost"
             }
         ]
     },
@@ -4372,6 +4644,37 @@
         "Longitude": "5.1214",
         "Gigs": [
             {
+                "Date": "2026-11-28",
+                "Title": "Zalzala Fest",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "hardcore punk",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Taqbir",
+                    "Defacement",
+                    "Snake Eater",
+                    "Resist",
+                    "Flyssa",
+                    "Bottled Violence"
+                ],
+                "Url": "https://dbstudio.nl/event/zalzala-fest-feat-taqbir/"
+            },
+            {
+                "Date": "2026-11-29",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Self Deception",
+                    "Ankor",
+                    "Lauren Babic"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/36731464/self-deception-ankor-29-11-2026/"
+            },
+            {
                 "Date": "2026-12-03",
                 "Venue": "dB's Studio",
                 "Genres": [
@@ -4437,6 +4740,48 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/41191505/dominum-13-12-2026/"
             },
             {
+                "Date": "2026-12-13",
+                "Title": "Surf Punk Massacre IV",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Mullet Monster Mafia",
+                    "Disturbance",
+                    "Röt Stewart",
+                    "Mouser"
+                ],
+                "Url": "https://dbstudio.nl/event/surf-punk-massacre-iv-w-monster-mullet-mafia-bra-disturbance-rot-stewart-be-mouser/"
+            },
+            {
+                "Date": "2026-12-18",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "March",
+                    "Mikki Wood",
+                    "Third Ego"
+                ],
+                "Url": "https://dbstudio.nl/event/march-mikki-wood-third-ego/"
+            },
+            {
+                "Date": "2027-01-08",
+                "Title": "Black Mass 2027",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Doodswens",
+                    "Asgrauw",
+                    "Domspringer"
+                ],
+                "Url": "https://dbstudio.nl/event/doodswens/"
+            },
+            {
                 "Date": "2027-01-21",
                 "Title": "Obscura's Shred Fest",
                 "Venue": "Tivoli Vredenburg",
@@ -4454,6 +4799,21 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/25243543/obscuras-shred-fest-21-01-2027/"
             },
             {
+                "Date": "2027-01-22",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "deathcore",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Torn From Oblivion",
+                    "Nothing Ends Quietly",
+                    "Aquelarre",
+                    "32 Elephants"
+                ],
+                "Url": "https://dbstudio.nl/event/torn-from-oblivion-nothing-ends-quietly-aquelarre-32-elephants/"
+            },
+            {
                 "Date": "2027-01-30",
                 "Title": "Midwinter Prog Festival",
                 "Venue": "Tivoli Vredenburg",
@@ -4462,6 +4822,21 @@
                 ],
                 "Bands": [],
                 "Url": "https://www.tivolivredenburg.nl/agenda/24238612/midwinter-prog-festival-30-01-2027/"
+            },
+            {
+                "Date": "2027-02-04",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "deathcore",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Signs Of The Swarm",
+                    "Ten56.",
+                    "Oceans Ate Alaska",
+                    "Face Yourself"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/69723072/signs-of-the-swarm-04-02-2027/"
             },
             {
                 "Date": "2027-02-05",
@@ -4479,6 +4854,20 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/86655989/bury-tomorrow-05-02-2027/"
             },
             {
+                "Date": "2027-02-07",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "metalcore",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "Catch Your Breath",
+                    "Ocean Sleeper",
+                    "Elijah"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/22696486/catch-your-breath-07-02-2027/"
+            },
+            {
                 "Date": "2027-02-14",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
@@ -4492,6 +4881,32 @@
                     "Tribal Gaze"
                 ],
                 "Url": "https://www.tivolivredenburg.nl/agenda/81839856/whitechapel-14-02-2027/"
+            },
+            {
+                "Date": "2027-02-19",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Thundermother",
+                    "Bonafide"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/33708380/thundermother-19-02-2027/"
+            },
+            {
+                "Date": "2027-02-20",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "progressive metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Enslaved",
+                    "Sólstafir",
+                    "Gaahls Wyrd"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/76210792/enslaved-solstafir-gaahls-wyrd-20-02-2027/"
             },
             {
                 "Date": "2027-02-26",
@@ -4574,6 +4989,17 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/67276124/evil-invaders-heathen-exhorder-07-03-2027/"
             },
             {
+                "Date": "2027-03-12",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Heideroosjes"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/15248868/heideroosjes-12-03-2027/"
+            },
+            {
                 "Date": "2027-04-02",
                 "Venue": "Tivoli Vredenburg",
                 "Genres": [
@@ -4586,6 +5012,30 @@
                 "Url": "https://www.tivolivredenburg.nl/agenda/64545683/ministry-02-04-2027/"
             },
             {
+                "Date": "2027-04-02",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Zeke",
+                    "Savage Beat"
+                ],
+                "Url": "https://dbstudio.nl/event/zeke-usa/"
+            },
+            {
+                "Date": "2027-04-12",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Underoath",
+                    "Saosin"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/44850240/underoath-12-04-2027/"
+            },
+            {
                 "Date": "2027-05-02",
                 "Venue": "Tivoli De Helling",
                 "Genres": [
@@ -4595,6 +5045,54 @@
                     "Breakdown Of Sanity"
                 ],
                 "Url": "https://dehelling.nl/agenda/breakdown-of-sanity-02-05-2027/"
+            },
+            {
+                "Date": "2027-05-07",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "NEUK!"
+                ],
+                "Url": "https://dbstudio.nl/event/neuk-2/"
+            },
+            {
+                "Date": "2027-05-13",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "stoner metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Bokassa"
+                ],
+                "Url": "https://dbstudio.nl/event/bokassa-no/"
+            },
+            {
+                "Date": "2027-05-23",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Memphis May Fire",
+                    "Dead By April",
+                    "Seven Blood"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/65302189/memphis-may-fire-dead-by-april-23-05-2027/"
+            },
+            {
+                "Date": "2027-10-01",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "alternative metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Karnivool"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/31713993/karnivool-01-10-2027/"
             }
         ]
     },
@@ -4992,9 +5490,23 @@
                 ],
                 "Bands": [
                     "Sugar Spine",
-                    "Braces"
+                    "Braces",
+                    "Between Cities"
                 ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/33015/sugar-spine/"
+            },
+            {
+                "Date": "2026-12-04",
+                "Title": "Hedon Beurs 2026 Eindshow",
+                "Venue": "Hedon",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "2Destroy",
+                    "Drôvich"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/33087/2destroy/"
             },
             {
                 "Date": "2027-01-09",
@@ -5014,6 +5526,53 @@
                     "Abhorrent Rift"
                 ],
                 "Url": "https://www.hedon-zwolle.nl/voorstelling/32984/hedon-zwaar-nieuwjaar/"
+            },
+            {
+                "Date": "2027-02-20",
+                "Venue": "Hedon",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Heideroosjes",
+                    "I Against I"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32992/heideroosjes/"
+            },
+            {
+                "Date": "2027-03-13",
+                "Title": "Final Chapter Albumrelease",
+                "Venue": "Hedon",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Final Chapter",
+                    "Hamerhaai",
+                    "Lovebite"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/33104/final-chapter-albumrelease/"
+            },
+            {
+                "Date": "2027-04-10",
+                "Title": "Skroetfest 2027",
+                "Venue": "Hedon",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "The Toy Dolls",
+                    "Skroetbalg",
+                    "Kaboutertje Putlucht",
+                    "Speedözer",
+                    "Accelerators",
+                    "The Etters",
+                    "Röt Stewart",
+                    "Eskalatie",
+                    "Bent Out Of Shape",
+                    "Klauwhamer"
+                ],
+                "Url": "https://www.hedon-zwolle.nl/voorstelling/32915/skroetfest-2027/"
             }
         ]
     }
