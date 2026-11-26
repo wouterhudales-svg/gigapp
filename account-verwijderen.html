@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Account verwijderen — MoshAlert</title>
+  <style>
+    :root { color-scheme: light; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: #f6f3f3;
+      color: #1a1a1a;
+    }
+    header {
+      background: #8B0000;
+      color: #fff;
+      padding: 28px 20px;
+    }
+    header h1 { margin: 0; font-size: 1.8rem; }
+    main { max-width: 40rem; margin: 0 auto; padding: 24px 20px 48px; }
+    h2 { color: #8B0000; font-size: 1.25rem; margin-top: 2rem; }
+    a { color: #8B0000; }
+    form {
+      display: grid;
+      gap: 12px;
+      margin-top: 12px;
+    }
+    label { font-weight: bold; }
+    input, textarea {
+      width: 100%;
+      box-sizing: border-box;
+      font: inherit;
+      padding: 10px;
+      border: 1px solid #8B0000;
+      border-radius: 8px;
+      background: #fff;
+    }
+    button {
+      font: inherit;
+      background: #8B0000;
+      color: #fff;
+      border: 0;
+      border-radius: 8px;
+      padding: 12px 16px;
+      cursor: pointer;
+    }
+    .note { color: #333; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MoshAlert — account verwijderen</h1>
+  </header>
+  <main>
+    <p>Je kunt het anonieme MoshAlert-account zelf verwijderen in de app. Lukt dat niet, dan kun je hier een verzoek sturen.</p>
+
+    <h2>In de app</h2>
+    <p>Open <strong>Instellingen</strong> en tik op <strong>Account verwijderen</strong>. Bevestig in het venster. Daarmee worden meteen verwijderd:</p>
+    <ul>
+      <li>je gebruikersnaam</li>
+      <li>je «Ik ga»-lijst</li>
+      <li>de mensen die je volgt, en mensen die jou volgen</li>
+      <li>je supportersbadge</li>
+    </ul>
+    <p>Een abonnement via Google Play stopt hier niet door. Zeg dat zelf op via <a href="https://play.google.com/store/account/subscriptions">Abonnementen in Google Play</a>.</p>
+
+    <h2>Lukt de app niet?</h2>
+    <p>Stuur een verzoek met hetzelfde contactformulier als in de app. Vermeld de gebruikersnaam die in MoshAlert stond. Het verzoek komt bij de maker van MoshAlert binnen. We verwijderen het account dan <strong>binnen 30 dagen</strong>.</p>
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="94246f70-4307-4602-9a25-db256ec4a6fd">
+      <input type="hidden" name="subject" value="Account verwijderen">
+      <input type="hidden" name="from_name" value="MoshAlert">
+      <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" style="display:none">
+      <label for="nickname">Gebruikersnaam in MoshAlert</label>
+      <input id="nickname" name="nickname" required maxlength="24" autocomplete="nickname">
+      <label for="email">E-mailadres voor een reactie</label>
+      <input id="email" name="email" type="email" required autocomplete="email">
+      <label for="message">Toelichting (optioneel)</label>
+      <textarea id="message" name="message" rows="5"></textarea>
+      <button type="submit">Verzoek versturen</button>
+    </form>
+    <p class="note">Na het versturen toont de formulierdienst een bevestiging. Er zit geen volgcode of extra script op deze pagina.</p>
+  </main>
+</body>
+</html>
+
+
