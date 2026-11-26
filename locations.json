@@ -57,6 +57,33 @@
                 ],
                 "Url": "https://www.willem-twee.nl/alle-activiteiten/temple-of-rock-111673445",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-02-21",
+                "Title": "Modder",
+                "Venue": "Willem Twee",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Modder",
+                    "Youff"
+                ],
+                "Url": "https://www.willem-twee.nl/alle-activiteiten/modder"
+            },
+            {
+                "Date": "2027-05-14",
+                "Title": "Gavran",
+                "Venue": "Willem Twee",
+                "Genres": [
+                    "sludge metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Gavran",
+                    "Thistle Sifter"
+                ],
+                "Url": "https://www.willem-twee.nl/alle-activiteiten/gavran-Thistle-Sifter"
             }
         ]
     },
@@ -99,6 +126,19 @@
                 ],
                 "Url": "https://www.setz.tv/evenementen/sunday-metal-school-present-iron-laiden/",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-05-02",
+                "Title": "Allerlaatste Sunday Metal School",
+                "Venue": "SETZ Huiskamer & Slijterij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Sinners",
+                    "Awake e.a."
+                ],
+                "Url": "https://www.setz.tv/agenda/"
             }
         ]
     },
@@ -157,6 +197,18 @@
                     "Steve 'n' Seagulls"
                 ],
                 "Url": "https://www.podiumvictorie.nl/programma/steve-n-seagulls/"
+            },
+            {
+                "Date": "2027-02-18",
+                "Title": "Fleddy Melculy",
+                "Venue": "Victorie",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Fleddy Melculy"
+                ],
+                "Url": "https://www.podiumvictorie.nl/programma/fleddy-melculy/"
             },
             {
                 "Date": "2027-02-27",
@@ -314,6 +366,21 @@
         "Longitude": "4.856463",
         "Gigs": [
             {
+                "Date": "2026-11-26",
+                "Title": "P60's Radar",
+                "Venue": "P60",
+                "Genres": [
+                    "death metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Louterlea",
+                    "Slootwater",
+                    "Vile Passage"
+                ],
+                "Url": "https://p60.nl/2026/p60s-radar-7/"
+            },
+            {
                 "Date": "2026-11-29",
                 "Venue": "P60",
                 "Genres": [
@@ -351,6 +418,20 @@
                     "Slash N' Roses"
                 ],
                 "Url": "https://p60.nl/2026/slash-n-roses/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-01-31",
+                "Title": "Beatallica",
+                "Venue": "P60",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Beatallica"
+                ],
+                "Url": "https://p60.nl/2027/beatallica/",
                 "Tribute": true
             }
         ]
@@ -405,6 +486,21 @@
                 "Url": "https://www.thecaveamsterdam.nl/events/20261126"
             },
             {
+                "Date": "2026-11-26",
+                "Title": "Gazing into the Abyss",
+                "Venue": "OT301",
+                "Genres": [
+                    "doom metal",
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Farer",
+                    "Crashing",
+                    "Hidden Since The Foundation Of The World"
+                ],
+                "Url": "https://amsterdamalternative.nl/tickets/23222"
+            },
+            {
                 "Date": "2026-11-28",
                 "Venue": "The Cave",
                 "Genres": [
@@ -430,6 +526,21 @@
                 "Url": "https://gashouder.nl/programma/avatar/"
             },
             {
+                "Date": "2026-12-04",
+                "Title": "Black Sabbath tribute",
+                "Venue": "The Cave",
+                "Genres": [
+                    "heavy metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Sack Blabbath",
+                    "Nomansland"
+                ],
+                "Url": "https://www.thecaveamsterdam.nl/events/20261113",
+                "Tribute": true
+            },
+            {
                 "Date": "2026-12-08",
                 "Venue": "Afas Live",
                 "Genres": [
@@ -452,6 +563,22 @@
                     "Scott Hepple & The Sun Band"
                 ],
                 "Url": "https://www.melkweg.nl/nl/agenda/kadavar-09-12-2026/"
+            },
+            {
+                "Date": "2026-12-11",
+                "Title": "HC Punk AMS",
+                "Venue": "OCCII",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Spiritual Law",
+                    "Snutlickers",
+                    "Angstmäler",
+                    "Gif",
+                    "Swerve"
+                ],
+                "Url": "https://occii.org/events/hc-punk-ams/"
             },
             {
                 "Date": "2026-12-12",
@@ -513,6 +640,22 @@
                     "The Gathering"
                 ],
                 "Url": "https://www.afaslive.nl/agenda/thegathering/"
+            },
+            {
+                "Date": "2027-01-16",
+                "Title": "Wrong Man + Fear of Sin + Exhale + Leap of Faith + Flyssa",
+                "Venue": "OCCII",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Wrong Man",
+                    "Fear of Sin",
+                    "Exhale",
+                    "Leap of Faith",
+                    "Flyssa"
+                ],
+                "Url": "https://occii.org/events/wak-4-yr/"
             },
             {
                 "Date": "2027-01-24",
@@ -697,6 +840,32 @@
                     "Carnosus"
                 ],
                 "Url": "https://www.melkweg.nl/nl/agenda/revocation-01-05-2027/"
+            },
+            {
+                "Date": "2027-10-17",
+                "Title": "Till Lindemann",
+                "Venue": "Afas Live",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Till Lindemann"
+                ],
+                "Url": "https://www.afaslive.nl/agenda/till-lindemann"
+            },
+            {
+                "Date": "2027-11-25",
+                "Title": "Bruce Dickinson en Evergrey",
+                "Venue": "Afas Live",
+                "Genres": [
+                    "heavy metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Bruce Dickinson",
+                    "Evergrey"
+                ],
+                "Url": "https://www.afaslive.nl/agenda/bruce-dickinson"
             }
         ]
     },
@@ -746,6 +915,19 @@
                     "Brainstorm Festival"
                 ],
                 "Url": "https://www.gigant.nl/concert/brainstorm-festival-2027-vrijdag/"
+            },
+            {
+                "Date": "2027-11-06",
+                "Title": "Brainstorm Festival 2027 (zaterdag)",
+                "Venue": "Gigant",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Rhapsody Of Fire e.a."
+                ],
+                "Url": "https://www.gigant.nl/concert/brainstorm-festival-2027-zaterdag/"
             }
         ]
     },
@@ -1011,6 +1193,41 @@
         "Gigs": []
     },
     {
+        "City": "Bergen op Zoom",
+        "Latitude": "51.4949",
+        "Longitude": "4.2911",
+        "Gigs": [
+            {
+                "Date": "2027-03-12",
+                "Title": "Temple of Rock",
+                "Venue": "Gebouw T",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Limp Business",
+                    "Rearviewmirror",
+                    "In Utero"
+                ],
+                "Url": "https://gebouw-t.nl/agenda/temple-of-rock/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-04-03",
+                "Title": "Modder + Lintworm",
+                "Venue": "Gebouw T",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Modder",
+                    "Lintworm"
+                ],
+                "Url": "https://gebouw-t.nl/agenda/modder-lintworm/"
+            }
+        ]
+    },
+    {
         "City": "Bodegraven",
         "Latitude": "52.0825",
         "Longitude": "4.7500",
@@ -1028,6 +1245,31 @@
                     "Left Behind"
                 ],
                 "Url": "https://www.dezonbodegraven.nl/agenda/tribute-night-beast-of-maiden-12-dec-2026/?occurrence=2026-12-12",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-02-06",
+                "Title": "Zonsverduistering 2nd edition",
+                "Venue": "De Zon",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "t.b.a."
+                ],
+                "Url": "https://www.dezonbodegraven.nl/agenda/zonsverduistering-2nd-edition-6-feb-2027/?occurrence=2027-02-06"
+            },
+            {
+                "Date": "2027-05-08",
+                "Title": "Limp Bizkit tribute",
+                "Venue": "De Zon",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Take The Bizkit"
+                ],
+                "Url": "https://www.dezonbodegraven.nl/agenda/take-the-bizkit-support-8-mei-2027/?occurrence=2027-05-08",
                 "Tribute": true
             }
         ]
@@ -1150,6 +1392,19 @@
                 "Url": "https://www.mezz.nl/programma/patriarkh/"
             },
             {
+                "Date": "2027-01-23",
+                "Title": "Ronker + CESAR SUN",
+                "Venue": "Phoenix",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Ronker",
+                    "Cesar Sun"
+                ],
+                "Url": "https://poppodiumphoenix.nl/event/ronker-cesar-sun/"
+            },
+            {
                 "Date": "2027-01-30",
                 "Venue": "Mezz",
                 "Genres": [
@@ -1176,6 +1431,23 @@
                 "Url": "https://poppodiumphoenix.nl/event/counter-creation-muster-wervelziek-nu-groove-metal/"
             },
             {
+                "Date": "2027-02-13",
+                "Title": "Temple of Rock",
+                "Venue": "Mezz",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Meatallica",
+                    "Powerslave",
+                    "Bloody Sabbath",
+                    "Snaggletooth"
+                ],
+                "Url": "https://www.mezz.nl/programma/temple-of-rock-2/",
+                "Tribute": true
+            },
+            {
                 "Date": "2027-03-12",
                 "Venue": "Sound Dog",
                 "Genres": [
@@ -1187,6 +1459,19 @@
                     "Devil's Henchmen"
                 ],
                 "Url": "https://sounddogbreda.nl/#mmm-dead-serious--death-valley-knights--devils-henchmen/"
+            },
+            {
+                "Date": "2027-03-20",
+                "Title": "Last Man Standing Festival 2027",
+                "Venue": "Phoenix",
+                "Genres": [
+                    "hardcore punk",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "t.b.a."
+                ],
+                "Url": "https://poppodiumphoenix.nl/event/last-man-standing-festival-2027/"
             },
             {
                 "Date": "2027-05-01",
@@ -1287,6 +1572,21 @@
         "Longitude": "6.0356",
         "Gigs": [
             {
+                "Date": "2027-01-30",
+                "Title": "Mechanical Animal",
+                "Venue": "Badhûs",
+                "Genres": [
+                    "nu metal",
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "NIN UK",
+                    "Deaftones"
+                ],
+                "Url": "https://badhus.nl/events/",
+                "Tribute": true
+            },
+            {
                 "Date": "2027-02-19",
                 "Venue": "Badhûs",
                 "Genres": [
@@ -1334,7 +1634,20 @@
         "City": "Delft",
         "Latitude": "51.996",
         "Longitude": "4.379",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-12-12",
+                "Title": "Metalcafé",
+                "Venue": "Koornbeurs",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "bands t.b.a."
+                ],
+                "Url": "https://koornbeurs.nl/agenda/"
+            }
+        ]
     },
     {
         "City": "Den Haag",
@@ -1628,6 +1941,38 @@
                     "The Scratch"
                 ],
                 "Url": "https://www.burgerweeshuis.nl/events/the-scratch"
+            },
+            {
+                "Date": "2026-12-12",
+                "Title": "Oorsuis!",
+                "Venue": "Walhalla",
+                "Genres": [
+                    "hardcore punk",
+                    "grindcore"
+                ],
+                "Bands": [
+                    "Fac Demons",
+                    "F.T.O.M.",
+                    "Cyst"
+                ],
+                "Url": "https://www.walhalla-deventer.nl/activiteit/oorsuis-14/"
+            },
+            {
+                "Date": "2027-03-23",
+                "Title": "UUHAI, Manticora, Blossum Cult en Only Human",
+                "Venue": "Burger Weeshuis",
+                "Genres": [
+                    "folk metal",
+                    "thrash metal",
+                    "power metal"
+                ],
+                "Bands": [
+                    "UUHAI",
+                    "Manticora",
+                    "Blossum Cult",
+                    "Only Human"
+                ],
+                "Url": "https://www.burgerweeshuis.nl/events/uuhai"
             }
         ]
     },
@@ -1692,6 +2037,19 @@
                 "Url": "https://www.popcentrale.nl/event/ann-my-dice-artificial/"
             },
             {
+                "Date": "2027-01-15",
+                "Title": "AC/DC tribute",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://bibelot.net/programma/acindc-2/",
+                "Tribute": true
+            },
+            {
                 "Date": "2027-01-16",
                 "Venue": "Popcentrale",
                 "Genres": [
@@ -1706,6 +2064,46 @@
                 "Url": "https://www.popcentrale.nl/event/menacer-heretix-cold-mind/"
             },
             {
+                "Date": "2027-02-14",
+                "Title": "Lost Society + HOKKA",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "thrash metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Lost Society",
+                    "Hokka"
+                ],
+                "Url": "https://bibelot.net/programma/lost-society-fi-hokka-fi/"
+            },
+            {
+                "Date": "2027-02-28",
+                "Title": "A Night In Texas (AU) + Angles Morts",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "deathcore"
+                ],
+                "Bands": [
+                    "A Night In Texas",
+                    "Angles Morts"
+                ],
+                "Url": "https://bibelot.net/programma/kanine-fr-a-night-in-texas-au-angles-morts/"
+            },
+            {
+                "Date": "2027-03-06",
+                "Title": "Ozzy Osbourne tribute",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ozzyfied"
+                ],
+                "Url": "https://bibelot.net/programma/ozzyfied/",
+                "Tribute": true
+            },
+            {
                 "Date": "2027-03-12",
                 "Venue": "Popcentrale",
                 "Genres": [
@@ -1718,6 +2116,22 @@
                     "Tarnished"
                 ],
                 "Url": "https://www.popcentrale.nl/event/trickstate-dead-air-collective-tarnished/"
+            },
+            {
+                "Date": "2027-04-08",
+                "Title": "Forever Nu",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Chop Suey",
+                    "Slip-Not",
+                    "Blimp Bizkit",
+                    "LP Tribute UK"
+                ],
+                "Url": "https://bibelot.net/programma/forever-nu-chop-suey-slipnot-blimp-bizkit-lp-tribute-uk/",
+                "Tribute": true
             }
         ]
     },
@@ -1859,6 +2273,20 @@
                     "Up The Irons"
                 ],
                 "Url": "https://astrant-ede.nl/evenementen/tribute-night-up-the-irons-celebrating-40-years-somewhere-in-time/"
+            },
+            {
+                "Date": "2027-02-27",
+                "Title": "Tribute Night: Ghost",
+                "Venue": "Astrant",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ritual",
+                    "Dreamquest"
+                ],
+                "Url": "https://astrant-ede.nl/evenementen/tribute-night-ghost-ritual-support/",
+                "Tribute": true
             }
         ]
     },
@@ -2085,6 +2513,33 @@
                 "Url": "https://www.cafethejack.nl/tickets"
             },
             {
+                "Date": "2027-02-23",
+                "Title": "Thy Art Is Murder",
+                "Venue": "Dynamo",
+                "Genres": [
+                    "deathcore"
+                ],
+                "Bands": [
+                    "Thy Art Is Murder"
+                ],
+                "Url": "https://www.dynamo-eindhoven.nl/evenement/thy-art-is-murder-2027/"
+            },
+            {
+                "Date": "2027-02-26",
+                "Title": "Ocean Grove",
+                "Venue": "Dynamo",
+                "Genres": [
+                    "nu metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Ocean Grove",
+                    "Unity TX",
+                    "Diamond Construct"
+                ],
+                "Url": "https://www.dynamo-eindhoven.nl/evenement/ocean-grove-2026/"
+            },
+            {
                 "Date": "2027-03-07",
                 "Venue": "Effenaar",
                 "Genres": [
@@ -2143,6 +2598,48 @@
                 "Url": "https://www.effenaar.nl/agenda/eternal-eclipse-20mrt"
             },
             {
+                "Date": "2027-03-21",
+                "Title": "Souls Of Diotima",
+                "Venue": "PopEi",
+                "Genres": [
+                    "progressive metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Souls Of Diotima",
+                    "Solitude Within"
+                ],
+                "Url": "https://www.popei.nl/nld/agenda/souls-of-diotima/1129"
+            },
+            {
+                "Date": "2027-04-23",
+                "Title": "Revolution Rising (dag 1)",
+                "Venue": "Klokgebouw",
+                "Genres": [
+                    "hardcore punk",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Have Heart",
+                    "Superheaven",
+                    "Incendiary e.a."
+                ],
+                "Url": "https://www.klokgebouw.nl/agenda/revolution-rising"
+            },
+            {
+                "Date": "2027-04-24",
+                "Title": "Revolution Rising (dag 2)",
+                "Venue": "Klokgebouw",
+                "Genres": [
+                    "hardcore punk",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "line-up zie site"
+                ],
+                "Url": "https://www.klokgebouw.nl/agenda/revolution-rising"
+            },
+            {
                 "Date": "2027-04-25",
                 "Venue": "Effenaar",
                 "Genres": [
@@ -2194,6 +2691,18 @@
                 ],
                 "Url": "https://www.cafethejack.nl/tickets",
                 "Tribute": true
+            },
+            {
+                "Date": "2027-10-15",
+                "Title": "Any Given Day",
+                "Venue": "Dynamo",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Any Given Day"
+                ],
+                "Url": "https://www.dynamo-eindhoven.nl/evenement/any-given-day/"
             },
             {
                 "Date": "2028-02-02",
@@ -2298,6 +2807,21 @@
                 "Url": "https://www.metropool.nl/agenda/david-ellefson-bass-warrior"
             },
             {
+                "Date": "2026-12-11",
+                "Title": "Nile & Guests: Redsphere + Intrepid + Orecus",
+                "Venue": "Metropool",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Nile",
+                    "Redsphere",
+                    "Intrepid",
+                    "Orecus"
+                ],
+                "Url": "https://metropool.nl/agenda/nile-guests-redsphere-intrepid-orecus"
+            },
+            {
                 "Date": "2027-01-16",
                 "Venue": "Metropool",
                 "Genres": [
@@ -2307,6 +2831,34 @@
                     "Fleddy Melculy"
                 ],
                 "Url": "https://www.metropool.nl/agenda/fleddy-melculy"
+            },
+            {
+                "Date": "2027-02-13",
+                "Title": "Deadly Alliance + Sayas + 2Destroy",
+                "Venue": "Metropool",
+                "Genres": [
+                    "thrash metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Deadly Alliance",
+                    "Sayas",
+                    "2Destroy"
+                ],
+                "Url": "https://metropool.nl/agenda/deadly-alliance"
+            },
+            {
+                "Date": "2027-03-13",
+                "Title": "Ozzyfied – In Memory of Ozzy Osbourne",
+                "Venue": "Metropool",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ozzyfied"
+                ],
+                "Url": "https://metropool.nl/agenda/ozzyfied-in-memory-of-ozzy-osbourne",
+                "Tribute": true
             }
         ]
     },
@@ -2466,6 +3018,20 @@
                 "Tribute": true
             },
             {
+                "Date": "2027-01-16",
+                "Title": "EP Release Tour",
+                "Venue": "Studio Gonz",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "The Infamous Nameless",
+                    "After Taste",
+                    "Bigmoth"
+                ],
+                "Url": "https://www.studiogonz.nl/agenda/2761/The+Infamous+Nameless"
+            },
+            {
                 "Date": "2027-02-06",
                 "Venue": "Studio Gonz",
                 "Genres": [
@@ -2609,6 +3175,20 @@
                 "Url": "https://www.vera-groningen.nl/events/greenleaf-2026/"
             },
             {
+                "Date": "2027-01-09",
+                "Title": "Hackberry + Perfect Storm + A Liquid Landscape",
+                "Venue": "Vera",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Hackberry",
+                    "Perfect Storm",
+                    "A Liquid Landscape"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/hackberry-perfect-storm-a-liquid-landscape/?lang=nl"
+            },
+            {
                 "Date": "2027-01-24",
                 "Venue": "Vera",
                 "Genres": [
@@ -2697,6 +3277,18 @@
                 "Url": "https://www.spotgroningen.nl/programma/kamelot/"
             },
             {
+                "Date": "2027-04-01",
+                "Title": "Zeke",
+                "Venue": "Vera",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Zeke"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/zeke-2027/"
+            },
+            {
                 "Date": "2027-04-02",
                 "Venue": "De Oosterpoort",
                 "Genres": [
@@ -2744,6 +3336,19 @@
                 "Url": "https://www.facebook.com/events/skatepark-haarlem-minckelersweg-30/play-it-loud-fest-presents-concrete-chaos-skatepark-haarlem/1322602256636740/"
             },
             {
+                "Date": "2026-11-29",
+                "Title": "Sugar Spine",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Sugar Spine",
+                    "Braces"
+                ],
+                "Url": "https://patronaat.nl/event/sugar-spine-29-11-26/"
+            },
+            {
                 "Date": "2026-12-02",
                 "Venue": "Patronaat",
                 "Genres": [
@@ -2758,6 +3363,19 @@
                 "Url": "https://patronaat.nl/event/terror-02-12-26/"
             },
             {
+                "Date": "2027-01-22",
+                "Title": "State Power + Ker Ker",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power",
+                    "Ker Ker"
+                ],
+                "Url": "https://patronaat.nl/programma/"
+            },
+            {
                 "Date": "2027-01-29",
                 "Venue": "Patronaat",
                 "Genres": [
@@ -2770,6 +3388,42 @@
                     "Angus McSix"
                 ],
                 "Url": "https://patronaat.nl/event/orden-ogan-29-01-27/"
+            },
+            {
+                "Date": "2027-02-06",
+                "Title": "Show Me The Body",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Show Me The Body"
+                ],
+                "Url": "https://patronaat.nl/event/show-me-the-body-06-02-27/"
+            },
+            {
+                "Date": "2027-02-14",
+                "Title": "Frisson Live",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Tarja"
+                ],
+                "Url": "https://patronaat.nl/event/tarja-frisson-live-14-02-27/"
+            },
+            {
+                "Date": "2027-02-18",
+                "Title": "Turmion Kätilöt",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Turmion Kätilöt"
+                ],
+                "Url": "https://patronaat.nl/event/turmion-katilot-18-02-27/"
             },
             {
                 "Date": "2027-02-20",
@@ -2798,6 +3452,31 @@
                 "Tribute": true
             },
             {
+                "Date": "2027-03-04",
+                "Title": "REZN + Coltaine",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "REZN",
+                    "Coltaine"
+                ],
+                "Url": "https://patronaat.nl/event/rezn-04-03-27/"
+            },
+            {
+                "Date": "2027-03-14",
+                "Title": "KMFDM",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "KMFDM"
+                ],
+                "Url": "https://patronaat.nl/event/kmfdm-14-03-27/"
+            },
+            {
                 "Date": "2027-03-19",
                 "Venue": "Patronaat",
                 "Genres": [
@@ -2809,6 +3488,33 @@
                     "Grindpad"
                 ],
                 "Url": "https://patronaat.nl/event/luicidal-19-03-27/"
+            },
+            {
+                "Date": "2027-03-31",
+                "Title": "Nordjevel + Svarttjern + Malphas + Unviar",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Nordjevel",
+                    "Svarttjern",
+                    "Malphas",
+                    "Unviar"
+                ],
+                "Url": "https://patronaat.nl/event/nordjevel-svarttjern-malphas-unviar-31-03-27/"
+            },
+            {
+                "Date": "2027-04-10",
+                "Title": "Hagane",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "speed metal"
+                ],
+                "Bands": [
+                    "Hagane"
+                ],
+                "Url": "https://patronaat.nl/event/hagane-10-04-27/"
             },
             {
                 "Date": "2027-04-18",
@@ -2835,6 +3541,18 @@
                     "Dragged Into Sunlight"
                 ],
                 "Url": "https://patronaat.nl/event/dragged-into-sunlight-19-05-27/"
+            },
+            {
+                "Date": "2027-10-16",
+                "Title": "Any Given Day",
+                "Venue": "Patronaat",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Any Given Day"
+                ],
+                "Url": "https://patronaat.nl/event/any-given-day-16-10-27/"
             }
         ]
     },
@@ -2919,6 +3637,18 @@
                 "Url": "https://nieuwenor.nl/programma/2026/12/10/nile"
             },
             {
+                "Date": "2026-12-12",
+                "Title": "State Power",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2026/12/12/state-power"
+            },
+            {
                 "Date": "2026-12-13",
                 "Venue": "Nieuwe Nor",
                 "Genres": [
@@ -2928,6 +3658,73 @@
                     "The Scratch"
                 ],
                 "Url": "https://nieuwenor.nl/programma/2026/12/13/the-scratch"
+            },
+            {
+                "Date": "2027-01-29",
+                "Title": "AC/DC tribute",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/01/29/acindc",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-02-12",
+                "Title": "Svartsot, Morgarten en Trold",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Svartsot",
+                    "Morgarten",
+                    "Trold"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/02/12/svartsot-morgarten-trold"
+            },
+            {
+                "Date": "2027-02-18",
+                "Title": "Tool tribute",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Tool Experience"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/02/18/the-tool-experience",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-03-05",
+                "Title": "Theocracy, Sunburst en Signum Regis",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "power metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Theocracy",
+                    "Sunburst",
+                    "Signum Regis"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/03/05/theocracy-sunburst-signum-regis"
+            },
+            {
+                "Date": "2027-03-12",
+                "Title": "Bombus",
+                "Venue": "Nieuwe Nor",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Bombus"
+                ],
+                "Url": "https://nieuwenor.nl/programma/2027/03/12/bombus"
             },
             {
                 "Date": "2027-04-16",
@@ -3084,6 +3881,18 @@
                 "Url": "https://www.metropool.nl/agenda/ohrima-album-release"
             },
             {
+                "Date": "2027-01-30",
+                "Title": "State Power",
+                "Venue": "Metropool",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power"
+                ],
+                "Url": "https://metropool.nl/agenda/state-power"
+            },
+            {
                 "Date": "2027-02-19",
                 "Venue": "Metropool",
                 "Genres": [
@@ -3096,6 +3905,35 @@
                     "Vansind"
                 ],
                 "Url": "https://www.metropool.nl/agenda/grimner-waylander-vansind"
+            },
+            {
+                "Date": "2027-03-28",
+                "Title": "Legends of Rock Tribute Festival",
+                "Venue": "Metropool",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Painkiller",
+                    "Harris e.a."
+                ],
+                "Url": "https://metropool.nl/agenda/legends-of-rock-tribute-festival-28-mrt",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-04-17",
+                "Title": "Bloodsin + Rotten Remains + Dead Mans Walk + Condolence",
+                "Venue": "Metropool",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Bloodsin",
+                    "Rotten Remains",
+                    "Dead Mans Walk",
+                    "Condolence"
+                ],
+                "Url": "https://metropool.nl/agenda/bloodsin-rotten-remains-dead-mans-walk-condolence"
             }
         ]
     },
@@ -3305,6 +4143,21 @@
                 "Url": "https://hetpodium.nl/agenda/the-scratch-dug/"
             },
             {
+                "Date": "2027-01-23",
+                "Title": "Rock Tribute Festival Hoogeveen 2027",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Present Danger",
+                    "High Voltage"
+                ],
+                "Url": "https://hetpodium.nl/agenda/",
+                "Tribute": true
+            },
+            {
                 "Date": "2027-02-13",
                 "Venue": "Het Podium",
                 "Genres": [
@@ -3364,6 +4217,19 @@
                     "Slip-not"
                 ],
                 "Url": "https://hetpodium.nl/agenda/forever-nu-system-of-a-down-slipknot-limp-bizkit-linkin-park/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-04-23",
+                "Title": "Ghost tribute",
+                "Venue": "Het Podium",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ritual"
+                ],
+                "Url": "https://hetpodium.nl/agenda/ritual-ghost-tribute",
                 "Tribute": true
             }
         ]
@@ -3533,6 +4399,52 @@
                 "Url": "https://www.neushoorn.nl/events/panzerfaust"
             },
             {
+                "Date": "2026-12-18",
+                "Title": "Friese Vinyl Club",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Drôvich"
+                ],
+                "Url": "https://www.neushoorn.nl/events/drovich"
+            },
+            {
+                "Date": "2026-12-24",
+                "Title": "Frisian Metal Night 2026",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "heavy metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Ancestral Sin",
+                    "Axis Mundi",
+                    "Braincasket",
+                    "Burning Midnight",
+                    "Methusalem",
+                    "Oi58",
+                    "Phantom"
+                ],
+                "Url": "https://www.neushoorn.nl/events/frisian-metal-night"
+            },
+            {
+                "Date": "2027-01-08",
+                "Title": "VRLCHT + Blossom & Wither + Ioana Iorgu",
+                "Venue": "Neushoorn",
+                "Genres": [
+                    "black metal",
+                    "post-metal"
+                ],
+                "Bands": [
+                    "VRLCHT",
+                    "Blossom & Wither",
+                    "Ioana Iorgu"
+                ],
+                "Url": "https://www.neushoorn.nl/events/vrlcht-blossom-wither-ioana-iorgu"
+            },
+            {
                 "Date": "2027-01-16",
                 "Venue": "Neushoorn",
                 "Genres": [
@@ -3567,6 +4479,18 @@
                     "Modder"
                 ],
                 "Url": "https://www.neushoorn.nl/events/modder"
+            },
+            {
+                "Date": "2027-02-05",
+                "Title": "State Power",
+                "Venue": "De Beatriks",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power"
+                ],
+                "Url": "https://debeatriks.nl/events/state-power-support/"
             },
             {
                 "Date": "2027-02-19",
@@ -3683,6 +4607,33 @@
         "Longitude": "4.493",
         "Gigs": [
             {
+                "Date": "2026-11-27",
+                "Title": "Discover: Ontaard + L'orne",
+                "Venue": "Nobel",
+                "Genres": [
+                    "black metal",
+                    "post-metal"
+                ],
+                "Bands": [
+                    "Ontaard",
+                    "L'orne"
+                ],
+                "Url": "https://nobel.nl/agenda/discover-ontaard-lorne-27-nov-2026"
+            },
+            {
+                "Date": "2026-11-28",
+                "Title": "The Curse Made Flesh + Intercranial",
+                "Venue": "Resistor",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "The Curse Made Flesh",
+                    "Intercranial"
+                ],
+                "Url": "https://www.resistor.nl/programma/20261128-thecursemadeflesh"
+            },
+            {
                 "Date": "2027-01-09",
                 "Venue": "Nobel",
                 "Genres": [
@@ -3786,6 +4737,19 @@
                     "Arteria"
                 ],
                 "Url": "https://www.corneel.nl/agenda/voidofmetal/"
+            },
+            {
+                "Date": "2027-02-19",
+                "Title": "Ghost tribute",
+                "Venue": "Corneel",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ritual"
+                ],
+                "Url": "https://www.corneel.nl/agenda/ghost/",
+                "Tribute": true
             }
         ]
     },
@@ -3949,6 +4913,20 @@
                     "Michael Schenker Group"
                 ],
                 "Url": "https://muziekgieterij.nl/event/michael-schenker-group-2027-03-21/"
+            },
+            {
+                "Date": "2027-03-27",
+                "Title": "Villagers Of Ioannina City en Sunnata",
+                "Venue": "Muziekgieterij",
+                "Genres": [
+                    "stoner metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Villagers Of Ioannina City",
+                    "Sunnata"
+                ],
+                "Url": "https://muziekgieterij.nl/event/villagers-of-ioannina-city-2027-03-27/"
             },
             {
                 "Date": "2027-04-02",
@@ -4383,6 +5361,19 @@
                 "Url": "https://www.facebook.com/events/1579973463082828/"
             },
             {
+                "Date": "2026-12-27",
+                "Title": "Thrashcan + Doowhawk",
+                "Venue": "De Herberg",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Thrashcan",
+                    "Doowhawk"
+                ],
+                "Url": "https://deherbergommen.nl/evenementen/"
+            },
+            {
                 "Date": "2027-01-03",
                 "Venue": "De Herberg",
                 "Genres": [
@@ -4504,6 +5495,48 @@
                     "Plan Nine"
                 ],
                 "Url": "https://p3.nl/"
+            },
+            {
+                "Date": "2027-01-30",
+                "Title": "Nu Metal Tribute Night",
+                "Venue": "P3",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Victims Of A System",
+                    "The Hunting Party e.a."
+                ],
+                "Url": "https://p3.nl/agenda/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-02-05",
+                "Title": "Metallica & Iron Maiden tribute",
+                "Venue": "P3",
+                "Genres": [
+                    "thrash metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "MetallicX",
+                    "Up The Irons"
+                ],
+                "Url": "https://p3.nl/agenda/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-05-22",
+                "Title": "AC/DC tribute",
+                "Venue": "P3",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://p3.nl/agenda/",
+                "Tribute": true
             }
         ]
     },
@@ -4847,6 +5880,21 @@
                 "Url": "https://www.ahoy.nl/agenda/concert/sabaton?d=2027-04-24_20"
             },
             {
+                "Date": "2027-10-01",
+                "Title": "Meshuggah – The Forty-Year Anomaly",
+                "Venue": "Ahoy",
+                "Genres": [
+                    "progressive metal",
+                    "groove metal"
+                ],
+                "Bands": [
+                    "Meshuggah",
+                    "Periphery",
+                    "Vildhjarta"
+                ],
+                "Url": "https://www.ahoy.nl/agenda/concert/meshuggah-the-forty-year-anomaly?d=2027-10-01_19"
+            },
+            {
                 "Date": "2027-10-02",
                 "Title": "Sathanas In Gloriam 666",
                 "Venue": "Baroeg",
@@ -4857,6 +5905,25 @@
                     "Sathanas In Gloriam 666"
                 ],
                 "Url": "https://baroeg.nl/productie/sathanas-in-gloriam-666/"
+            }
+        ]
+    },
+    {
+        "City": "Sint Annaparochie",
+        "Latitude": "53.2756",
+        "Longitude": "5.6564",
+        "Gigs": [
+            {
+                "Date": "2026-12-12",
+                "Title": "De Bildtse Orkaan 2026",
+                "Venue": "MFC Ons Huis",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "t.b.a."
+                ],
+                "Url": "https://bildtsaigene.nl/de-bildtse-orkaan-saterdeg-12-desimber/"
             }
         ]
     },
@@ -4920,6 +5987,19 @@
         "Latitude": "52.79",
         "Longitude": "6.12",
         "Gigs": [
+            {
+                "Date": "2027-04-10",
+                "Title": "Cryptosis",
+                "Venue": "De Buze",
+                "Genres": [
+                    "thrash metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Cryptosis"
+                ],
+                "Url": "https://buze.nl/"
+            },
             {
                 "Date": "2027-07-31",
                 "Title": "Stonehenge 2027",
@@ -5017,6 +6097,19 @@
                     "Sace6"
                 ],
                 "Url": "https://hall-fame.nl/programma/sace6-111620017/"
+            },
+            {
+                "Date": "2026-11-26",
+                "Title": "Smoulder",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "doom metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Smoulder"
+                ],
+                "Url": "https://www.littledevil.nl/"
             },
             {
                 "Date": "2026-11-27",
@@ -5150,6 +6243,32 @@
                 "Url": "https://www.013.nl/programma/138782/thrown-counterparts"
             },
             {
+                "Date": "2026-12-08",
+                "Title": "1914 – The War That Never Ends",
+                "Venue": "Hall Of Fame",
+                "Genres": [
+                    "death metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "1914"
+                ],
+                "Url": "https://hall-fame.nl/programma/1914-the-war-that-never-ends-winter-2026-111701757"
+            },
+            {
+                "Date": "2026-12-11",
+                "Title": "Little Devil Doom Day",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Cardinals Folly",
+                    "Black Revelation"
+                ],
+                "Url": "https://www.littledevil.nl/"
+            },
+            {
                 "Date": "2026-12-13",
                 "Venue": "013",
                 "Genres": [
@@ -5176,6 +6295,21 @@
                     "Enforcer"
                 ],
                 "Url": "https://www.013.nl/programma/126408/accept/"
+            },
+            {
+                "Date": "2026-12-17",
+                "Title": "Vroeger was alles beter!",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Vanta",
+                    "Endure",
+                    "Fimbulvetr",
+                    "Sonic Terror"
+                ],
+                "Url": "https://www.littledevil.nl/2026/17-12-2026-vroeger-was-alles-beter.html"
             },
             {
                 "Date": "2027-01-08",
@@ -5232,6 +6366,20 @@
                 "Url": "https://www.013.nl/programma/140392/black-veil-brides"
             },
             {
+                "Date": "2027-01-19",
+                "Title": "Fight From Within + Nicolas Cage Fighter",
+                "Venue": "Hall Of Fame",
+                "Genres": [
+                    "metalcore",
+                    "deathcore"
+                ],
+                "Bands": [
+                    "Fight From Within",
+                    "Nicolas Cage Fighter"
+                ],
+                "Url": "https://hall-fame.nl/programma/fight-from-within-nicolas-cage-fighter-111674965"
+            },
+            {
                 "Date": "2027-01-22",
                 "Venue": "Little Devil",
                 "Genres": [
@@ -5244,6 +6392,18 @@
                     "MAZ UNIVERZE"
                 ],
                 "Url": "https://www.013.nl/programma/152957/enemy-inside"
+            },
+            {
+                "Date": "2027-01-23",
+                "Title": "State Power + Support TBA",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "State Power"
+                ],
+                "Url": "https://www.littledevil.nl/"
             },
             {
                 "Date": "2027-01-27",
@@ -5269,6 +6429,34 @@
                     "Denial Of Life"
                 ],
                 "Url": "https://www.013.nl/programma/155569/frozen-soul"
+            },
+            {
+                "Date": "2027-01-29",
+                "Title": "Unholy Sabbath Festival – Chapter IV (dag 1)",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "black metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Heinous",
+                    "Deathless e.a."
+                ],
+                "Url": "https://www.littledevil.nl/2027/29-1-2027-unholy-sabbath-festival-chapter-iv-day-1.html"
+            },
+            {
+                "Date": "2027-01-30",
+                "Title": "Unholy Sabbath Festival – Chapter IV (dag 2)",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "black metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Heinous",
+                    "Deathless e.a."
+                ],
+                "Url": "https://www.littledevil.nl/2027/30-1-2027-unholy-sabbath-festival-chapter-iv-day-2.html"
             },
             {
                 "Date": "2027-02-01",
@@ -5535,6 +6723,19 @@
                 "Url": "https://www.013.nl/programma/163906/stratovarius-fabio-liones-dawn-of-victory"
             },
             {
+                "Date": "2027-05-19",
+                "Title": "Hyena + Thunderhoof",
+                "Venue": "Little Devil",
+                "Genres": [
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "Hyena",
+                    "Thunderhoof"
+                ],
+                "Url": "https://www.littledevil.nl/2027/19-5-2027-hyena-per-en-thunderhoof-nl.html"
+            },
+            {
                 "Date": "2027-05-23",
                 "Venue": "013",
                 "Genres": [
@@ -5691,6 +6892,26 @@
         ]
     },
     {
+        "City": "Ulft",
+        "Latitude": "51.8930",
+        "Longitude": "6.3800",
+        "Gigs": [
+            {
+                "Date": "2027-02-27",
+                "Title": "AC/DC tribute",
+                "Venue": "DRU Industriepark",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "ACinDC"
+                ],
+                "Url": "https://www.dru-industriepark.nl/agenda/pop/2027/02/acindc",
+                "Tribute": true
+            }
+        ]
+    },
+    {
         "City": "Utrecht",
         "Latitude": "52.0907",
         "Longitude": "5.1214",
@@ -5751,6 +6972,21 @@
                     "ništa"
                 ],
                 "Url": "https://www.denijverheid.org/event/2026-12-versterker-5-doom-night/"
+            },
+            {
+                "Date": "2026-12-05",
+                "Title": "Curselifter + Soulprison + SPEAR + Tigerknife",
+                "Venue": "Ekko",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Curselifter",
+                    "Soulprison",
+                    "Spear",
+                    "Tigerknife"
+                ],
+                "Url": "https://ekko.nl/event/curselifter/"
             },
             {
                 "Date": "2026-12-06",
@@ -5821,6 +7057,18 @@
                 "Url": "https://dbstudio.nl/event/surf-punk-massacre-iv-w-monster-mullet-mafia-bra-disturbance-rot-stewart-be-mouser/"
             },
             {
+                "Date": "2026-12-16",
+                "Title": "Árstíðir",
+                "Venue": "Tivoli Vredenburg",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Árstíðir"
+                ],
+                "Url": "https://www.tivolivredenburg.nl/agenda/22804567/arstidir-16-12-2026"
+            },
+            {
                 "Date": "2026-12-18",
                 "Venue": "dB's Studio",
                 "Genres": [
@@ -5846,6 +7094,21 @@
                     "Domspringer"
                 ],
                 "Url": "https://dbstudio.nl/event/doodswens/"
+            },
+            {
+                "Date": "2027-01-16",
+                "Title": "Midjonno Prog 2",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Hirsch Effekt",
+                    "Disillusion",
+                    "Golden Caves",
+                    "Methodica"
+                ],
+                "Url": "https://dbstudio.nl/event/midjonno-prog-2/"
             },
             {
                 "Date": "2027-01-21",
@@ -6300,6 +7563,19 @@
                     "The Fifth Alliance"
                 ],
                 "Url": "https://kroepoekfabriek.nl/agenda/hemelbestormer/"
+            },
+            {
+                "Date": "2027-03-12",
+                "Title": "Ozzy Osbourne tribute",
+                "Venue": "Kroepoekfabriek",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Ozzyfied"
+                ],
+                "Url": "https://kroepoekfabriek.nl/agenda/ozzyfied/",
+                "Tribute": true
             }
         ]
     },
@@ -6616,6 +7892,58 @@
                     "Made In Purple"
                 ],
                 "Url": "https://poppodiumboerderij.nl/programma/madeinpurple/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-01-22",
+                "Title": "Dream Theater tribute",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Regressive Hypnosis"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/regressivehypnosis/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-02-21",
+                "Title": "Operation: Mindcrime – The Final Chapter (extra show)",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Geoff Tate"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/geofftate2/"
+            },
+            {
+                "Date": "2027-04-04",
+                "Title": "Marty Friedman",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Marty Friedman"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/martyfriedman/"
+            },
+            {
+                "Date": "2027-04-15",
+                "Title": "Linkin Park & Limp Bizkit tribute",
+                "Venue": "Boerderij",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Living Theory",
+                    "Limp Business"
+                ],
+                "Url": "https://poppodiumboerderij.nl/programma/livingtheory/",
                 "Tribute": true
             },
             {
