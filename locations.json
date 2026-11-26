@@ -2918,6 +2918,17 @@
                 "Tribute": true
             },
             {
+                "Date": "2027-03-05",
+                "Venue": "'t Beest",
+                "Genres": [
+                    "stoner rock"
+                ],
+                "Bands": [
+                    "Truckfighters"
+                ],
+                "Url": "https://tbeest.nl/productie/truckfighters/"
+            },
+            {
                 "Date": "2027-05-15",
                 "Venue": "'t Beest",
                 "Title": "The Dutch Ghost Experience",
