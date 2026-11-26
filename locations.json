@@ -1528,7 +1528,19 @@
         "City": "Deventer",
         "Latitude": "52.2559",
         "Longitude": "6.1628",
-        "Gigs": []
+        "Gigs": [
+            {
+                "Date": "2026-12-04",
+                "Venue": "Burger Weeshuis",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "The Scratch"
+                ],
+                "Url": "https://www.burgerweeshuis.nl/events/the-scratch"
+            }
+        ]
     },
     {
         "City": "Dordrecht",
