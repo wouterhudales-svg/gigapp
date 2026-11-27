@@ -1190,6 +1190,34 @@
                     "ToDoMal"
                 ],
                 "Url": "https://www.progpowereurope.com/"
+            },
+            {
+                "Date": "2027-10-02",
+                "Title": "ProgPower Europe 2027",
+                "Venue": "Sjiwa",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Benthos",
+                    "Temic",
+                    "ToDoMal"
+                ],
+                "Url": "https://www.progpowereurope.com/"
+            },
+            {
+                "Date": "2027-10-03",
+                "Title": "ProgPower Europe 2027",
+                "Venue": "Sjiwa",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Benthos",
+                    "Temic",
+                    "ToDoMal"
+                ],
+                "Url": "https://www.progpowereurope.com/"
             }
         ]
     },
@@ -2779,18 +2807,55 @@
                     "hardcore punk"
                 ],
                 "Bands": [
-                    "Architects",
                     "Mercyful Fate",
-                    "Biohazard",
-                    "Cavalera",
-                    "Hypocrisy",
-                    "John Bush Plays Anthrax",
-                    "Madball",
-                    "I Am Morbid",
                     "Corrosion of Conformity",
+                    "Biohazard",
+                    "I Am Morbid",
+                    "John Bush Plays Anthrax",
+                    "Elegy"
+                ],
+                "Url": "https://www.dynamo-metalfest.nl/line-up/"
+            },
+            {
+                "Date": "2027-08-14",
+                "Title": "Dynamo Metalfest 2027",
+                "Venue": "IJssportcentrum",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal",
+                    "death metal",
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Fulci",
+                    "Shadow of Intent",
+                    "Left To Suffer",
+                    "Hypocrisy",
+                    "Mantah",
+                    "Savage Lands"
+                ],
+                "Url": "https://www.dynamo-metalfest.nl/line-up/"
+            },
+            {
+                "Date": "2027-08-15",
+                "Title": "Dynamo Metalfest 2027",
+                "Venue": "IJssportcentrum",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal",
+                    "death metal",
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Architects",
+                    "PeelingFlesh",
+                    "Cavalera",
+                    "Asomvel",
+                    "Madball",
                     "Carnifex",
-                    "Sylosis",
-                    "Shadow of Intent"
+                    "Sylosis"
                 ],
                 "Url": "https://www.dynamo-metalfest.nl/line-up/"
             },
