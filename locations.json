@@ -897,6 +897,419 @@
         ]
     },
     {
+        "City": "Antwerpen",
+        "Latitude": "51.2213",
+        "Longitude": "4.4051",
+        "Gigs": [
+            {
+                "Date": "2026-11-28",
+                "Venue": "Trix",
+                "Genres": [
+                    "sludge metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Ronker",
+                    "Coilguns"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/ronker-coilguns-1"
+            },
+            {
+                "Date": "2026-12-03",
+                "Venue": "Trix",
+                "Genres": [
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Cabal",
+                    "Employed To Serve",
+                    "Cold Culture"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/cabal-employed-to-serve-1"
+            },
+            {
+                "Date": "2026-12-03",
+                "Venue": "Trix",
+                "Genres": [
+                    "stoner metal",
+                    "doom metal",
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Green Lung",
+                    "High on Fire",
+                    "Gnome"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/green-lung"
+            },
+            {
+                "Date": "2026-12-05",
+                "Venue": "Lotto Arena",
+                "Genres": [
+                    "groove metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Channel Zero"
+                ],
+                "Url": "https://www.ticketmaster.be/event/channel-zero-tickets/294865537"
+            },
+            {
+                "Date": "2026-12-05",
+                "Venue": "Trix",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Spare Kid",
+                    "State Power"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/spare-kid"
+            },
+            {
+                "Date": "2026-12-09",
+                "Venue": "Trix",
+                "Genres": [
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Thrown",
+                    "Counterparts",
+                    "No Cure",
+                    "heavensgate"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/thrown-2"
+            },
+            {
+                "Date": "2026-12-15",
+                "Venue": "Trix",
+                "Genres": [
+                    "gothic metal",
+                    "post-metal"
+                ],
+                "Bands": [
+                    "Chelsea Wolfe",
+                    "A.A. Williams"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/chelsea-wolfe-3"
+            },
+            {
+                "Date": "2027-01-14",
+                "Venue": "Trix",
+                "Genres": [
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Floor Jansen"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/floor-jansen"
+            },
+            {
+                "Date": "2027-01-20",
+                "Venue": "Trix",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Comeback Kid",
+                    "Haywire",
+                    "Whispers",
+                    "Speedway"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/comeback-kid-1"
+            },
+            {
+                "Date": "2027-01-23",
+                "Venue": "Trix",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Wage War",
+                    "Invent Animate",
+                    "Wind Walkers"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/wage-war-1"
+            },
+            {
+                "Date": "2027-01-24",
+                "Venue": "Trix",
+                "Genres": [
+                    "deathcore",
+                    "death metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Whitechapel",
+                    "Sylosis",
+                    "200 Stab Wounds",
+                    "Tribal Gaze"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/whitechapel-1"
+            },
+            {
+                "Date": "2027-01-26",
+                "Venue": "Trix",
+                "Genres": [
+                    "post-metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "The Ocean"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/the-ocean"
+            },
+            {
+                "Date": "2027-01-31",
+                "Venue": "Trix",
+                "Genres": [
+                    "progressive metal",
+                    "death metal",
+                    "gothic metal"
+                ],
+                "Bands": [
+                    "Amorphis",
+                    "Insomnium",
+                    "Unto Others"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/amorphis-1"
+            },
+            {
+                "Date": "2027-02-07",
+                "Venue": "Trix",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Show Me The Body"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/show-me-the-body"
+            },
+            {
+                "Date": "2027-02-10",
+                "Venue": "Trix",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "Chat Pile"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/chat-pile-2"
+            },
+            {
+                "Date": "2027-02-10",
+                "Venue": "Trix",
+                "Genres": [
+                    "deathcore"
+                ],
+                "Bands": [
+                    "Thy Art Is Murder"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/thy-art-is-murder"
+            },
+            {
+                "Date": "2027-02-21",
+                "Venue": "Trix",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Movements",
+                    "Shoreline",
+                    "Gouge Away"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/movements"
+            },
+            {
+                "Date": "2027-02-25",
+                "Venue": "Trix",
+                "Genres": [
+                    "death metal",
+                    "gothic metal"
+                ],
+                "Bands": [
+                    "The Halo Effect",
+                    "Lacuna Coil",
+                    "Omnium Gatherum"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/the-halo-effect-1"
+            },
+            {
+                "Date": "2027-03-03",
+                "Venue": "Trix",
+                "Genres": [
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "King Buffalo",
+                    "Spirit Mother"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/king-buffalo"
+            },
+            {
+                "Date": "2027-03-06",
+                "Venue": "Trix",
+                "Genres": [
+                    "thrash metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Evil Invaders",
+                    "Exhorder",
+                    "Heathen",
+                    "Warfield"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/evil-invaders-3"
+            },
+            {
+                "Date": "2027-03-07",
+                "Venue": "Trix",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Kamelot",
+                    "Cyhra"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/kamelot"
+            },
+            {
+                "Date": "2027-03-07",
+                "Venue": "Trix",
+                "Genres": [
+                    "deathcore",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Signs Of The Swarm",
+                    "ten56.",
+                    "Oceans Ate Alaska",
+                    "Face Yourself"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/signs-of-the-swarm"
+            },
+            {
+                "Date": "2027-03-10",
+                "Venue": "AFAS Dome",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Manowar"
+                ],
+                "Url": "https://www.ticketmaster.be/event/manowar-kings-of-metal-fighting-the-world-tour-2027-tickets/1603135770"
+            },
+            {
+                "Date": "2027-04-03",
+                "Title": "SAMHAIN 2027",
+                "Venue": "Trix",
+                "Genres": [
+                    "black metal",
+                    "death metal",
+                    "post-metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Alcest",
+                    "Mgła",
+                    "Gaerea",
+                    "Spectral Wound",
+                    "Dead Congregation",
+                    "Fluisteraars",
+                    "Agriculture",
+                    "Ultha",
+                    "Miserere Luminis",
+                    "Spirit Possession",
+                    "Of the Sign…",
+                    "Conifère",
+                    "Vespéral",
+                    "Wake",
+                    "Bloedmaan"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/samhain-2027-1"
+            },
+            {
+                "Date": "2027-04-04",
+                "Title": "SAMHAIN 2027",
+                "Venue": "Trix",
+                "Genres": [
+                    "black metal",
+                    "death metal",
+                    "post-metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Alcest",
+                    "Mgła",
+                    "Gaerea",
+                    "Spectral Wound",
+                    "Dead Congregation",
+                    "Fluisteraars",
+                    "Agriculture",
+                    "Ultha",
+                    "Miserere Luminis",
+                    "Spirit Possession",
+                    "Of the Sign…",
+                    "Conifère",
+                    "Vespéral",
+                    "Wake",
+                    "Bloedmaan"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/samhain-2027-1"
+            },
+            {
+                "Date": "2027-05-11",
+                "Venue": "Trix",
+                "Genres": [
+                    "progressive metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Nevermore",
+                    "Rivers of Nihil",
+                    "Urne"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/nevermore"
+            },
+            {
+                "Date": "2027-05-13",
+                "Venue": "Trix",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Quicksand"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/quicksand"
+            },
+            {
+                "Date": "2027-09-12",
+                "Venue": "Trix",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Eisbrecher"
+                ],
+                "Url": "https://www.trixonline.be/nl/event/eisbrecher-6"
+            },
+            {
+                "Date": "2027-09-24",
+                "Venue": "Lotto Arena",
+                "Genres": [
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Epica"
+                ],
+                "Url": "https://www.ticketmaster.be/event/epica-the-symphonic-synergy-tour-tickets/154006901"
+            }
+        ]
+    },
+    {
         "City": "Apeldoorn",
         "Latitude": "52.2215",
         "Longitude": "5.9699",
@@ -1598,6 +2011,392 @@
         ]
     },
     {
+        "City": "Brussel",
+        "Latitude": "50.8503",
+        "Longitude": "4.3517",
+        "Gigs": [
+            {
+                "Date": "2026-12-03",
+                "Venue": "Botanique",
+                "Genres": [
+                    "avant-garde metal",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Imperial Triumphant",
+                    "Knoll"
+                ],
+                "Url": "https://botanique.be/nl/concert/imperial-triumphant-knoll-2026"
+            },
+            {
+                "Date": "2026-12-04",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "SLIFT"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/slift/a10Qw00000EvtULIAZ"
+            },
+            {
+                "Date": "2026-12-05",
+                "Venue": "Botanique",
+                "Genres": [
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "Kadavar",
+                    "Scott Hepple And The Sun Band"
+                ],
+                "Url": "https://botanique.be/nl/concert/kadavar-scott-hepple-and-sun-band-2026"
+            },
+            {
+                "Date": "2026-12-10",
+                "Title": "Channel Zero (afscheid)",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "groove metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Channel Zero"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/channel-zero/a10Qw000003bNiLIAU"
+            },
+            {
+                "Date": "2026-12-11",
+                "Title": "Channel Zero (afscheid)",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "groove metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Channel Zero"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/channel-zero/a10Qw000003bNiMIAU"
+            },
+            {
+                "Date": "2026-12-12",
+                "Title": "Channel Zero (afscheid)",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "groove metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Channel Zero"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/channel-zero/a10Qw000003bNiNIAU"
+            },
+            {
+                "Date": "2026-12-13",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "heavy metal",
+                    "power metal"
+                ],
+                "Bands": [
+                    "Accept",
+                    "Dynazty",
+                    "Tailgunner"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/accept/a10Qw00000Acyv8IAB"
+            },
+            {
+                "Date": "2026-12-16",
+                "Venue": "Botanique",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Hippotraktor",
+                    "Pigz"
+                ],
+                "Url": "https://botanique.be/nl/concert/hippotraktor-pigz-2026"
+            },
+            {
+                "Date": "2027-01-15",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Imminence",
+                    "August Burns Red"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/imminence/a10Qw00000FCUrJIAX"
+            },
+            {
+                "Date": "2027-01-21",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "alternative metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Black Veil Brides"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/black-veil-brides/a10Qw00000GiMrdIAF"
+            },
+            {
+                "Date": "2027-02-04",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Basement"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/basement/a10Qw00000J6Qw9IAF"
+            },
+            {
+                "Date": "2027-02-04",
+                "Venue": "Botanique",
+                "Genres": [
+                    "stoner metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Elder",
+                    "Temple Fang"
+                ],
+                "Url": "https://botanique.be/nl/concert/elder-temple-fang-2027"
+            },
+            {
+                "Date": "2027-02-08",
+                "Venue": "Forest National",
+                "Genres": [
+                    "groove metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Five Finger Death Punch",
+                    "Lamb Of God",
+                    "Bleed From Within"
+                ],
+                "Url": "https://www.ticketmaster.be/event/five-finger-death-punch-20th-anniversary-world-tour-tickets/33792684"
+            },
+            {
+                "Date": "2027-02-12",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "doom metal",
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "Uncle Acid & The Deadbeats"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/uncle-acid-the-deadbeats/a10Qw00000FPW45IAH"
+            },
+            {
+                "Date": "2027-03-01",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Saxon"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/saxon/a10Qw00000HaO0PIAV"
+            },
+            {
+                "Date": "2027-03-02",
+                "Venue": "Botanique",
+                "Genres": [
+                    "stoner metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "REZN",
+                    "Coltaine"
+                ],
+                "Url": "https://botanique.be/nl/concert/rezn-coltaine-2027"
+            },
+            {
+                "Date": "2027-03-07",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "post-metal"
+                ],
+                "Bands": [
+                    "Cult Of Luna"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/cult-of-luna/a10Qw00000HH0g9IAD"
+            },
+            {
+                "Date": "2027-03-17",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "industrial metal",
+                    "nu metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Carpenter Brut",
+                    "Kittie",
+                    "Violent Magic Orchestra"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/carpenter-brut/a10Qw00000HZJE5IAP"
+            },
+            {
+                "Date": "2027-03-21",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "stoner metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Graveyard",
+                    "Blues Pills"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/graveyard-blues-pills/a10Qw00000FPXMjIAP"
+            },
+            {
+                "Date": "2027-03-23",
+                "Venue": "Forest National",
+                "Genres": [
+                    "thrash metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Megadeth",
+                    "Black Label Society",
+                    "Testament"
+                ],
+                "Url": "https://www.ticketmaster.be/event/megadeth-breakout-hibernation-of-the-nations-europe-tour-2027-tickets/286998826"
+            },
+            {
+                "Date": "2027-03-24",
+                "Venue": "Botanique",
+                "Genres": [
+                    "hardcore punk",
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Knives"
+                ],
+                "Url": "https://botanique.be/nl/concert/knives-2027"
+            },
+            {
+                "Date": "2027-04-04",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Ministry",
+                    "Die Krupps"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/ministry/a10Qw00000Htg9hIAB"
+            },
+            {
+                "Date": "2027-04-05",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "progressive metal",
+                    "sludge metal",
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "Mastodon",
+                    "Monolord"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/mastodon/a10Qw00000OQSUJIA5"
+            },
+            {
+                "Date": "2027-04-06",
+                "Venue": "Forest National",
+                "Genres": [
+                    "melodic death metal",
+                    "metalcore",
+                    "deathcore"
+                ],
+                "Bands": [
+                    "In Flames",
+                    "Trivium",
+                    "Paleface Swiss"
+                ],
+                "Url": "https://www.ticketmaster.be/event/in-flames--trivium-european-co-headline-tour-2027-tickets/1669271404"
+            },
+            {
+                "Date": "2027-04-09",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Anthrax",
+                    "Kerry King",
+                    "Sacred Reich"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/anthrax/a10Qw00000Kdg2HIAR"
+            },
+            {
+                "Date": "2027-04-18",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "DragonForce",
+                    "Visions Of Atlantis",
+                    "Wings Of Steel"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/dragonforce-europe-tour-2027/a10Qw00000IGebpIAD"
+            },
+            {
+                "Date": "2027-09-28",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "progressive metal",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "Karnivool",
+                    "Wheel"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/karnivool/a10Qw00000MCH0PIAX"
+            },
+            {
+                "Date": "2027-10-31",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "post-metal"
+                ],
+                "Bands": [
+                    "Amenra"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/amenra/a10Qw00000Hx5zgIAB"
+            },
+            {
+                "Date": "2027-11-01",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "post-metal"
+                ],
+                "Bands": [
+                    "Amenra"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/amenra/a10Qw00000Hx5zhIAB"
+            },
+            {
+                "Date": "2027-12-01",
+                "Venue": "Ancienne Belgique",
+                "Genres": [
+                    "death metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Kanonenfieber"
+                ],
+                "Url": "https://www.abconcerts.be/nl/agenda/kanonenfieber/a10Qw00000FITR7IAP"
+            }
+        ]
+    },
+    {
         "City": "Buchten",
         "Latitude": "51.0435",
         "Longitude": "5.8129",
@@ -2015,6 +2814,182 @@
         "Gigs": []
     },
     {
+        "City": "Dessel",
+        "Latitude": "51.2397",
+        "Longitude": "5.1142",
+        "Gigs": [
+            {
+                "Date": "2027-06-17",
+                "Title": "Graspop Metal Meeting 2027",
+                "Venue": "Festivalpark Stenehei (Graspop)",
+                "Genres": [
+                    "metalcore",
+                    "heavy metal",
+                    "death metal",
+                    "hardcore punk",
+                    "folk metal"
+                ],
+                "Bands": [
+                    "A.A. Williams",
+                    "After The Burial",
+                    "Bad Religion",
+                    "Blue Medusa",
+                    "Bodysnatcher",
+                    "Calva Louise",
+                    "Cenobia",
+                    "Cryptopsy",
+                    "Currents",
+                    "Dropkick Murphys",
+                    "Enter Shikari",
+                    "Fit For A King",
+                    "Floor Jansen",
+                    "From Ashes To New",
+                    "Helloween",
+                    "I Prevail",
+                    "Killswitch Engage",
+                    "Korpiklaani",
+                    "Lorna Shore",
+                    "Maple's Pet Dinosaur",
+                    "Millencolin",
+                    "Nailbomb",
+                    "Parkway Drive",
+                    "Silverstein",
+                    "Staind",
+                    "Static-X",
+                    "The Sisters of Mercy",
+                    "Towards The Sinister",
+                    "Trash Talk"
+                ],
+                "Url": "https://www.graspop.be/en/line-up/list"
+            },
+            {
+                "Date": "2027-06-18",
+                "Title": "Graspop Metal Meeting 2027",
+                "Venue": "Festivalpark Stenehei (Graspop)",
+                "Genres": [
+                    "alternative metal",
+                    "heavy metal",
+                    "thrash metal",
+                    "doom metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Body Count Feat. Ice-T",
+                    "Boris",
+                    "Brutus",
+                    "Cage Fight",
+                    "Clutch",
+                    "Converge",
+                    "Down",
+                    "Evanescence",
+                    "Faith No More",
+                    "Fu Manchu",
+                    "Graveyard",
+                    "H-Blockx",
+                    "Hemelbestormer",
+                    "Imminence",
+                    "John Garcia",
+                    "Kreator",
+                    "Ladrones",
+                    "Murderdolls",
+                    "Orbit Culture",
+                    "Pro-Pain",
+                    "Psychonaut",
+                    "Scour",
+                    "Sevendust",
+                    "Suicidal Tendencies",
+                    "The Amity Affliction",
+                    "The Inspector Cluzo",
+                    "Tom Morello",
+                    "Triptykon"
+                ],
+                "Url": "https://www.graspop.be/en/line-up/list"
+            },
+            {
+                "Date": "2027-06-19",
+                "Title": "Graspop Metal Meeting 2027",
+                "Venue": "Festivalpark Stenehei (Graspop)",
+                "Genres": [
+                    "alternative metal",
+                    "black metal",
+                    "thrash metal",
+                    "metalcore",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Armored Saint",
+                    "Beartooth",
+                    "blink-182",
+                    "British Lion",
+                    "Dimmu Borgir",
+                    "Dragged Under",
+                    "Forbidden",
+                    "Hot Milk",
+                    "Jinjer",
+                    "Legion Of The Damned",
+                    "Marilyn Manson",
+                    "Me And That Man",
+                    "Metal Church",
+                    "Motionless In White",
+                    "Novelists",
+                    "Overkill",
+                    "Paradise Lost",
+                    "Pierce The Veil",
+                    "Simple Plan",
+                    "Soil",
+                    "Steel Panther",
+                    "The Dark.FM",
+                    "The Devil Wears Prada",
+                    "Tygers of Pan Tang",
+                    "Vio-lence",
+                    "Watain",
+                    "White Lion"
+                ],
+                "Url": "https://www.graspop.be/en/line-up/list"
+            },
+            {
+                "Date": "2027-06-20",
+                "Title": "Graspop Metal Meeting 2027",
+                "Venue": "Festivalpark Stenehei (Graspop)",
+                "Genres": [
+                    "heavy metal",
+                    "death metal",
+                    "folk metal",
+                    "power metal"
+                ],
+                "Bands": [
+                    "Amon Amarth",
+                    "Angus McSix",
+                    "Arch Enemy",
+                    "Blood For Blood",
+                    "Bruce Dickinson",
+                    "Children Of Bodom",
+                    "Comeback Kid",
+                    "Daughtry",
+                    "Dayseeker",
+                    "Dominum",
+                    "Eluveitie",
+                    "Finntroll",
+                    "Ghostemane",
+                    "Gwar",
+                    "Holding Absence",
+                    "Humanity's Last Breath",
+                    "Igorrr",
+                    "Kansas",
+                    "Kataklysm",
+                    "Mötley Crüe",
+                    "Prong",
+                    "Slash ft. Myles Kennedy & The Conspirators",
+                    "Solence",
+                    "Static Dress",
+                    "Therion",
+                    "Windwaker"
+                ],
+                "Url": "https://www.graspop.be/en/line-up/list"
+            }
+        ]
+    },
+    {
         "City": "Deventer",
         "Latitude": "52.2559",
         "Longitude": "6.1628",
@@ -2370,6 +3345,59 @@
                 ],
                 "Bands": [],
                 "Url": "https://wildmanmetalfest.com/"
+            }
+        ]
+    },
+    {
+        "City": "Durbuy",
+        "Latitude": "50.3531",
+        "Longitude": "5.4564",
+        "Gigs": [
+            {
+                "Date": "2027-05-28",
+                "Title": "Durbuy Rock Festival 2027",
+                "Venue": "Plaine du Sassin (Durbuy Rock)",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal",
+                    "stoner metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Amaranthe",
+                    "Stratovarius",
+                    "Delain",
+                    "Orden Ogan",
+                    "Sidilarsen",
+                    "Truckfighters",
+                    "Conjurer",
+                    "Wyatt E",
+                    "Mondo Generator"
+                ],
+                "Url": "https://www.durbuyrock.be/programmation"
+            },
+            {
+                "Date": "2027-05-29",
+                "Title": "Durbuy Rock Festival 2027",
+                "Venue": "Plaine du Sassin (Durbuy Rock)",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal",
+                    "stoner metal",
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Amaranthe",
+                    "Stratovarius",
+                    "Delain",
+                    "Orden Ogan",
+                    "Sidilarsen",
+                    "Truckfighters",
+                    "Conjurer",
+                    "Wyatt E",
+                    "Mondo Generator"
+                ],
+                "Url": "https://www.durbuyrock.be/programmation"
             }
         ]
     },
@@ -4596,6 +5624,191 @@
         ]
     },
     {
+        "City": "Kortrijk",
+        "Latitude": "50.8279",
+        "Longitude": "3.2650",
+        "Gigs": [
+            {
+                "Date": "2027-08-05",
+                "Title": "Alcatraz 2027",
+                "Venue": "Alcatraz (Sportcampus Lange Munte)",
+                "Genres": [
+                    "heavy metal",
+                    "death metal",
+                    "doom metal",
+                    "metalcore",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Europe",
+                    "Wind Rose",
+                    "Dyscordia",
+                    "Venom (Mantas & Abaddon)",
+                    "Russian Circles",
+                    "Malevolence",
+                    "Six Feet Under",
+                    "Misery Index",
+                    "YOB",
+                    "Krisiun",
+                    "Slow Crush",
+                    "The Haunted",
+                    "Master's Hammer",
+                    "Rotzak"
+                ],
+                "Url": "https://www.alcatraz.be/en/"
+            },
+            {
+                "Date": "2027-08-06",
+                "Title": "Alcatraz 2027",
+                "Venue": "Alcatraz (Sportcampus Lange Munte)",
+                "Genres": [
+                    "metalcore",
+                    "death metal",
+                    "black metal",
+                    "heavy metal",
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Architects",
+                    "Skillet",
+                    "DevilDriver",
+                    "Clawfinger",
+                    "Feuerschwanz",
+                    "Kanonenfieber",
+                    "Turbonegro",
+                    "H.E.A.T.",
+                    "Make Them Suffer",
+                    "Fleddy Melculy",
+                    "Katatonia",
+                    "Dark Funeral",
+                    "Shadow of Intent",
+                    "Nile",
+                    "Carnifex",
+                    "Fulci",
+                    "The Zenith Passage",
+                    "Morta Skuld",
+                    "Danko Jones",
+                    "Corrosion of Conformity",
+                    "The Ocean",
+                    "The Obsessed",
+                    "Spoil Engine",
+                    "Split Dogs",
+                    "Toxic Shock",
+                    "Powerstroke",
+                    "Xentrix",
+                    "Arthur Brown",
+                    "The Night Eternal",
+                    "Sasquatch",
+                    "Emptiness",
+                    "Imha Tarikat",
+                    "Mordkaul",
+                    "Warhead",
+                    "World Decay"
+                ],
+                "Url": "https://www.alcatraz.be/en/"
+            },
+            {
+                "Date": "2027-08-07",
+                "Title": "Alcatraz 2027",
+                "Venue": "Alcatraz (Sportcampus Lange Munte)",
+                "Genres": [
+                    "heavy metal",
+                    "death metal",
+                    "black metal",
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "The Cult",
+                    "Cavalera",
+                    "Halestorm",
+                    "Heaven Shall Burn",
+                    "John 5",
+                    "Mgła",
+                    "Madball",
+                    "Geoff Tate",
+                    "Flotsam and Jetsam",
+                    "Ankor",
+                    "Vicious Rumors",
+                    "Dethklok",
+                    "I Am Morbid",
+                    "Gaerea",
+                    "Malevolent Creation",
+                    "Textures",
+                    "Carnation",
+                    "Panzerfaust",
+                    "Bizarrekult",
+                    "Atreyu",
+                    "Ignite",
+                    "Sylosis",
+                    "Brand of Sacrifice",
+                    "The Acacia Strain",
+                    "Get the Shot",
+                    "Khemmis",
+                    "Necrotted",
+                    "Dool",
+                    "Solitude Aeturnus",
+                    "Valley of the Sun",
+                    "Greenleaf",
+                    "Faetooth",
+                    "Bacht'n de Vulle Moane",
+                    "At the Front",
+                    "Træls",
+                    "Painted Scars"
+                ],
+                "Url": "https://www.alcatraz.be/en/"
+            },
+            {
+                "Date": "2027-08-08",
+                "Title": "Alcatraz 2027",
+                "Venue": "Alcatraz (Sportcampus Lange Munte)",
+                "Genres": [
+                    "heavy metal",
+                    "power metal",
+                    "death metal",
+                    "thrash metal",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Mercyful Fate",
+                    "Biohazard",
+                    "HammerFall",
+                    "Beast in Black",
+                    "Gloryhammer",
+                    "Pro-Pain",
+                    "Pretty Maids",
+                    "John Bush",
+                    "Bombus",
+                    "Asomvel",
+                    "Blood Fire Death",
+                    "Hypocrisy",
+                    "Possessed",
+                    "Benediction",
+                    "Atheist",
+                    "1914",
+                    "Gruesome",
+                    "Stormkeep",
+                    "Uncle Acid & the Deadbeats",
+                    "Gogol Bordello",
+                    "Heideroosjes",
+                    "Green Lung",
+                    "Walls of Jericho",
+                    "Integrity",
+                    "Hippotraktor",
+                    "Left to Suffer",
+                    "Mucky Pup",
+                    "Hirax",
+                    "Destructor",
+                    "Lawnmower Deth",
+                    "Struck a Nerve",
+                    "Speedslut",
+                    "Columbarium"
+                ],
+                "Url": "https://www.alcatraz.be/en/"
+            }
+        ]
+    },
+    {
         "City": "Leeuwarden",
         "Latitude": "53.2012",
         "Longitude": "5.7999",
@@ -5210,6 +6423,28 @@
                 ],
                 "Bands": [],
                 "Url": "https://muziekgieterij.nl/event/south-of-heaven-2027-sunday-2027-06-06/"
+            }
+        ]
+    },
+    {
+        "City": "Marchienne-au-Pont",
+        "Latitude": "50.4083",
+        "Longitude": "4.3931",
+        "Gigs": [
+            {
+                "Date": "2026-12-18",
+                "Title": "Hell is Here",
+                "Venue": "Rockerill",
+                "Genres": [
+                    "stoner metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Jezus Eik",
+                    "Pigz",
+                    "Lost Reverend & The Sinner Sons"
+                ],
+                "Url": "https://rockerill.com/agenda/hell-is-here-jezus-eik-pigz-lost-reverend-and-the-sinner-sons-52574/"
             }
         ]
     },
@@ -6164,6 +7399,116 @@
                     "t.b.a."
                 ],
                 "Url": "https://bildtsaigene.nl/de-bildtse-orkaan-saterdeg-12-desimber/"
+            }
+        ]
+    },
+    {
+        "City": "Sint-Niklaas",
+        "Latitude": "51.1650",
+        "Longitude": "4.1397",
+        "Gigs": [
+            {
+                "Date": "2026-11-27",
+                "Venue": "De Casino",
+                "Genres": [
+                    "heavy metal",
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Geoff Tate",
+                    "Inner Vitriol"
+                ],
+                "Url": "https://decasino.be/concert/geoff-tate/"
+            },
+            {
+                "Date": "2026-12-06",
+                "Venue": "De Casino",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Dominum",
+                    "Edge of Paradise"
+                ],
+                "Url": "https://decasino.be/concert/dominum/"
+            },
+            {
+                "Date": "2027-02-03",
+                "Venue": "De Casino",
+                "Genres": [
+                    "metalcore",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "Catch Your Breath",
+                    "Ocean Sleeper",
+                    "Elijah"
+                ],
+                "Url": "https://decasino.be/concert/catch-your-breath/"
+            },
+            {
+                "Date": "2027-02-04",
+                "Venue": "De Casino",
+                "Genres": [
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Charlotte Wessels & The Obsession"
+                ],
+                "Url": "https://decasino.be/concert/charlotte-wessels-the-obsession/"
+            },
+            {
+                "Date": "2027-02-10",
+                "Venue": "De Casino",
+                "Genres": [
+                    "metalcore",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "SiM",
+                    "The Haunt"
+                ],
+                "Url": "https://decasino.be/concert/sim/"
+            },
+            {
+                "Date": "2027-03-19",
+                "Title": "De Zwaarste Band",
+                "Venue": "De Casino",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "De Zwaarste Band"
+                ],
+                "Url": "https://decasino.be/concert/de-zwaarste-band/"
+            },
+            {
+                "Date": "2027-04-01",
+                "Venue": "De Casino",
+                "Genres": [
+                    "stoner metal",
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Villagers of Ioannina City"
+                ],
+                "Url": "https://decasino.be/concert/villagers-of-ioannina-city/"
+            },
+            {
+                "Date": "2027-05-04",
+                "Venue": "De Casino",
+                "Genres": [
+                    "deathcore",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Suicide Silence",
+                    "Fleshgod Apocalypse",
+                    "To The Grave",
+                    "The Gloom In The Corner"
+                ],
+                "Url": "https://decasino.be/concert/suicide-silence/"
             }
         ]
     },
