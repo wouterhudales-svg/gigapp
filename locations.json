@@ -1474,6 +1474,18 @@
                 "Url": "https://poppodiumphoenix.nl/event/last-man-standing-festival-2027/"
             },
             {
+                "Date": "2027-03-26",
+                "Venue": "Mezz",
+                "Genres": [
+                    "hardcore punk",
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Knives"
+                ],
+                "Url": "https://www.mezz.nl/programma/knives/"
+            },
+            {
                 "Date": "2027-05-01",
                 "Venue": "Sound Dog",
                 "Genres": [
@@ -5109,7 +5121,7 @@
                     "Schizophrenia",
                     "Cirith Gorgor"
                 ],
-                "Url": "https://xinix.nl/agenda-item/heilland-festival-2027/"
+                "Url": "https://xinix.nl/show/heilland-festival-w-schizophrenia-fenris-a-o-2027-05-01/"
             }
         ]
     },
@@ -7296,6 +7308,20 @@
                     "Melissa Bonny"
                 ],
                 "Url": "https://www.tivolivredenburg.nl/agenda/53384276/charlotte-wessels-27-02-2027/"
+            },
+            {
+                "Date": "2027-02-28",
+                "Venue": "dB's Studio",
+                "Genres": [
+                    "industrial metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Brighter Death Now",
+                    "Trepaneringsritualen",
+                    "Arcana"
+                ],
+                "Url": "https://dbstudio.nl/event/brighter-death-now-trepaneringsritualen-arcana/"
             },
             {
                 "Date": "2027-03-04",
