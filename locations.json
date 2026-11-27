@@ -790,6 +790,20 @@
                 "Url": "https://www.melkweg.nl/nl/agenda/blind-channel-06-03-2027/"
             },
             {
+                "Date": "2027-03-16",
+                "Title": "Anthrax",
+                "Venue": "AFAS Live",
+                "Genres": [
+                    "thrash metal"
+                ],
+                "Bands": [
+                    "Anthrax",
+                    "Kerry King",
+                    "Sacred Reich"
+                ],
+                "Url": "https://www.afaslive.nl/agenda/anthrax"
+            },
+            {
                 "Date": "2027-03-24",
                 "Venue": "Afas Live",
                 "Genres": [
