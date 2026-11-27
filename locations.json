@@ -181,7 +181,7 @@
                 ],
                 "Bands": [
                     "Sinners",
-                    "Awake e.a."
+                    "Awake"
                 ],
                 "Url": "https://www.setz.tv/agenda/"
             }
@@ -1598,7 +1598,7 @@
                     "symphonic metal"
                 ],
                 "Bands": [
-                    "Rhapsody Of Fire e.a."
+                    "Rhapsody Of Fire"
                 ],
                 "Url": "https://www.gigant.nl/concert/brainstorm-festival-2027-zaterdag/"
             }
@@ -1976,9 +1976,7 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [
-                    "t.b.a."
-                ],
+                "Bands": [],
                 "Url": "https://www.dezonbodegraven.nl/agenda/zonsverduistering-2nd-edition-6-feb-2027/?occurrence=2027-02-06"
             },
             {
@@ -2191,7 +2189,11 @@
                     "metalcore"
                 ],
                 "Bands": [
-                    "t.b.a."
+                    "Hvalross",
+                    "Lilith & the Noise Boys",
+                    "Bonebag Alley",
+                    "The Prince Albert",
+                    "Revölvo"
                 ],
                 "Url": "https://poppodiumphoenix.nl/event/last-man-standing-festival-2027/"
             },
@@ -2824,9 +2826,7 @@
                 "Genres": [
                     "heavy metal"
                 ],
-                "Bands": [
-                    "bands t.b.a."
-                ],
+                "Bands": [],
                 "Url": "https://koornbeurs.nl/agenda/"
             }
         ]
@@ -5513,7 +5513,10 @@
                 ],
                 "Bands": [
                     "Painkiller",
-                    "Harris e.a."
+                    "Harris",
+                    "The Ultimate Guns N' Roses",
+                    "High Voltage",
+                    "Present Danger"
                 ],
                 "Url": "https://metropool.nl/agenda/legends-of-rock-tribute-festival-28-mrt",
                 "Tribute": true
@@ -7501,7 +7504,8 @@
                 ],
                 "Bands": [
                     "Victims Of A System",
-                    "The Hunting Party e.a."
+                    "The Hunting Party",
+                    "Psychosocial"
                 ],
                 "Url": "https://p3.nl/agenda/",
                 "Tribute": true
@@ -7917,7 +7921,12 @@
                     "heavy metal"
                 ],
                 "Bands": [
-                    "t.b.a."
+                    "The Feetwarmers",
+                    "Wild Moments",
+                    "The Bunkin' Assberries",
+                    "Stiekum Toch",
+                    "White Smoke",
+                    "Rent A Band"
                 ],
                 "Url": "https://bildtsaigene.nl/de-bildtse-orkaan-saterdeg-12-desimber/"
             }
@@ -8546,7 +8555,8 @@
                 ],
                 "Bands": [
                     "Heinous",
-                    "Deathless e.a."
+                    "Deathless Void",
+                    "Haemalharia"
                 ],
                 "Url": "https://www.littledevil.nl/2027/29-1-2027-unholy-sabbath-festival-chapter-iv-day-1.html"
             },
@@ -8559,8 +8569,10 @@
                     "death metal"
                 ],
                 "Bands": [
-                    "Heinous",
-                    "Deathless e.a."
+                    "Hagzissa",
+                    "Goat Torment",
+                    "Ultima Necat",
+                    "Folteraar"
                 ],
                 "Url": "https://www.littledevil.nl/2027/30-1-2027-unholy-sabbath-festival-chapter-iv-day-2.html"
             },
