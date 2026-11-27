@@ -111,6 +111,51 @@
         ]
     },
     {
+        "City": "Aalst",
+        "Latitude": "50.9378",
+        "Longitude": "4.0409",
+        "Gigs": [
+            {
+                "Date": "2027-03-19",
+                "Title": "Oilsjt Omploft Fest",
+                "Venue": "Sint-Annazaal",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Excel",
+                    "Steve Ignorant",
+                    "Toxic Shock",
+                    "Colère",
+                    "Inhuman Nature",
+                    "Het Lood"
+                ],
+                "Url": "https://oilsjtomploft.be/"
+            },
+            {
+                "Date": "2027-03-20",
+                "Title": "Oilsjt Omploft Fest",
+                "Venue": "Sint-Annazaal",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Onslaught",
+                    "Perkele",
+                    "Suicidal Angels",
+                    "Stomper 98",
+                    "Luicidal",
+                    "Lion's Law",
+                    "Struck A Nerve",
+                    "Breakout",
+                    "Becoming AD",
+                    "Two Fingers Up"
+                ],
+                "Url": "https://oilsjtomploft.be/"
+            }
+        ]
+    },
+    {
         "City": "Aalten",
         "Latitude": "51.9258",
         "Longitude": "6.5809",
@@ -221,6 +266,34 @@
                     "A Night In Texas"
                 ],
                 "Url": "https://wateenherrie.nl/tickets/"
+            }
+        ]
+    },
+    {
+        "City": "Alleur",
+        "Latitude": "50.6622",
+        "Longitude": "5.5203",
+        "Gigs": [
+            {
+                "Date": "2027-03-06",
+                "Title": "Deathtoberfest 5.5 Spring Edition",
+                "Venue": "Centre culturel d'Ans",
+                "Genres": [
+                    "death metal"
+                ],
+                "Bands": [
+                    "Analepsy",
+                    "A Night In Texas",
+                    "Necrotted",
+                    "Kanine",
+                    "Ruins Of Perception",
+                    "Kheos",
+                    "Cocyte",
+                    "Down To Insanity",
+                    "Bursting",
+                    "Jal"
+                ],
+                "Url": "https://www.billetweb.fr/deathtoberfest-5-5-spring-edition"
             }
         ]
     },
@@ -897,6 +970,32 @@
         ]
     },
     {
+        "City": "Anthisnes",
+        "Latitude": "50.4833",
+        "Longitude": "5.5194",
+        "Gigs": [
+            {
+                "Date": "2027-02-27",
+                "Title": "Haunting The Castle VII",
+                "Venue": "Château de l'Avouerie",
+                "Genres": [
+                    "heavy metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "November's Doom",
+                    "Dusk",
+                    "Monolithe",
+                    "A Dream Of Poe",
+                    "Pilgrimage",
+                    "Endonomos",
+                    "Doomcult"
+                ],
+                "Url": "https://my.weezevent.com/haunting-the-castle-vii"
+            }
+        ]
+    },
+    {
         "City": "Antwerpen",
         "Latitude": "51.2213",
         "Longitude": "4.4051",
@@ -968,6 +1067,34 @@
                 "Url": "https://www.trixonline.be/nl/event/spare-kid"
             },
             {
+                "Date": "2026-12-05",
+                "Venue": "Kavka Zappa",
+                "Genres": [
+                    "deathcore",
+                    "death metal"
+                ],
+                "Bands": [
+                    "Mental Cruelty",
+                    "Ov Sulfur",
+                    "Extermination Dismemberment",
+                    "Sun Eater"
+                ],
+                "Url": "https://kavka.be/event/mental-cruelty-ov-sulfur-extermination-dismemberment-sun-eater/"
+            },
+            {
+                "Date": "2026-12-06",
+                "Venue": "Kavka Zappa",
+                "Genres": [
+                    "progressive metal",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Queensrÿche",
+                    "Ambush"
+                ],
+                "Url": "https://kavka.be/event/queensryche-ambush/"
+            },
+            {
                 "Date": "2026-12-09",
                 "Venue": "Trix",
                 "Genres": [
@@ -1034,6 +1161,20 @@
                 "Url": "https://www.trixonline.be/nl/event/wage-war-1"
             },
             {
+                "Date": "2027-01-23",
+                "Venue": "Kavka Zappa",
+                "Genres": [
+                    "deathcore",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Spite",
+                    "Emmure",
+                    "Distant"
+                ],
+                "Url": "https://kavka.be/event/spite-emmure-co-headline-tour/"
+            },
+            {
                 "Date": "2027-01-24",
                 "Venue": "Trix",
                 "Genres": [
@@ -1062,6 +1203,20 @@
                 "Url": "https://www.trixonline.be/nl/event/the-ocean"
             },
             {
+                "Date": "2027-01-30",
+                "Venue": "Kavka Zappa",
+                "Genres": [
+                    "death metal",
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Frozen Soul",
+                    "Darkest Hour",
+                    "Denial Of Life"
+                ],
+                "Url": "https://kavka.be/event/frozen-soul-darkest-hour-more/"
+            },
+            {
                 "Date": "2027-01-31",
                 "Venue": "Trix",
                 "Genres": [
@@ -1075,6 +1230,19 @@
                     "Unto Others"
                 ],
                 "Url": "https://www.trixonline.be/nl/event/amorphis-1"
+            },
+            {
+                "Date": "2027-02-02",
+                "Venue": "Kavka Zappa",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Pain Of Truth",
+                    "Big Boy",
+                    "Headbussa"
+                ],
+                "Url": "https://kavka.be/event/pain-of-truth-us-big-boy-us-headbussa-fr/"
             },
             {
                 "Date": "2027-02-07",
@@ -1147,6 +1315,18 @@
                     "Spirit Mother"
                 ],
                 "Url": "https://www.trixonline.be/nl/event/king-buffalo"
+            },
+            {
+                "Date": "2027-03-05",
+                "Venue": "Kavka Zappa",
+                "Genres": [
+                    "nu metal",
+                    "alternative metal"
+                ],
+                "Bands": [
+                    "Blind Channel"
+                ],
+                "Url": "https://kavka.be/event/blind-channel-2/"
             },
             {
                 "Date": "2027-03-06",
@@ -1286,6 +1466,23 @@
                 "Url": "https://www.trixonline.be/nl/event/quicksand"
             },
             {
+                "Date": "2027-05-15",
+                "Title": "Antwerp Metal Fest",
+                "Venue": "Fort van Merksem",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Destruction",
+                    "Benediction",
+                    "Kill Your Idols",
+                    "Bark",
+                    "Bokassa",
+                    "Bokkerijders"
+                ],
+                "Url": "https://antwerpmetalfest.be/lineup"
+            },
+            {
                 "Date": "2027-09-12",
                 "Venue": "Trix",
                 "Genres": [
@@ -1306,6 +1503,42 @@
                     "Epica"
                 ],
                 "Url": "https://www.ticketmaster.be/event/epica-the-symphonic-synergy-tour-tickets/154006901"
+            },
+            {
+                "Date": "2027-10-12",
+                "Venue": "JC Kavka",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Any Given Day"
+                ],
+                "Url": "https://kavka.be/event/any-given-day-2/"
+            },
+            {
+                "Date": "2027-10-23",
+                "Venue": "Lotto Arena",
+                "Genres": [
+                    "industrial metal"
+                ],
+                "Bands": [
+                    "Till Lindemann"
+                ],
+                "Url": "https://www.ticketmaster.be/event/till-lindemann-world-tour-2027-tickets/1371202887"
+            },
+            {
+                "Date": "2027-10-31",
+                "Venue": "Lotto Arena",
+                "Genres": [
+                    "power metal",
+                    "symphonic metal"
+                ],
+                "Bands": [
+                    "Powerwolf",
+                    "Apocalyptica",
+                    "Majestica"
+                ],
+                "Url": "https://www.ticketmaster.be/event/powerwolf-moral--madness-word-tour-tickets/190741245"
             }
         ]
     },
@@ -2016,6 +2249,21 @@
         "Longitude": "4.3517",
         "Gigs": [
             {
+                "Date": "2026-11-28",
+                "Venue": "ING Arena",
+                "Genres": [
+                    "alternative metal",
+                    "metalcore",
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Papa Roach",
+                    "Landmvrks",
+                    "Sleep Theory"
+                ],
+                "Url": "https://ing.arena.brussels/nl/show/papa-roach/"
+            },
+            {
                 "Date": "2026-12-03",
                 "Venue": "Botanique",
                 "Genres": [
@@ -2191,6 +2439,31 @@
                 "Url": "https://www.abconcerts.be/nl/agenda/uncle-acid-the-deadbeats/a10Qw00000FPW45IAH"
             },
             {
+                "Date": "2027-02-16",
+                "Venue": "Forest National",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Electric Callboy"
+                ],
+                "Url": "https://www.ticketmaster.be/event/electric-callboy-tickets/896065041"
+            },
+            {
+                "Date": "2027-02-20",
+                "Venue": "Forest National",
+                "Genres": [
+                    "metalcore",
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Bullet For My Valentine",
+                    "Pendulum",
+                    "Dark Divine"
+                ],
+                "Url": "https://www.ticketmaster.be/event/bullet-for-my-valentine-social-apocalypse-2027-tickets/350392127"
+            },
+            {
                 "Date": "2027-03-01",
                 "Venue": "Ancienne Belgique",
                 "Genres": [
@@ -2224,6 +2497,17 @@
                     "Cult Of Luna"
                 ],
                 "Url": "https://www.abconcerts.be/nl/agenda/cult-of-luna/a10Qw00000HH0g9IAD"
+            },
+            {
+                "Date": "2027-03-15",
+                "Venue": "Forest National",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "Ice Nine Kills"
+                ],
+                "Url": "https://www.ticketmaster.be/event/ice-nine-kills-2027-march-in-silence-tour-tickets/510729362"
             },
             {
                 "Date": "2027-03-17",
@@ -2393,6 +2677,17 @@
                     "Kanonenfieber"
                 ],
                 "Url": "https://www.abconcerts.be/nl/agenda/kanonenfieber/a10Qw00000FITR7IAP"
+            },
+            {
+                "Date": "2027-12-10",
+                "Venue": "Forest National",
+                "Genres": [
+                    "folk metal"
+                ],
+                "Bands": [
+                    "Heilung"
+                ],
+                "Url": "https://www.ticketmaster.be/event/heilung-eld-geit-fardha-europe-tour-tickets/1525332242"
             }
         ]
     },
@@ -2812,6 +3107,41 @@
         "Latitude": "52.9583",
         "Longitude": "4.7683",
         "Gigs": []
+    },
+    {
+        "City": "Dendermonde",
+        "Latitude": "50.9971",
+        "Longitude": "4.1011",
+        "Gigs": [
+            {
+                "Date": "2026-11-29",
+                "Title": "Sunday Hardcore",
+                "Venue": "Bastion V",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Mindwar",
+                    "Listed",
+                    "State Power",
+                    "Highest Order"
+                ],
+                "Url": "https://bastionv.be/event/X4p/concert__sunday_hardcore_ism_vzw_rock__n_load_concerts___vzw_hambiance"
+            },
+            {
+                "Date": "2026-12-13",
+                "Venue": "Bastion V",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Liar",
+                    "Game Changer",
+                    "Straight To The Bar"
+                ],
+                "Url": "https://bastionv.be/event/0x3/concerten__liar_30th_anniversary_show_ism_rocknload___hambiance_vzw"
+            }
+        ]
     },
     {
         "City": "Dessel",
@@ -6207,6 +6537,57 @@
         ]
     },
     {
+        "City": "Leuven",
+        "Latitude": "50.8798",
+        "Longitude": "4.7005",
+        "Gigs": [
+            {
+                "Date": "2027-02-12",
+                "Venue": "Het Depot",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Fleddy Melculy",
+                    "Highest Order"
+                ],
+                "Url": "https://www.hetdepot.be/concert/2027/fleddy-melculy"
+            },
+            {
+                "Date": "2027-05-06",
+                "Venue": "Het Depot",
+                "Genres": [
+                    "sludge metal"
+                ],
+                "Bands": [
+                    "It It Anita",
+                    "Ronker"
+                ],
+                "Url": "https://www.hetdepot.be/concert/2027/it-it-anita-ronker"
+            }
+        ]
+    },
+    {
+        "City": "Luik",
+        "Latitude": "50.6326",
+        "Longitude": "5.5797",
+        "Gigs": [
+            {
+                "Date": "2026-12-19",
+                "Venue": "La Zone",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Crouch",
+                    "Daggers",
+                    "Hessian"
+                ],
+                "Url": "https://www.lazone.be/crouch-gand-daggers-liege-hessian-gand/"
+            }
+        ]
+    },
+    {
         "City": "Luttenberg",
         "Latitude": "52.3992",
         "Longitude": "6.3698",
@@ -6534,6 +6915,128 @@
                 ],
                 "Url": "https://despotmiddelburg.nl/programma/forever-nu-chop-suey-slip-not-uk-blimp-trizkitz-lp-tribute-uk",
                 "Tribute": true
+            }
+        ]
+    },
+    {
+        "City": "Namen",
+        "Latitude": "50.4674",
+        "Longitude": "4.8720",
+        "Gigs": [
+            {
+                "Date": "2026-11-27",
+                "Title": "Hommage à Mathieu Vanbel",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Wolves Scream",
+                    "Fights And Fires",
+                    "Young Enough",
+                    "la faiblesse"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/hommage-a-mathieu-vanbel"
+            },
+            {
+                "Date": "2026-11-28",
+                "Title": "TRUSTNO1 Presents",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Jungle Underground",
+                    "Demassify",
+                    "Break Your Neck",
+                    "Through The Void"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/trustno1-presents"
+            },
+            {
+                "Date": "2026-12-04",
+                "Title": "Black Khaos Assault",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "death metal",
+                    "black metal"
+                ],
+                "Bands": [
+                    "Morbid",
+                    "Slaughter Messiah",
+                    "Malefyr",
+                    "Shewolff"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/black-khaos-assault-4"
+            },
+            {
+                "Date": "2027-02-12",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "sludge metal",
+                    "stoner metal"
+                ],
+                "Bands": [
+                    "Modder",
+                    "Aufhebung",
+                    "Massive Therapy"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/heavy-fuzz-presents-5"
+            },
+            {
+                "Date": "2027-03-06",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "High Spirits",
+                    "Savage Master",
+                    "Scavenger"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/ashes-of-m.-33"
+            },
+            {
+                "Date": "2027-03-12",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Fleddy Melculy",
+                    "Slovenians",
+                    "Deathtura"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/aem-project-presents"
+            },
+            {
+                "Date": "2027-03-26",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Thulcandra",
+                    "Yoth Iria",
+                    "Vorga"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/ashes-of-m.-32"
+            },
+            {
+                "Date": "2027-03-29",
+                "Title": "Black Khaos Assault 2027.4",
+                "Venue": "Belvédère",
+                "Genres": [
+                    "black metal"
+                ],
+                "Bands": [
+                    "Nordjevel",
+                    "Svarttjern",
+                    "Malphas",
+                    "Univar"
+                ],
+                "Url": "https://www.belvedere-namur.be/agenda/black-khaos-assault-2027.4"
             }
         ]
     },
@@ -6946,6 +7449,24 @@
                 ],
                 "Url": "https://www.groene-engel.nl/programma/ozzyfied-in-memory-of-ozzy-osbourne-black-sabbath/",
                 "Tribute": true
+            }
+        ]
+    },
+    {
+        "City": "Oudenaarde",
+        "Latitude": "50.8515",
+        "Longitude": "3.6089",
+        "Gigs": [
+            {
+                "Date": "2027-05-15",
+                "Venue": "De Qubus",
+                "Genres": [
+                    "metalcore"
+                ],
+                "Bands": [
+                    "As I Lay Dying"
+                ],
+                "Url": "https://www.alcatraz.be/nl/clubshows/as-i-lay-dying/15-05-2027/de-qubus-oudenaarde/"
             }
         ]
     },
