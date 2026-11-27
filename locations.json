@@ -704,6 +704,19 @@
                 "Url": "https://www.epica.nl/tour/"
             },
             {
+                "Date": "2027-02-02",
+                "Venue": "Melkweg",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Basement",
+                    "Fleshwater",
+                    "Béton Armé"
+                ],
+                "Url": "https://www.melkweg.nl/nl/agenda/basement-02-02-2027/"
+            },
+            {
                 "Date": "2027-02-05",
                 "Venue": "Melkweg",
                 "Genres": [
@@ -1158,6 +1171,27 @@
         "Latitude": "52.9928",
         "Longitude": "6.5643",
         "Gigs": []
+    },
+    {
+        "City": "Baarlo",
+        "Latitude": "51.3317",
+        "Longitude": "6.0961",
+        "Gigs": [
+            {
+                "Date": "2027-10-01",
+                "Title": "ProgPower Europe 2027",
+                "Venue": "Sjiwa",
+                "Genres": [
+                    "progressive metal"
+                ],
+                "Bands": [
+                    "Benthos",
+                    "Temic",
+                    "ToDoMal"
+                ],
+                "Url": "https://www.progpowereurope.com/"
+            }
+        ]
     },
     {
         "City": "Bad Nieuweschans",
@@ -1969,6 +2003,17 @@
                 "Url": "https://www.burgerweeshuis.nl/events/the-scratch"
             },
             {
+                "Date": "2026-12-11",
+                "Venue": "Burger Weeshuis",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "John Coffey"
+                ],
+                "Url": "https://www.burgerweeshuis.nl/events/john-coffey"
+            },
+            {
                 "Date": "2026-12-12",
                 "Title": "Oorsuis!",
                 "Venue": "Walhalla",
@@ -2157,6 +2202,22 @@
                     "LP Tribute UK"
                 ],
                 "Url": "https://bibelot.net/programma/forever-nu-chop-suey-slipnot-blimp-bizkit-lp-tribute-uk/",
+                "Tribute": true
+            },
+            {
+                "Date": "2027-04-28",
+                "Title": "Forever Nu",
+                "Venue": "Bibelot",
+                "Genres": [
+                    "nu metal"
+                ],
+                "Bands": [
+                    "Chop Suey",
+                    "SlipNot",
+                    "Blimp Bizkit",
+                    "LP Tribute UK"
+                ],
+                "Url": "https://zwaremetalen.com/concertagenda",
                 "Tribute": true
             }
         ]
@@ -2539,6 +2600,17 @@
                 "Url": "https://www.cafethejack.nl/tickets"
             },
             {
+                "Date": "2027-02-04",
+                "Venue": "The Jack",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Creatures"
+                ],
+                "Url": "https://zwaremetalen.com/concertagenda"
+            },
+            {
                 "Date": "2027-02-23",
                 "Title": "Thy Art Is Murder",
                 "Venue": "Dynamo",
@@ -2694,6 +2766,33 @@
                     "Urne"
                 ],
                 "Url": "https://www.effenaar.nl/agenda/nevermore/"
+            },
+            {
+                "Date": "2027-08-13",
+                "Title": "Dynamo Metalfest 2027",
+                "Venue": "IJssportcentrum",
+                "Genres": [
+                    "heavy metal",
+                    "thrash metal",
+                    "death metal",
+                    "metalcore",
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "Architects",
+                    "Mercyful Fate",
+                    "Biohazard",
+                    "Cavalera",
+                    "Hypocrisy",
+                    "John Bush Plays Anthrax",
+                    "Madball",
+                    "I Am Morbid",
+                    "Corrosion of Conformity",
+                    "Carnifex",
+                    "Sylosis",
+                    "Shadow of Intent"
+                ],
+                "Url": "https://www.dynamo-metalfest.nl/line-up/"
             },
             {
                 "Date": "2027-09-10",
@@ -3201,6 +3300,18 @@
                 "Url": "https://www.vera-groningen.nl/events/the-scratch-2026/"
             },
             {
+                "Date": "2026-12-12",
+                "Venue": "Vera",
+                "Genres": [
+                    "hardcore punk"
+                ],
+                "Bands": [
+                    "John Coffey",
+                    "Bot Mes"
+                ],
+                "Url": "https://www.vera-groningen.nl/events/john-coffey-2026/?lang=nl"
+            },
+            {
                 "Date": "2026-12-17",
                 "Venue": "Vera",
                 "Genres": [
@@ -3224,6 +3335,17 @@
                     "A Liquid Landscape"
                 ],
                 "Url": "https://www.vera-groningen.nl/events/hackberry-perfect-storm-a-liquid-landscape/?lang=nl"
+            },
+            {
+                "Date": "2027-01-13",
+                "Venue": "Metalcafé De Witte Wolf",
+                "Genres": [
+                    "heavy metal"
+                ],
+                "Bands": [
+                    "Wolfsonic"
+                ],
+                "Url": "https://zwaremetalen.com/concertagenda"
             },
             {
                 "Date": "2027-01-24",
@@ -3398,6 +3520,22 @@
                     "Peace Of Mind"
                 ],
                 "Url": "https://patronaat.nl/event/terror-02-12-26/"
+            },
+            {
+                "Date": "2026-12-12",
+                "Title": "No Tomorrow",
+                "Venue": "De Volharding",
+                "Genres": [
+                    "doom metal"
+                ],
+                "Bands": [
+                    "Swerve",
+                    "To End It All",
+                    "A Plague of Lighthouse Keepers",
+                    "Schemer Schemer Nihil Nihil",
+                    "Minor Crime"
+                ],
+                "Url": "https://a-plague-of-lighthouse-keepers.weticket.io/no-tomorrow-1"
             },
             {
                 "Date": "2027-01-22",
